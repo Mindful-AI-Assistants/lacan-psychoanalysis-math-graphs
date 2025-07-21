@@ -22,7 +22,9 @@ This repository offers a detailed exploration of Lacan's psychoanalytic theory w
 
 Ideal for researchers, psychoanalysts, and students interested in the intersection of psychoanalysis, linguistics, and mathematical formalization.
 
-## 1. Lacanian Formalization: Graphs and Mathemes
+<br>
+
+## [1](). Lacanian Formalization: Graphs and Mathemes
 
 
 

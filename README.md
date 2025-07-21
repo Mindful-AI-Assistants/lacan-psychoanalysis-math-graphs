@@ -70,6 +70,31 @@ A recent study ([Heins et al., 2025](https://doi.org/10.3389/fpsyg.2025.1574650)
 | `/references/` | Papers and psychoanalytic bibliography |
 
 
+<br>
+
+## Installation
+
+1. Make sure you have Python 3.8+ and Jupyter Lab/Notebook installed.
+2. Install required packages:
+
+```bash
+pip install matplotlib networkx sympy jupyterlab
+```
+
+<br>
+
+
+3. Launch Jupyter and open the notebooks.
+
+## Usage and Examples
+
+This repository enables visualization and symbolic analysis of **Lacan’s Graph of Desire**:
+
+
+
+
+
+
 
 
 

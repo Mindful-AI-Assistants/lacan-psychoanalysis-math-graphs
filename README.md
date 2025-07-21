@@ -152,36 +152,6 @@ Submit issues or pull requests via GitHub.
 
 - Interested in Python notebooks simulating these dynamics or advanced Humanistic AI models? Just ask!
 
--->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Resources and References
 
@@ -209,6 +179,8 @@ Submit issues or pull requests via GitHub.
 
 - **PubMed Central (PMC):**  
   - [PMC12180394](https://pmc.ncbi.nlm.nih.gov/articles/PMC12180394/)
+
+-->
 
 
 <br>

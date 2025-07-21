@@ -2,6 +2,8 @@
 
 ## <p align="center"> 𝚿 [Lacan’s Graph of Desire — Mathematical Formalization \& Computational Psychoanalysis]()
 
+Jacques Lacan’s **Graph of Desire** (French: *graphe du désir*) is a central conceptual tool in his psychoanalytic theory. It is a **topological model** that graphically represents the intricate structure of human desire and subjectivity as mediated by language and the Symbolic Other . Developed across his seminars, notably in *Les formations de l'inconscient* (1957-58) and *The Subversion of the Subject and the Dialectic of Desire* (1960), the graph illustrates the "logical moments" of the speaking subject's formation, rather than a chronological development .
+
 
 <br>
 
@@ -275,9 +277,44 @@ The Gödel sentence  $G_F\$ is constructed to indirectly refer to itself via ari
 
 ## [Lacan’s Graph of Desire: A Comprehensive Visual Guide]()
 
-Jacques Lacan’s **Graph of Desire** (French: *graphe du désir*) is a central conceptual tool in his psychoanalytic theory. It is a **topological model** that graphically represents the intricate structure of human desire and subjectivity as mediated by language and the Symbolic Other . Developed across his seminars, notably in *Les formations de l'inconscient* (1957-58) and *The Subversion of the Subject and the Dialectic of Desire* (1960), the graph illustrates the "logical moments" of the speaking subject's formation, rather than a chronological development .
+<br>
 
-Lacan constructs the complete graph in **four stages**, each building in complexity to illustrate the full structure. These stages are pedagogical devices, as the graph always exists as a whole.
+Jacques Lacan's **Graph of Desire** (or Graph of the Analytic Act) is a formal, schematic diagram he developed to represent the complex structures of subjectivity, desire, and the unconscious in psychoanalysis. It elaborates how desire functions in relation to the subject and language, revealing the dynamics of the split or barred subject (*$*) as situated within the Symbolic order.
+
+<br>
+
+Key points about Lacan's Graph of Desire include:
+
+- It is a **"flattened" representation** of the crossing between two pathways: the **signifying chain** (sequence of linguistic signs with meaning) and the **vector of desire** (the will or volition of the subject, expressed metaphorically and timelessly). The graph thus captures how desire operates amidst language and symbolic limitation[3].
+
+- The barred subject (*$*) is central: it designates the split or conflicted human subject formed in the process of individuation beginning in infancy through the loss of symbiotic relations (with the mother), mediated by language. Desire is thus marked by a fundamental **lack** or absence never fully satisfied, only substituted by other objects[3].
+
+- The points where the vector of desire and the signifying chain cross represent moments of **Freudian double inscription**, where conscious and unconscious meanings coincide and constrain each other, reflecting the structure of psychoanalytic experience[3].
+
+- Lacan used several versions or steps of these graphs, beginning from a basic "elementary cell," progressively elaborating the formation of the ego ideal and the subject's positioning relative to the Other and the Law (notably, the “Name-of-the-Father” as symbolic prohibition)[1][4].
+
+- The graph illustrates how **desire is always the desire of the Other**, meaning the subject seeks desire validated or recognized by the symbolic Other—the social or linguistic Otherness that shapes subjectivity[6].
+
+- Lacan describes the subject not as a fixed, autonomous individual but as constituted through language and desire, with the ego as an object rather than true subjectivity[2].
+
+In sum, Lacan’s Graph of Desire is a conceptual and formal tool to map the relations between language, desire, the split subject, and the unconscious in psychoanalytic theory. It is often studied to understand how desire eludes fulfillment while structuring human subjectivity within symbolic and imaginary dimensions.
+
+<br>
+
+| Aspect                      | Description                                                                                          |
+|-----------------------------|--------------------------------------------------------------------------------------------------|
+| Signifying chain (S → S')   | Linguistic progression from sign to meaning with duration                                         |
+| Vector of desire            | Metaphorical, atemporal representation of the subject’s volition and desire (*$*)                 |
+| Split subject (*$*)          | Barred subject formed by loss and language mediation, fundamentally divided and lacking          |
+| Crossings                   | Points of Freudian double inscription—interaction of conscious and unconscious meaning             |
+| Ego ideal and Law           | Formation of ego ideal and imposition of symbolic Law (e.g., Name-of-the-Father) outline subject’s position |
+| Desire                     | Always the desire of the Other; subject’s desire mediated by symbolic Other                        |
+
+
+<br>
+
+
+### [Lacan constructs the complete graph in **four stages**](), each building in complexity to illustrate the full structure. These stages are pedagogical devices, as the graph always exists as a whole.
 
 <br>
 

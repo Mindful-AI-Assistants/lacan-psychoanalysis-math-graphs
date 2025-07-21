@@ -4,8 +4,13 @@
 
 Jacques Lacan’s **Graph of Desire** (French: *graphe du désir*) is a central conceptual tool in his psychoanalytic theory. It is a **topological model** that graphically represents the intricate structure of human desire and subjectivity as mediated by language and the Symbolic Other . Developed across his seminars, notably in *Les formations de l'inconscient* (1957-58) and *The Subversion of the Subject and the Dialectic of Desire* (1960), the graph illustrates the "logical moments" of the speaking subject's formation, rather than a chronological development .
 
+<br><br>
 
-<br>
+
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-Mindful%20AI%20%20Assistants-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+
+<br><br>
+
 
 https://github.com/user-attachments/assets/7380e439-6547-400b-8ef1-d03d2f9bf2e0
 

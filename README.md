@@ -277,7 +277,15 @@ $$
 
 ### [4](). Note on the syntactic construction of the Gödel sentence
 
-The Gödel sentence \ $G_F\$ is constructed to indirectly refer to itself via arithmetic on natural numbers, employing a method of arithmetization of syntax (Gödel numbering), which enables encoding meta-mathematical statements inside the formal system itself.
+The Gödel sentence  $G_F\$ is constructed to indirectly refer to itself via arithmetic on natural numbers, employing a method of arithmetization of syntax (Gödel numbering), which enables encoding meta-mathematical statements inside the formal system itself.
+
+
+<br>
+
+
+
+
+
 
 
 

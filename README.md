@@ -271,6 +271,18 @@ $$
 \underbrace{F}_{\text{Symbolic}} \quad \Longrightarrow \quad \text{incompleteness} \quad \Longleftrightarrow \quad \underbrace{G_F}_{\text{Real}}
 $$
 
+$$
+\underbrace{F}_{\text{Symbolic}} \quad \Rightarrow \quad \text{incompleteness} \quad \Leftrightarrow \quad \underbrace{G_F}_{\text{Real}}
+$$
+
+
+$$
+\[
+\underbrace{F}_{\text{Symbolic}} \quad \Rightarrow \quad \text{incompleteness} \quad \Leftrightarrow \quad \underbrace{G_F}_{\text{Real}}
+\]
+$$
+
+
 
 <br>
 

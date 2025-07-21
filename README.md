@@ -53,8 +53,8 @@ https://plato.stanford.edu/entries/lacan/
 
 <br>
 
-- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
-- [Pedro 🛰️  Vyctor](https://github.com/ppvyctor)
+- [Fabiana ⚡️  Campanari](https://github.com/FabianaCampanari)
+
 
 
 <br>

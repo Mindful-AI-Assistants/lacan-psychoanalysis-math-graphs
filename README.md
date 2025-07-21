@@ -184,7 +184,13 @@ print(f"Phi function: {Phi(x)}")
 print(f"Not Phi: {Not(Phi(x))}")
 ```
 
+<br>
 
+## [Limits of Formalization: Gödel’s Incompleteness Theorems and Lacanian Theory]()
+
+This repository not only formalizes Lacan’s psychoanalytic theory, but also acknowledges the **limits of all formal systems** as demonstrated by **Gödel’s incompleteness theorems**. No axiomatic model—whether in mathematics, logic, or psychoanalysis—can be both complete and consistent. There will always be aspects of reality (the “real” in Lacanian terms) that escape symbolic capture.
+
+This parallel reinforces Lacan's insight that the unconscious and human subjectivity remain fundamentally open and incomplete, echoing the **lack in the Other** and the inherent boundaries of any modeling approach—critical for anyone working in Humanistic AI.
 
 
 

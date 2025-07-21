@@ -206,9 +206,31 @@ Gödel proved that **no sufficiently powerful formal system** (such as basic ari
 
 Mathematically, given a consistent and recursively enumerable formal system $F\$ that includes arithmetic, there is a statement $G_F\$ (called the Gödel sentence) such that:
 
+<br>
 
+$$
+F \not\vdash G_F \quad \text{and} \quad F \not\vdash \neg G_F
+$$
 
+<br>
 
+That is, neither $G_F\$ nor its negation can be proven in $F\$, rendering $F\$ incomplete.
+
+<br>
+
+- **Second Incompleteness Theorem**: The system $F\$ cannot prove its own consistency, formally expressed as:
+
+<br>
+
+$$
+F \not\vdash \mathrm{Consis}(F)
+$$
+
+<br>
+
+where $\mathrm{Consis}(F)$ is a formula within the system expressing the “non-contradiction” of$F\$.
+
+<br>
 
  
 

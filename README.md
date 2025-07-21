@@ -89,9 +89,26 @@ pip install matplotlib networkx sympy jupyterlab
 
 This repository enables visualization and symbolic analysis of **Lacan’s Graph of Desire**:
 
+<br>
+
+## [Usage and Examples]()
+
+This repository enables visualization and symbolic analysis of **Lacan’s Graph of Desire**:
 
 
+- **Graph visualization**
+Use NetworkX and Matplotlib to plot nodes (barred subject, the Other, etc.) and edges (signifying chain, vector of desire).
 
+- **Horseshoe curve**
+Plot the iconic *vector of desire* intersecting the signifying chain using Python.
+
+- **Mathemes with SymPy**
+Generate and print symbolic formulas, e.g., Lacan's sexuation mathemes:
+    - Masculine:  ∀x ¬Φ(x)
+    - Feminine:  ¬∃x ¬Φ(x)
+
+- **Computational psychoanalysis**
+See notebooks simulating interactions inspired by the Free Energy Principle and Lacanian dynamics.
 
 
 

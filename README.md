@@ -113,6 +113,7 @@ Plot the iconic *vector of desire* intersecting the signifying chain using Pytho
 
 - [**Mathemes with SymPy**]()
 Generate and print symbolic formulas, e.g., Lacan's sexuation mathemes:
+   
     - Masculine:  ∀x ¬Φ(x)
     - Feminine:  ¬∃x ¬Φ(x)
 
@@ -198,7 +199,7 @@ Below, I develop this parallel including the most relevant mathematical formaliz
 
 <br>
 
-### 1. Gödel and the limitations of formalization
+### [1](). Gödel and the limitations of formalization
 
 Gödel proved that **no sufficiently powerful formal system** (such as basic arithmetic) can be both *complete* and *consistent*.
 

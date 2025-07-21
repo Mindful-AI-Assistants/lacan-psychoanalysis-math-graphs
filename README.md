@@ -1,4 +1,7 @@
-# lacan-psychoanalysis-math-graphs
+
+<br>
+
+# Lacan, Psychoanalysis, and the Body — Graphs, Math Notations Formulas, and the Expression of the Unconscious
 
 
 

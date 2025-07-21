@@ -43,7 +43,7 @@ This comprehensive document explores Jacques Lacan’s mathematical formalizatio
 
 
 
-## [Referenves]():
+## [References]():
 
 [1.]()  Evans, D. (2022). Lacan. In E. N. Zalta (Ed.), The Stanford Encyclopedia of Philosophy (Fall 2022 Edition). Stanford University. https://plato.stanford.edu/entries/lacan/
 

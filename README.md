@@ -228,7 +228,7 @@ $$
 
 <br>
 
-[where $\mathrm{Consis}(F)$ is a formula within the system expressing the “non-contradiction” of$F\$.]()
+[Where](): $\mathrm{Consis}(F)$ is a formula within the system expressing the “non-contradiction” of $F\$.
 
 <br>
 

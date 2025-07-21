@@ -292,7 +292,7 @@ The **double intersection** of these two lines illustrates the **nature of retro
 
 <br>
 
-**Visual Representation of the Elementary Cell:**
+⚤ [**Visual Representation of the Elementary Cell:**]()
 
 <br>
 

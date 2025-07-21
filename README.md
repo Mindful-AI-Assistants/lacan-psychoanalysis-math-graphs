@@ -85,13 +85,8 @@ This formalization reveals:
 - Simulation scripts demonstrating basic dynamics inspired by Lacanian theory and FEP  
 - Potential to extend with interactive widgets or agent-based models for deeper research
 
-## Resources and References
 
-- **Heins, R., et al. (2025).** *Formalizing Lacanian psychoanalysis through the free energy principle: computational simulations of desire, the Borromean knot, and the Other.* Frontiers in Psychology. [DOI:10.3389/fpsyg.2025.1574650](https://doi.org/10.3389/fpsyg.2025.1574650)  
-- **Romanowicz, T., & Moncayo, J. (2015).** *Going beyond Castration in the Graph of Desire.* The Letter, Issue 58.  
-- **Stanford Encyclopedia of Philosophy:** [Lacan](https://plato.stanford.edu/entries/lacan/)  
-- **TikZ Lacanian mathemes repo:** [gjoncas / Lacan-Mathemes](https://github.com/gjoncas/Lacan-Mathemes)  
-- **Seminar Videos:** Search Dr. Dan Collins’ Lacan lectures on YouTube  
+
 
 ## Contributing
 
@@ -144,21 +139,32 @@ This README ensures that your repository provides both a theoretical and practic
 
 
 
+## Resources and References
 
-## [References]():
 
-[1]().  Evans, D. (2022). Lacan. In E. N. Zalta (Ed.), The Stanford Encyclopedia of Philosophy (Fall 2022 Edition). Stanford University. https://plato.stanford.edu/entries/lacan/
+- **Heins, R., et al. (2025).** *Formalizing Lacanian psychoanalysis through the free energy principle: computational simulations of desire, the Borromean knot, and the Other.* Frontiers in Psychology. [DOI:10.3389/fpsyg.2025.1574650](https://doi.org/10.3389/fpsyg.2025.1574650)  
+  - [Texto completo](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1574650/full)  
+  - [Formato XML](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1574650/xml)  
 
-[2](). Burham, C. (2022). Lacan and the Algorithm. *CLCWeb: Comparative Literature and Culture*, 24(4), Article 2. Special Issue: Platform Psychoanalysis. Edited by Matthew Flisfeder. https://doi.org/10.7771/1481-4374.4044
+- **Romanowicz, T., & Moncayo, J. (2015).** *Going beyond Castration in the Graph of Desire.* *The Letter*, Issue 58.  
 
-[3](). https://arxiv.org/pdf/2309.06707.pdf
+- **Evans, D. (2022).** *Lacan.* In E. N. Zalta (Ed.), *The Stanford Encyclopedia of Philosophy* (Fall 2022 Edition). Stanford University.  
+  - [Entrada completa](https://plato.stanford.edu/entries/lacan/)
 
-[4](). https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1574650/full
+- **Burham, C. (2022).** *Lacan and the Algorithm.* *CLCWeb: Comparative Literature and Culture*, 24(4), Article 2.  
+  - [DOI:10.7771/1481-4374.4044](https://doi.org/10.7771/1481-4374.4044)
 
-[5](). https://pmc.ncbi.nlm.nih.gov/articles/PMC12180394/
+- **Stanford Encyclopedia of Philosophy:**  
+  - [Entrada sobre Lacan](https://plato.stanford.edu/entries/lacan/)
 
-[6](). https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1574650/xml
+- **Repositório de matemas lacanianos em TikZ:**  
+  - [gjoncas / Lacan-Mathemes (GitHub)](https://github.com/gjoncas/Lacan-Mathemes)
 
+- **Pré-publicação (arXiv):**  
+  - [PDF: arXiv:2309.06707](https://arxiv.org/pdf/2309.06707.pdf)
+
+- **PubMed Central (PMC):**  
+  - [PMC12180394](https://pmc.ncbi.nlm.nih.gov/articles/PMC12180394/)
 
 
 <br><br>

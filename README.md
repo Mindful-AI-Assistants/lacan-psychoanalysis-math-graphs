@@ -223,7 +223,8 @@ $$
 
 ### - [**Second Incompleteness Theorem**](): The system $F\$ cannot prove its own consistency, formally expressed as:
 
-<br><br>
+
+<br><br><br>
 
 $$
 F \not\vdash \mathrm{Consis}(F)

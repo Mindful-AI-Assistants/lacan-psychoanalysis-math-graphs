@@ -99,6 +99,7 @@ This formalization reveals:
 - Potential to extend with interactive widgets or agent-based models for deeper research
 
 
+<br><br>
 
 
 ## Contributing
@@ -111,17 +112,14 @@ Contributions welcome from psychoanalysts, AI researchers, linguists, and data s
 
 Submit issues or pull requests via GitHub.
 
-## License
 
-MIT License — see [LICENSE](LICENSE) file.
-
-## Contact and Support
+##  Support
 
 - For notebook files, detailed tutorials, or enhanced visualizations, please reach out.  
 
 - Interested in Python notebooks simulating these dynamics or advanced Humanistic AI models? Just ask!
 
-This README ensures that your repository provides both a theoretical and practical foundation for diverse audiences spanning psychoanalysis, linguistics, and AI research—especially Humanistic AI practitioners seeking to incorporate unconscious and subjectivity frameworks into computational models.
+
 
 
 

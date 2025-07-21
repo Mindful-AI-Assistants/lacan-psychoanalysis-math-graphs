@@ -259,7 +259,7 @@ We can express analogously the paradox of subject and formal system as follows:
 
 - Let $F\$ be a formal system representing the Symbolic (language, culture, law).
 
-- The sentence $G_F\$, true but unprovable in $F\$, corresponds to the Lacanian Real — that which is always beyond the reach of the symbolic, not captured by language.
+- The sentence $G_F\$, true but unprovable in $F\$, corresponds to the Lacanian Real;  that which is always beyond the reach of the symbolic, not captured by language.
 
 
 <br>

@@ -5,9 +5,6 @@ Lacan’s Graph of Desire — Mathematical Formalization and the Expression of t
 ## <p align="center"> 𝚿 Lacan’s Graph of Desire — Mathematical Formalization and the Expression of the Unconscious in Psychoanalytic Theory
 
 
-Lacan’s Graph of Desire — Mathematical Formalization and the Expression of the Unconscious in Psychoanalytic Theory"
-https://plato.stanford.edu/entries/lacan/
-
 <br>
 
 ## Overview
@@ -154,9 +151,18 @@ This README ensures that your repository provides both a theoretical and practic
 
 [2](). Burham, C. (2022). Lacan and the Algorithm. *CLCWeb: Comparative Literature and Culture*, 24(4), Article 2. Special Issue: Platform Psychoanalysis. Edited by Matthew Flisfeder. https://doi.org/10.7771/1481-4374.4044
 
+[3](). https://arxiv.org/pdf/2309.06707.pdf
+
+[4](). https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1574650/full
+
+[5](). https://pmc.ncbi.nlm.nih.gov/articles/PMC12180394/
+
+[6](). https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1574650/xml
 
 
-<br>
+
+<br><br>
+
 
 
 ## [Contributors]() 

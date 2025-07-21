@@ -123,7 +123,55 @@ See notebooks simulating interactions inspired by the Free Energy Principle and 
 <br>
 
 
+```python
+import matplotlib.pyplot as plt
+import networkx as nx
+import numpy as np
+from sympy import symbols, ForAll, Not, Exists
 
+# 1. Graph construction
+G = nx.DiGraph()
+positions = {
+    "$S$": (0, 0), "$S'$": (4, 0), "$A$": (1.8, 0),
+    "$d$": (2.7, 0), "$\\$$": (2.25, 1.5), "$s(A)$": (2.1, 0.9)
+}
+for node in positions:
+    G.add_node(node)
+G.add_edge("$S$", "$S'$")
+G.add_edge("$\\$$", "$d$")
+G.add_edge("$\\$$", "$A$")
+plt.figure(figsize=(8,5))
+nx.draw_networkx_nodes(G, positions, node_size=700, node_color='lightblue')
+nx.draw_networkx_labels(G, positions, font_size=12)
+nx.draw_networkx_edges(G, positions, edgelist=[("$S$", "$S'$")], arrowstyle='-|>', arrowsize=20, edge_color='blue')
+nx.draw_networkx_edges(G, positions, edgelist=[("$\\$$", "$d$"), ("$\\$$", "$A$")], style='dashed', edge_color='red', arrowstyle='-|>', arrowsize=15)
+plt.axis('off')
+plt.title('Simplified Lacan\'s Graph of Desire')
+plt.show()
+
+# 2. Curve of desire
+t = np.linspace(0, np.pi, 200)
+x = 2 + np.cos(t)
+y = 1 + np.sin(t)
+plt.plot([0,4], [0,0], color='blue', label='Signifying chain')
+plt.plot(x, y, color='red', label='Vector of Desire')
+plt.scatter([1.8, 2.7], [0, 0], color='black')
+plt.text(1.8, -0.1, '$A$', fontsize=12, ha='center')
+plt.text(2.7, -0.1, '$d$', fontsize=12, ha='center')
+plt.text(2, 1.4, '$\\$$', fontsize=14, ha='center')
+plt.title("Simplified Lacan's Graph of Desire")
+plt.legend()
+plt.axis('equal')
+plt.axis('off')
+plt.show()
+
+# 3. Symbolic formulas
+x, Phi = symbols('x \\Phi')
+masc = ForAll(x, Not(Phi(x)))
+fem = Not(Exists(x, Not(Phi(x))))
+print("Masculine sexuation formula:", masc)
+print("Feminine sexuation formula:", fem)
+```
 
 
 

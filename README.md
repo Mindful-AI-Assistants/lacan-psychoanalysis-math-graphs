@@ -14,7 +14,7 @@ This repository offers a deep exploration of **Jacques Lacan’s psychoanalytic 
 By linking psychoanalysis with symbolic mathematics and computational frameworks such as the **Free Energy Principle (FEP)**, this project bridges psychoanalysis, linguistics, cognitive science, and **Humanistic Artificial Intelligence (AI)**.
 
 
-<br><br>
+<br><
 
 
 ## What’s Inside
@@ -35,7 +35,7 @@ By linking psychoanalysis with symbolic mathematics and computational frameworks
 - Educational and research resources for linguists, psychoanalysts, AI researchers, and Humanistic AI data scientists.
 
 
-  <br><br>
+  <br>
 
 ## Background on Lacan and Computational Psychoanalysis
 
@@ -58,7 +58,7 @@ This formalization reveals:
 - How intersubjectivity and unconscious drives can be simulated as dynamical systems
 
 
-<br><br>
+<br>
 
 
 ## Installation
@@ -77,6 +77,8 @@ This formalization reveals:
    ```
 
 4. Open and run notebooks in the `/notebooks` directory.
+
+<br>
 
 ## Usage and Examples
 
@@ -99,7 +101,7 @@ This formalization reveals:
 - Potential to extend with interactive widgets or agent-based models for deeper research
 
 
-<br><br>
+<br>
 
 
 ## Contributing

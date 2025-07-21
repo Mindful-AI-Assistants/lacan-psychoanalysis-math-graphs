@@ -1,6 +1,6 @@
 <br>
 
-## [Lacan’s Graph of Desire]() — Mathematical Formalization \& Computational Psychoanalysis
+## [Lacan’s Graph of Desire — Mathematical Formalization \& Computational Psychoanalysis]()
 
 
 <br>

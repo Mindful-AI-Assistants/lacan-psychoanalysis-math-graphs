@@ -124,10 +124,17 @@ See notebooks simulating interactions inspired by the Free Energy Principle and 
 
 
 ```python
+%pip install networkx
+%pip install sympy
+
+#### Example: Visualizing the Graph of Desire
+
 import matplotlib.pyplot as plt
 import networkx as nx
 import numpy as np
-from sympy import symbols, ForAll, Not, Exists
+from sympy import symbols, Function
+from sympy.logic.boolalg import Not
+# ForAll and Exists are in sympy.logic.boolalg in newer versions, or use Function for custom logic
 
 # 1. Graph construction
 G = nx.DiGraph()
@@ -165,12 +172,16 @@ plt.axis('equal')
 plt.axis('off')
 plt.show()
 
-# 3. Symbolic formulas
-x, Phi = symbols('x \\Phi')
-masc = ForAll(x, Not(Phi(x)))
-fem = Not(Exists(x, Not(Phi(x))))
-print("Masculine sexuation formula:", masc)
-print("Feminine sexuation formula:", fem)
+# 3. Symbolic formulas (simplified representation)
+x = symbols('x')
+Phi = Function('Phi')
+
+# Representing the formulas as strings since ForAll/Exists import issues
+print("Masculine sexuation formula: ∀x ¬Φ(x)")
+print("Feminine sexuation formula: ¬∃x ¬Φ(x)")
+print("In symbolic form:")
+print(f"Phi function: {Phi(x)}")
+print(f"Not Phi: {Not(Phi(x))}")
 ```
 
 

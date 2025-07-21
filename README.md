@@ -1,4 +1,5 @@
 
+<br>
 
  
 ## <p align="center"> [𝚿]() Lacan’s Graph of Desire — Mathematical Formalization and the Expression of the Unconscious in Psychoanalytic Theory
@@ -11,6 +12,10 @@
 This repository offers a deep exploration of **Jacques Lacan’s psychoanalytic theory**, focusing on the **Graph of Desire** and associated *mathemes*—formal symbolic and topological representations of unconscious subjectivity and desire.
 
 By linking psychoanalysis with symbolic mathematics and computational frameworks such as the **Free Energy Principle (FEP)**, this project bridges psychoanalysis, linguistics, cognitive science, and **Humanistic Artificial Intelligence (AI)**.
+
+
+<br><br>
+
 
 ## What’s Inside
 
@@ -29,6 +34,9 @@ By linking psychoanalysis with symbolic mathematics and computational frameworks
   - Modeling **the Other** as an emergent triadic collective dynamic
 - Educational and research resources for linguists, psychoanalysts, AI researchers, and Humanistic AI data scientists.
 
+
+  <br><br>
+
 ## Background on Lacan and Computational Psychoanalysis
 
 **Jacques Lacan’s Graph of Desire** graphically illustrates the interaction between language (signifying chain), desire, and subjectivity, entwining:
@@ -41,11 +49,17 @@ By linking psychoanalysis with symbolic mathematics and computational frameworks
 
 Recent computational work (e.g., Heins et al. 2025) embeds these concepts within the **Free Energy Principle (FEP)** framework, modeling living and cognitive systems as minimizing prediction error or "free energy."
 
+<br>
+
 This formalization reveals:
 
 - Desire as **generalized synchronization** between subjects’ symbolic orders
 - The **incompleteness and instability of the Other**, aligning with Lacan’s maxim “the Other does not exist”
 - How intersubjectivity and unconscious drives can be simulated as dynamical systems
+
+
+<br><br>
+
 
 ## Installation
 

@@ -1,8 +1,7 @@
 
-Lacan’s Graph of Desire — Mathematical Formalization and the Expression of the Unconscious in Psychoanalytic Theory"
 
  
-## <p align="center"> 𝚿 Lacan’s Graph of Desire — Mathematical Formalization and the Expression of the Unconscious in Psychoanalytic Theory
+## <p align="center"> [𝚿]() Lacan’s Graph of Desire — Mathematical Formalization and the Expression of the Unconscious in Psychoanalytic Theory
 
 
 <br>

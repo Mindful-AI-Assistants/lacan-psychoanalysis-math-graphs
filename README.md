@@ -103,18 +103,24 @@ This repository enables visualization and symbolic analysis of **Lacan’s Graph
 - [**Graph visualization**]()
 Use NetworkX and Matplotlib to plot nodes (barred subject, the Other, etc.) and edges (signifying chain, vector of desire).
 
+<br>
+
 - [**Horseshoe curve**]()
 Plot the iconic *vector of desire* intersecting the signifying chain using Python.
+
+<br>
 
 - [**Mathemes with SymPy**]()
 Generate and print symbolic formulas, e.g., Lacan's sexuation mathemes:
     - Masculine:  ∀x ¬Φ(x)
     - Feminine:  ¬∃x ¬Φ(x)
 
+ <br>
+
 - [**Computational psychoanalysis**]()
 See notebooks simulating interactions inspired by the Free Energy Principle and Lacanian dynamics.
 
-
+<br>
 
 
 

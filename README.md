@@ -220,7 +220,7 @@ That is, neither $G_F\$ nor its negation can be proven in $F\$, rendering $F\$ i
 
 - **Second Incompleteness Theorem**: The system $F\$ cannot prove its own consistency, formally expressed as:
 
-<br>
+<br><br>
 
 $$
 F \not\vdash \mathrm{Consis}(F)

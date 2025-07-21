@@ -202,7 +202,9 @@ Below, I develop this parallel including the most relevant mathematical formaliz
 
 Gödel proved that **no sufficiently powerful formal system** (such as basic arithmetic) can be both *complete* and *consistent*.
 
-- [**First Incompleteness Theorem**](): There exist true propositions in arithmetic that can never be proven within the formal system itself.
+<br>
+
+### - [**First Incompleteness Theorem**](): There exist true propositions in arithmetic that can never be proven within the formal system itself.
 
 Mathematically, given a consistent and recursively enumerable formal system $F\$ that includes arithmetic, there is a statement $G_F\$ (called the Gödel sentence) such that:
 
@@ -218,7 +220,7 @@ $$
 
 <br>
 
-- [**Second Incompleteness Theorem**](): The system $F\$ cannot prove its own consistency, formally expressed as:
+### - [**Second Incompleteness Theorem**](): The system $F\$ cannot prove its own consistency, formally expressed as:
 
 <br><br>
 

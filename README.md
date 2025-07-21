@@ -216,7 +216,7 @@ $$
 
 <br>
 
-[That is, neither $G_F\$ nor its negation can be proven in $F\$, rendering $F\$ incomplete.]()
+[That is](): neither $G_F\$ nor its negation can be proven in $F\$, rendering $F\$ incomplete.
 
 <br>
 

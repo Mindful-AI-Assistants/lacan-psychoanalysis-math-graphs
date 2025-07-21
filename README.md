@@ -2,6 +2,12 @@
 
 ## Lacan’s Graph of Desire — Mathematical Formalization \& Computational Psychoanalysis
 
+
+
+<br>
+
+https://github.com/user-attachments/assets/7380e439-6547-400b-8ef1-d03d2f9bf2e0
+
 <br>
 
 ## Table of Contents

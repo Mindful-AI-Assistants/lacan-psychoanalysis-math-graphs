@@ -3,6 +3,9 @@
 
 # 𝚿 Lacan, Psychoanalysis, and the Body — Graphs, Math Notations Formulas, and the Expression of the Unconscious
 
+
+https://plato.stanford.edu/entries/lacan/
+
 <br>
 
 
@@ -15,7 +18,6 @@ This comprehensive document explores Jacques Lacan’s mathematical formalizatio
 
 
 
-https://plato.stanford.edu/entries/lacan/
 
 
 

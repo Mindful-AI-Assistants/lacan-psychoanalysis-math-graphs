@@ -41,7 +41,17 @@ By bridging psychoanalysis, formal mathematics, and computational modeling (incl
 
 A recent study ([Heins et al., 2025](https://doi.org/10.3389/fpsyg.2025.1574650)) **formalizes Lacanian psychoanalysis using the Free Energy Principle (FEP)**, providing computational simulations embodying concepts such as desire, the Other, and their dynamic relations.
 
-Highlights:
+<br>
+
+⚡️ Highlights:
+
+
+- Models the Real, Symbolic, and Imaginary (RSI) orders as interacting autonomous systems minimizing free energy.
+- Simulates structures like the **Borromean knot**, **dyadic synchronization** (desire as metaphorical convergence), and **triadic collective behaviors** (the Other as emergent).
+- Demonstrates that the subject’s desire is ultimately the *desire of the Other*, and that “the Other does not exist”—mirroring Gödelian incompleteness.
+
+This work connects psychoanalysis, computational neuroscience, and Humanistic AI, supporting the rigorous modeling of subjectivity and unconscious processes.
+
 
 
 

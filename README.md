@@ -259,7 +259,7 @@ We can express analogously the paradox of subject and formal system as follows:
 
 - Let $F\$ be a formal system representing the Symbolic (language, culture, law).
 
-- The sentence $G_F\$$, true but unprovable in $F\$, corresponds to the Lacanian Real — that which is always beyond the reach of the symbolic, not captured by language.
+- The sentence $G_F\$, true but unprovable in $F\$, corresponds to the Lacanian Real — that which is always beyond the reach of the symbolic, not captured by language.
 
 <br>
 
@@ -277,7 +277,7 @@ $$
 
 ### [4](). Note on the syntactic construction of the Gödel sentence
 
-The Gödel sentence \$ G_F \$ is constructed to indirectly refer to itself via arithmetic on natural numbers, employing a method of arithmetization of syntax (Gödel numbering), which enables encoding meta-mathematical statements inside the formal system itself
+The Gödel sentence \ $G_F\$ is constructed to indirectly refer to itself via arithmetic on natural numbers, employing a method of arithmetization of syntax (Gödel numbering), which enables encoding meta-mathematical statements inside the formal system itself.
 
 
 

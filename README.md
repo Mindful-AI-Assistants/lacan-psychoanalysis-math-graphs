@@ -1,6 +1,23 @@
 <br>
 
-# Lacan’s Graph of Desire — Mathematical Formalization \& Computational Psychoanalysis
+## Lacan’s Graph of Desire — Mathematical Formalization \& Computational Psychoanalysis
+
+<br>
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Key Concepts](#key-concepts)
+- [Recent Computational Formalization](#recent-computational-formalization)
+- [Repository Structure](#repository-structure)
+- [Installation](#installation)
+- [Usage and Examples](#usage-and-examples)
+- [Limits of Formalization: Gödel \& Lacan](#limits-of-formalization-g%C3%B6dels-incompleteness-theorems-and-lacanian-theory)
+- [References and Further Reading](#references-and-further-reading)
+- [Contributing](#contributing)
+- [License](#license)
+
+<br>
 
 ## Overview
 
@@ -9,7 +26,7 @@ This repository presents a detailed and interdisciplinary exploration of **Jacqu
 By bridging psychoanalysis, formal mathematics, and computational modeling (including the Free Energy Principle), it provides theory, visualization, and simulation tools for researchers in **Humanistic AI, cognitive science, linguistics**, and psychoanalysis.
 
 
-
+<br>
 
 
 

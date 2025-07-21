@@ -16,3 +16,83 @@ This comprehensive document explores Jacques Lacan’s mathematical formalizatio
 
 
 https://plato.stanford.edu/entries/lacan/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#
+
+
+<br>
+
+
+## [Contributors]() 
+
+<br>
+
+- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+- [Pedro 🛰️  Vyctor](https://github.com/ppvyctor)
+
+
+<br>
+
+
+## 💌 [Contact Me](mailto:fabicampanari@proton.me)
+
+#### For any questions or suggestions, please feel free to reach out:
+
+
+<br><br>
+
+
+
+#### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)
+
+
+<br>
+
+### <p align="center"> <img src="https://github.com/user-attachments/assets/517fc573-7607-4c5d-82a7-38383cc0537d" />
+
+
+<br><br><br>
+
+<p align="center">  ────────────── 🔭⋆ ──────────────
+
+
+<p align="center"> ➣➢➤ <a href="#top">Back to Top </a>
+
+<b><br>
+
+#
+
+##### <p align="center">Copyright 2024 Mindful-AI-Assistants. Code released under the  [MIT license.]( https://github.com/Mindful-AI-Assistants/.github/blob/ad6948fdec771e022d49cd96f99024fcc7f1106a/LICENSE)
+
+
+
+
+
+
+

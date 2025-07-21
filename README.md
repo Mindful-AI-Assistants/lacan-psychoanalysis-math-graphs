@@ -55,7 +55,7 @@ A recent study ([Heins et al., 2025](https://doi.org/10.3389/fpsyg.2025.1574650)
 
 - Models the Real, Symbolic, and Imaginary (RSI) orders as interacting autonomous systems minimizing free energy.
 - Simulates structures like the **Borromean knot**, **dyadic synchronization** (desire as metaphorical convergence), and **triadic collective behaviors** (the Other as emergent).
-- Demonstrates that the subject’s desire is ultimately the *desire of the Other*, and that “the Other does not exist”—mirroring Gödelian incompleteness.
+- Demonstrates that the subject’s desire is ultimately the *desire of the Other*, and that “the Other does not exist”; mirroring Gödelian incompleteness.
 
 ***This work connects psychoanalysis, computational neuroscience, and [Humanistic AI](), supporting the rigorous modeling of subjectivity and unconscious processes.***
 
@@ -243,7 +243,7 @@ $$
 
 ### [2](). Conceptual translation to Lacan and psychoanalysis
 
-The psychoanalytic subject’s experience, according to Lacan, is marked by a structure of *lack*, which he calls the **“Real”** — a domain resisting full symbolization by the **“Symbolic”** (language and its rules). This Real is precisely what escapes any complete and closed formalization.
+The psychoanalytic subject’s experience, according to Lacan, is marked by a structure of *lack*, which he calls the **“Real”**; a domain resisting full symbolization by the **“Symbolic”** (language and its rules). This Real is precisely what escapes any complete and closed formalization.
 
 - The **“Other”** (in Lacanian theory, the symbolic instance) contains a fundamental *lack*, a kind of **structural incompleteness** that prevents the subject from being perfectly represented or captured in totality.
 

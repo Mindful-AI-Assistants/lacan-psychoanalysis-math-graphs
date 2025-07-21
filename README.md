@@ -180,18 +180,6 @@ Submit issues or pull requests via GitHub.
   - [PMC12180394](https://pmc.ncbi.nlm.nih.gov/articles/PMC12180394/)
 
 
-<br><br>
-
-
-
-## [Contributors]() 
-
-<br>
-
-- [Fabiana ⚡️  Campanari](https://github.com/FabianaCampanari)
-
-
-
 <br>
 
 

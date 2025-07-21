@@ -14,7 +14,7 @@ This repository offers a deep exploration of **Jacques Lacan’s psychoanalytic 
 By linking psychoanalysis with symbolic mathematics and computational frameworks such as the **Free Energy Principle (FEP)**, this project bridges psychoanalysis, linguistics, cognitive science, and **Humanistic Artificial Intelligence (AI)**.
 
 
-<br><
+<br>
 
 
 ## What’s Inside

@@ -55,7 +55,10 @@ Ideal for researchers, psychoanalysts, and students interested in the intersecti
 
 ## [References]():
 
-[1.]()  Evans, D. (2022). Lacan. In E. N. Zalta (Ed.), The Stanford Encyclopedia of Philosophy (Fall 2022 Edition). Stanford University. https://plato.stanford.edu/entries/lacan/
+[1]().  Evans, D. (2022). Lacan. In E. N. Zalta (Ed.), The Stanford Encyclopedia of Philosophy (Fall 2022 Edition). Stanford University. https://plato.stanford.edu/entries/lacan/
+
+[2](). Burham, C. (2022). Lacan and the Algorithm. *CLCWeb: Comparative Literature and Culture*, 24(4), Article 2. Special Issue: Platform Psychoanalysis. Edited by Matthew Flisfeder. https://doi.org/10.7771/1481-4374.4044
+
 
 
 <br>

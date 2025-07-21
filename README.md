@@ -1,7 +1,8 @@
 
 <br>
 
-# 𝚿 Lacan, Psychoanalysis, and the Body — Graphs, Math Notations Formulas, and the Expression of the Unconscious
+ 
+# <p align="center"> [𝚿 Lacan](), Psychoanalysis, and the Body — [Graphs of Desire](), Math Notations Formulas, and the [Expression of the Unconscious]()
 
 
 https://plato.stanford.edu/entries/lacan/

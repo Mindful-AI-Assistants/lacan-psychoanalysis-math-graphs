@@ -14,7 +14,7 @@ Jacques Lacan’s **Graph of Desire** (French: *graphe du désir*) is a central 
 
 https://github.com/user-attachments/assets/7380e439-6547-400b-8ef1-d03d2f9bf2e0
 
-<br>
+<br><br>
 
 ## Table of Contents
 

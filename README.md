@@ -33,7 +33,7 @@ By bridging psychoanalysis, formal mathematics, and computational modeling (incl
 
 <br>
 
-## [Key Concepts]():
+## [Key Concepts]()
 
 - **Graph of Desire:** A structure showing how unconscious desire traverses and is shaped by language (the signifying chain), symbolic law (the Other), and internal division (the barred subject).
 - **Mathemes:** Lacan’s formal logic of key psychoanalytic notions, like sexuation, subjectivity, and the structure of desire.
@@ -42,13 +42,13 @@ By bridging psychoanalysis, formal mathematics, and computational modeling (incl
 <br>
 
 
-## Recent Computational Formalization
+## [Recent Computational Formalization]()
 
 A recent study ([Heins et al., 2025](https://doi.org/10.3389/fpsyg.2025.1574650)) **formalizes Lacanian psychoanalysis using the Free Energy Principle (FEP)**, providing computational simulations embodying concepts such as desire, the Other, and their dynamic relations.
 
 <br>
 
-### ⚡️ Highlights:
+### ⚡️ [Highlights]()
 
 <br>
 
@@ -56,9 +56,9 @@ A recent study ([Heins et al., 2025](https://doi.org/10.3389/fpsyg.2025.1574650)
 - Simulates structures like the **Borromean knot**, **dyadic synchronization** (desire as metaphorical convergence), and **triadic collective behaviors** (the Other as emergent).
 - Demonstrates that the subject’s desire is ultimately the *desire of the Other*, and that “the Other does not exist”—mirroring Gödelian incompleteness.
 
-This work connects psychoanalysis, computational neuroscience, and Humanistic AI, supporting the rigorous modeling of subjectivity and unconscious processes.
+***This work connects psychoanalysis, computational neuroscience, and [Humanistic AI](), supporting the rigorous modeling of subjectivity and unconscious processes.***
 
-
+<br>
 
 
 

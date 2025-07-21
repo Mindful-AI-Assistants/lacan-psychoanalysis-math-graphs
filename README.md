@@ -204,7 +204,7 @@ Gödel proved that **no sufficiently powerful formal system** (such as basic ari
 
 - **First Incompleteness Theorem**: There exist true propositions in arithmetic that can never be proven within the formal system itself.
 
-Mathematically, given a consistent and recursively enumerable formal system $F\$ that includes arithmetic, there is a statement $\G_F\$ (called the Gödel sentence) such that:
+Mathematically, given a consistent and recursively enumerable formal system $F\$ that includes arithmetic, there is a statement $G_F\$ (called the Gödel sentence) such that:
 
 
 

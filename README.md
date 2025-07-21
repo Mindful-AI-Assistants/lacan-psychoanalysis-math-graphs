@@ -1,4 +1,12 @@
+<br>
 
+# Lacan’s Graph of Desire — Mathematical Formalization \& Computational Psychoanalysis
+
+## Overview
+
+This repository presents a detailed and interdisciplinary exploration of **Jacques Lacan's psychoanalytic theory**, with a focus on the **Graph of Desire** and associated *mathemes*—formal symbolic and topological models of unconscious subjectivity and desire.
+
+By bridging psychoanalysis, formal mathematics, and computational modeling (including the Free Energy Principle), it provides theory, visualization, and simulation tools for researchers in **Humanistic AI, cognitive science, linguistics**, and psychoanalysis.
 
 
 

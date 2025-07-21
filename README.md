@@ -48,8 +48,9 @@ A recent study ([Heins et al., 2025](https://doi.org/10.3389/fpsyg.2025.1574650)
 
 <br>
 
-⚡️ Highlights:
+### ⚡️ Highlights:
 
+<br>
 
 - Models the Real, Symbolic, and Imaginary (RSI) orders as interacting autonomous systems minimizing free energy.
 - Simulates structures like the **Borromean knot**, **dyadic synchronization** (desire as metaphorical convergence), and **triadic collective behaviors** (the Other as emergent).

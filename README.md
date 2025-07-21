@@ -37,6 +37,11 @@ By bridging psychoanalysis, formal mathematics, and computational modeling (incl
 <br>
 
 
+## Recent Computational Formalization
+
+A recent study ([Heins et al., 2025](https://doi.org/10.3389/fpsyg.2025.1574650)) **formalizes Lacanian psychoanalysis using the Free Energy Principle (FEP)**, providing computational simulations embodying concepts such as desire, the Other, and their dynamic relations.
+
+Highlights:
 
 
 

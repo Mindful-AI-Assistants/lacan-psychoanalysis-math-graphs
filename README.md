@@ -1,6 +1,6 @@
 <br>
 
-## [Lacan’s Graph of Desire — Mathematical Formalization \& Computational Psychoanalysis]()
+## <p align="center"> [Lacan’s Graph of Desire — Mathematical Formalization \& Computational Psychoanalysis]()
 
 
 <br>
@@ -220,7 +220,11 @@ $$
 [That is](): neither $G_F\$ nor its negation can be proven in $F\$, rendering $F\$ incomplete.
 
 
-<br>><br><br>
+<br>>
+
+<p align="center"> ─── ⋆⋅☆⋅⋆ ───
+
+<br>
 
 
 ### - [**Second Incompleteness Theorem**](): The system $F\$ cannot prove its own consistency, formally expressed as:

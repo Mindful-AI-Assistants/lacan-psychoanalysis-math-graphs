@@ -194,6 +194,17 @@ This repository not only formalizes Lacan’s psychoanalytic theory, but also ac
 This parallel reinforces Lacan's insight that the unconscious and human subjectivity remain fundamentally open and incomplete, echoing the [**lack in the Other**]()  and the inherent boundaries of any modeling approach—critical for anyone working in [Humanistic AI]().
 
 
+Below, I develop this parallel including the most relevant mathematical formalizations in LaTeX and its relation to Lacanian theory.
+
+<br>
+
+### 1. Gödel and the limitations of formalization
+
+Gödel proved that **no sufficiently powerful formal system** (such as basic arithmetic) can be both *complete* and *consistent*.
+
+- **First Incompleteness Theorem**: There exist true propositions in arithmetic that can never be proven within the formal system itself.
+
+Mathematically, given a consistent and recursively enumerable formal system \$ F \$ that includes arithmetic, there is a statement \$ G_F \$ (called the Gödel sentence) such that:
 
 
 

@@ -325,9 +325,10 @@ In sum, Lacan’s Graph of Desire is a conceptual and formal tool to map the rel
 
 ### [Lacan constructs the complete graph in **four stages**](), each building in complexity to illustrate the full structure. These stages are pedagogical devices, as the graph always exists as a whole.
 
-<br>
 
-### [1](). The Elementary Cell
+<br><br>
+
+### 1.[ The Elementary Cell]()
 
 The **Elementary Cell** is the foundational stage of the Graph of Desire. It depicts the fundamental intersection of the **signifying chain** and the **vector of the subject's intentionality** (or desire).
 
@@ -338,7 +339,9 @@ The **double intersection** of these two lines illustrates the **nature of retro
 
 <br>
 
-⚤ [**Visual Representation of the Elementary Cell:**]()
+ 
+ [**Visual Representation of the Elementary Cell:**]()
+
 
 <br>
 
@@ -354,14 +357,19 @@ S ------------------ S' Signifying Chain
 <br><br>
 
 
-### 2. The Elementary Cell with the Locus of the Other (A)
+### 2. [The Elementary Cell with the Locus of the Other]() (A)
+
+
+<br>
 
 In the second stage, Lacan introduces the **locus of the Other (A)**, representing the big Other, the symbolic order, or the "treasure trove" of signifiers [^1]. This stage illustrates how the message, located at $s(A)$, is retroactively punctuated and given meaning by the Other (A) [^1].
 
 - The **prelinguistic mythical subject of pure need** (represented by a triangle, or a rudimentary subject prior to language) must pass through the "defiles of the signifier" [^1].
 - This process produces the **divided subject ($\$$)**, which is the result of entering the Symbolic order [^1][^2].
 
-**Visual Representation (adding A and $s(A)$):**
+<br>
+
+[**Visual Representation (adding A and $s(A)$):**][()
 
 
 <br>

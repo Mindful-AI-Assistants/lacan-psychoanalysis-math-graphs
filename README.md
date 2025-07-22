@@ -442,6 +442,10 @@ This stage introduces the concepts of **demand** and **desire**, distinguishing 
     - The **lozenge ($\diamond$)**, or *poinçon*, which indicates a relation of envelopment, conjunction, or disjunction between two elements. Lacan describes it as "soldering together" the mathematical symbols for "less than" and "more than".
     - A lowercase **$d$** which indicates **desire**.
 
+- This stage highlights how **demand** (often represented as uppercase D or as the subject's relation to demand, `$\text{\$}(D)$`) and **desire** are interconnected and shaped by the Other [^4].
+
+Desire, for Lacan, is always "the desire of the Other" ($A \diamond d$).
+
 
 
 

@@ -284,7 +284,11 @@ The psychoanalytic subject’s experience, according to Lacan, is marked by a st
 
 ### [3](). Formalism and the subject's experience — mathematical/psychoanalytic parallel
 
+<br>
+
 We can express analogously the paradox of subject and formal system as follows:
+
+<br>
 
 - Let $F\$ be a formal system representing the Symbolic (language, culture, law).
 

@@ -351,7 +351,7 @@ S ------------------ S' Signifying Chain
 ```
 
 
-<br>
+<br><br>
 
 
 ### 2. The Elementary Cell with the Locus of the Other (A)
@@ -364,9 +364,18 @@ In the second stage, Lacan introduces the **locus of the Other (A)**, representi
 **Visual Representation (adding A and $s(A)$):**
 
 
+<br>
+
+```
+      _________ Vector of Subject's Intentionality ($)
+     /         \
+    /           \
+   /----(s(A))---\
+S ---------A------- S' Signifying Chain
+```
 
 
-
+<br><br>
 
 
 

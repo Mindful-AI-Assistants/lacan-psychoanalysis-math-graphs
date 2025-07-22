@@ -294,7 +294,7 @@ Jacques Lacan's **Graph of Desire** (or Graph of the Analytic Act) is a formal, 
 
 Key points about Lacan's Graph of Desire include:
 
-- It is a **"flattened" representation** of the crossing between two pathways: the **signifying chain** (sequence of linguistic signs with meaning) and the **vector of desire** (the will or volition of the subject, expressed metaphorically and timelessly). The graph thus captures how desire operates amidst language and symbolic limitation.
+- [It is a **"flattened" representation** of the crossing between two pathways](): the **signifying chain** (sequence of linguistic signs with meaning) and the **vector of desire** (the will or volition of the subject, expressed metaphorically and timelessly). The graph thus captures how desire operates amidst language and symbolic limitation.
 
 <br>
 

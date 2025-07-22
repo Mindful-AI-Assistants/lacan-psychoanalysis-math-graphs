@@ -454,7 +454,19 @@ Desire, for Lacan, is always "the desire of the Other" ($A \diamond d$).
 <br>
 
 
+```
+      _________ Vector of Subject's Intentionality ($)
+     /         \
+    /           \
+   /----(s(A))---\
+S ---------A------- S' Signifying Chain
+        /   \
+       /     \
+      d ----- D (Demand)
+```
 
+
+<br><br>
 
 
 

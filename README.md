@@ -354,7 +354,9 @@ S ------------------ S' Signifying Chain
 <br>
 
 
+### 2. The Elementary Cell with the Locus of the Other (A)
 
+In the second stage, Lacan introduces the **locus of the Other (A)**, representing the big Other, the symbolic order, or the "treasure trove" of signifiers [^1]. This stage illustrates how the message, located at $s(A)$, is retroactively punctuated and given meaning by the Other (A) [^1].
 
 
 

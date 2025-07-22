@@ -397,7 +397,8 @@ S ------------------ S' Signifying Chain
 ```
 
 
-<br><br>
+<br><br><br>
+
 
 
 ###  2. [The Elementary Cell with the Locus of the Other]() (A)
@@ -427,7 +428,8 @@ S ---------A------- S' Signifying Chain
 ```
 
 
-<br><br>
+<br><br><br>
+
 
 
 ### 3. [The Graph of Demand and Desire]()
@@ -466,7 +468,8 @@ S ---------A------- S' Signifying Chain
 ```
 
 
-<br><br>
+<br><br><br>
+
 
 
 

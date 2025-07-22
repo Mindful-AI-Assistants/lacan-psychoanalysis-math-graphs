@@ -219,8 +219,9 @@ This parallel reinforces Lacan's insight that the unconscious and human subjecti
 Below, I develop this parallel including the most relevant mathematical formalizations in LaTeX and its relation to Lacanian theory.
 
 <br>
-]
-### [1](). Gödel and the limitations of formalization
+
+
+### 1. [Gödel and the limitations of formalization]():
 
 Gödel proved that **no sufficiently powerful formal system** (such as basic arithmetic) can be both *complete* and *consistent*.
 
@@ -266,7 +267,8 @@ $$
 <br><br>
 
 
-### [2](). Conceptual translation to Lacan and psychoanalysis
+### 2. [Conceptual translation to Lacan and psychoanalysis]():
+
 
 <br>
 
@@ -282,7 +284,7 @@ The psychoanalytic subject’s experience, according to Lacan, is marked by a st
 <br><br>
 
 
-### [3](). Formalism and the subject's experience — mathematical/psychoanalytic parallel
+### 3.[ Formalism and the subject's experience — mathematical/psychoanalytic parallel]():
 
 <br>
 
@@ -316,7 +318,7 @@ Jacques Lacan's **Graph of Desire** (or Graph of the Analytic Act) is a formal, 
 
 ### [Key points about Lacan's Graph of Desire include]():
 
-<BR>
+<br>
 
 - [It is a **"flattened" representation** of the crossing between two pathways](): the **signifying chain** (sequence of linguistic signs with meaning) and the **vector of desire** (the will or volition of the subject, expressed metaphorically and timelessly). The graph thus captures how desire operates amidst language and symbolic limitation.
 
@@ -326,7 +328,7 @@ Jacques Lacan's **Graph of Desire** (or Graph of the Analytic Act) is a formal, 
 
 <br>
 
-- The points where the vector of desire and the signifying chain cross represent moments of **Freudian double inscription**, where conscious and unconscious meanings coincide and constrain each other, reflecting the structure of psychoanalytic experience.
+- [The points where the vector of desire and the signifying chain cross](), represent moments of **Freudian double inscription**, where conscious and unconscious meanings coincide and constrain each other, reflecting the structure of psychoanalytic experience.
 
 <br>
 

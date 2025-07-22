@@ -320,7 +320,7 @@ Key points about Lacan's Graph of Desire include:
 
 <br>
 
-- The barred subject (*$*) is central: it designates the split or conflicted human subject formed in the process of individuation beginning in infancy through the loss of symbiotic relations (with the mother), mediated by language. Desire is thus marked by a fundamental **lack** or absence never fully satisfied, only substituted by other objects.
+- [The barred subject (*$*) is central](): it designates the split or conflicted human subject formed in the process of individuation beginning in infancy through the loss of symbiotic relations (with the mother), mediated by language. Desire is thus marked by a fundamental **lack** or absence never fully satisfied, only substituted by other objects.
 
 <br>
 
@@ -363,7 +363,7 @@ In sum, Lacan’s Graph of Desire is a conceptual and formal tool to map the rel
 
 <br><br>
 
-### 1.[ The Elementary Cell]()
+### - 1.[ The Elementary Cell]()
 
 The **Elementary Cell** is the foundational stage of the Graph of Desire. It depicts the fundamental intersection of the **signifying chain** and the **vector of the subject's intentionality** (or desire).
 
@@ -392,7 +392,7 @@ S ------------------ S' Signifying Chain
 <br><br>
 
 
-### 2. [The Elementary Cell with the Locus of the Other]() (A)
+### - 2. [The Elementary Cell with the Locus of the Other]() (A)
 
 
 <br>

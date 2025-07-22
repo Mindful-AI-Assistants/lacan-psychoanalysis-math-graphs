@@ -74,6 +74,8 @@ A recent study ([Heins et al., 2025](https://doi.org/10.3389/fpsyg.2025.1574650)
 
 ## [Repository Structure]()
 
+<br>
+
 | Path | Contents |
 | :-- | :-- |
 | `/latex/` | LaTeX/TikZ code for Lacanian graphs |
@@ -201,20 +203,28 @@ print(f"Not Phi: {Not(Phi(x))}")
 
 ## [Limits of Formalization: Gödel’s Incompleteness Theorems and Lacanian Theory]()
 
+<br>
+
 This repository not only formalizes Lacan’s psychoanalytic theory, but also acknowledges the [**limits of all formal systems**]() as demonstrated by [**Gödel’s incompleteness theorems**](). No [axiomatic model—whether]()  in mathematics, logic, or psychoanalysis—can be both complete and consistent. There will always be aspects of [reality]() (the “real” in Lacanian terms) that escape symbolic capture.
 
+<br>
+
 This parallel reinforces Lacan's insight that the unconscious and human subjectivity remain fundamentally open and incomplete, echoing the [**lack in the Other**]()  and the inherent boundaries of any modeling approach—critical for anyone working in [Humanistic AI]().
+
+<br>
 
 
 Below, I develop this parallel including the most relevant mathematical formalizations in LaTeX and its relation to Lacanian theory.
 
 <br>
-
+]
 ### [1](). Gödel and the limitations of formalization
 
 Gödel proved that **no sufficiently powerful formal system** (such as basic arithmetic) can be both *complete* and *consistent*.
 
-<br>
+
+<br><br>
+
 
 ### - [**First Incompleteness Theorem**](): There exist true propositions in arithmetic that can never be proven within the formal system itself.
 

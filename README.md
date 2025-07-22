@@ -430,6 +430,13 @@ S ---------A------- S' Signifying Chain
 <br><br>
 
 
+### -3. [The Graph of Demand and Desire]()
+
+<br>
+
+This stage introduces the concepts of **demand** and **desire**, distinguishing them within the graph. It often resembles a question mark, as desire, for Lacan, is fundamentally a question [^4].
+
+
 
 
 

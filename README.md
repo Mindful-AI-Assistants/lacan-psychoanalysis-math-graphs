@@ -316,7 +316,7 @@ Jacques Lacan's **Graph of Desire** (or Graph of the Analytic Act) is a formal, 
 
 <br>
 
-### [Key points about Lacan's Graph of Desire include]():
+### ➠ [Key points about Lacan's Graph of Desire include]():
 
 <br>
 
@@ -332,7 +332,7 @@ Jacques Lacan's **Graph of Desire** (or Graph of the Analytic Act) is a formal, 
 
 <br>
 
-- Lacan used several versions or steps of these graphs, beginning from a basic "elementary cell," progressively elaborating the formation of the ego ideal and the subject's positioning relative to the Other and the Law (notably, the “Name-of-the-Father” as symbolic prohibition).
+- [Lacan used several versions or steps of these graphs](), beginning from a basic "elementary cell," progressively elaborating the formation of the ego ideal and the subject's positioning relative to the Other and the Law (notably, the “Name-of-the-Father” as symbolic prohibition).
 
 <br>
 
@@ -340,7 +340,7 @@ Jacques Lacan's **Graph of Desire** (or Graph of the Analytic Act) is a formal, 
 
 <br>
 
-- Lacan describes the subject not as a fixed, autonomous individual but as constituted through language and desire, with the ego as an object rather than true subjectivity.
+- [Lacan describes the subject]() not as a fixed, autonomous individual but as constituted through language and desire, with the ego as an object rather than true subjectivity.
 
 In sum, Lacan’s Graph of Desire is a conceptual and formal tool to map the relations between language, desire, the split subject, and the unconscious in psychoanalytic theory. It is often studied to understand how desire eludes fulfillment while structuring human subjectivity within symbolic and imaginary dimensions.
 

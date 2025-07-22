@@ -341,12 +341,13 @@ Jacques Lacan's **Graph of Desire** (or Graph of the Analytic Act) is a formal, 
 <br>
 
 - [Lacan describes the subject]() not as a fixed, autonomous individual but as constituted through language and desire, with the ego as an object rather than true subjectivity.
+  
+<br>
 
 In sum, Lacan’s Graph of Desire is a conceptual and formal tool to map the relations between language, desire, the split subject, and the unconscious in psychoanalytic theory. It is often studied to understand how desire eludes fulfillment while structuring human subjectivity within symbolic and imaginary dimensions.
 
 
-
-<br>
+<br><br>
 
 
 | [Aspect]()                    | [Description]()                                                                                  |
@@ -371,6 +372,9 @@ In sum, Lacan’s Graph of Desire is a conceptual and formal tool to map the rel
 
 The **Elementary Cell** is the foundational stage of the Graph of Desire. It depicts the fundamental intersection of the **signifying chain** and the **vector of the subject's intentionality** (or desire).
 
+
+<br>
+
 - The **horizontal line** represents the **diachronic signifying chain** ($S \to S'$), which moves from a linguistic sign to a signification or meaning. It has duration.
 - The **horseshoe-shaped line** represents the **vector of the subject's desire** ($\$$), which is expressed metaphorically and has no duration. This vector starts from the split or barred subject ($\$$).
 
@@ -381,8 +385,8 @@ The **double intersection** of these two lines illustrates the **nature of retro
  
  [**Visual Representation of the Elementary Cell:**]()
 
-
 <br>
+
 
 ```
       _________ Vector of Subject's Intentionality ($)
@@ -412,6 +416,7 @@ In the second stage, Lacan introduces the **locus of the Other (A)**, representi
 
 
 <br>
+
 
 ```
       _________ Vector of Subject's Intentionality ($)

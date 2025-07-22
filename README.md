@@ -1,6 +1,6 @@
 <br>
 
-## <p align="center"> 𝚿 [Lacan’s Graph of Desire ⚤ Mathematical Formalization \& Computational Psychoanalysis]()
+## <p align="center"> 𝚿 [Lacan’s Graph of Desire]() ⚤ [Mathematical Formalization \& Computational Psychoanalysis]()
 
 Jacques Lacan’s **Graph of Desire** (French: *graphe du désir*) is a central conceptual tool in his psychoanalytic theory. It is a **topological model** that graphically represents the intricate structure of human desire and subjectivity as mediated by language and the Symbolic Other . Developed across his seminars, notably in *Les formations de l'inconscient* (1957-58) and *The Subversion of the Subject and the Dialectic of Desire* (1960), the graph illustrates the "logical moments" of the speaking subject's formation, rather than a chronological development .
 

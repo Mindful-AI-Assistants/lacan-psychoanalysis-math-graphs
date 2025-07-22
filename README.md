@@ -368,7 +368,7 @@ In sum, Lacan’s Graph of Desire is a conceptual and formal tool to map the rel
 
 <br><br>
 
-### - 1.[ The Elementary Cell]()
+###  1.[ The Elementary Cell]()
 
 The **Elementary Cell** is the foundational stage of the Graph of Desire. It depicts the fundamental intersection of the **signifying chain** and the **vector of the subject's intentionality** (or desire).
 
@@ -400,7 +400,7 @@ S ------------------ S' Signifying Chain
 <br><br>
 
 
-### - 2. [The Elementary Cell with the Locus of the Other]() (A)
+###  2. [The Elementary Cell with the Locus of the Other]() (A)
 
 
 <br>
@@ -412,7 +412,7 @@ In the second stage, Lacan introduces the **locus of the Other (A)**, representi
 
 <br>
 
-[**Visual Representation (adding A and $s(A)$):**][()
+[**Visual Representation adding**][() A and $s(A)$):
 
 
 <br>

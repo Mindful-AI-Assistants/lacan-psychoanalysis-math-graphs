@@ -296,19 +296,32 @@ Key points about Lacan's Graph of Desire include:
 
 - It is a **"flattened" representation** of the crossing between two pathways: the **signifying chain** (sequence of linguistic signs with meaning) and the **vector of desire** (the will or volition of the subject, expressed metaphorically and timelessly). The graph thus captures how desire operates amidst language and symbolic limitation.
 
+<br>
+
 - The barred subject (*$*) is central: it designates the split or conflicted human subject formed in the process of individuation beginning in infancy through the loss of symbiotic relations (with the mother), mediated by language. Desire is thus marked by a fundamental **lack** or absence never fully satisfied, only substituted by other objects.
+
+<br>
 
 - The points where the vector of desire and the signifying chain cross represent moments of **Freudian double inscription**, where conscious and unconscious meanings coincide and constrain each other, reflecting the structure of psychoanalytic experience.
 
+<br>
+
 - Lacan used several versions or steps of these graphs, beginning from a basic "elementary cell," progressively elaborating the formation of the ego ideal and the subject's positioning relative to the Other and the Law (notably, the “Name-of-the-Father” as symbolic prohibition).
 
+<br>
+
 - The graph illustrates how **desire is always the desire of the Other**, meaning the subject seeks desire validated or recognized by the symbolic Other—the social or linguistic Otherness that shapes subjectivity.
+
+<br>
 
 - Lacan describes the subject not as a fixed, autonomous individual but as constituted through language and desire, with the ego as an object rather than true subjectivity.
 
 In sum, Lacan’s Graph of Desire is a conceptual and formal tool to map the relations between language, desire, the split subject, and the unconscious in psychoanalytic theory. It is often studied to understand how desire eludes fulfillment while structuring human subjectivity within symbolic and imaginary dimensions.
 
+
+
 <br>
+
 
 | [Aspect]()                    | [Description]()                                                                                  |
 |-----------------------------|--------------------------------------------------------------------------------------------------|

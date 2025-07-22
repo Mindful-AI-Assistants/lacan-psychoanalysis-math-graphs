@@ -412,7 +412,7 @@ In the second stage, Lacan introduces the **locus of the Other (A)**, representi
 
 <br>
 
-[**Visual Representation adding**][() A and $s(A)$):
+[**Visual Representation adding**]() A and $s(A)$
 
 
 <br>
@@ -430,7 +430,7 @@ S ---------A------- S' Signifying Chain
 <br><br>
 
 
-### - 3. [The Graph of Demand and Desire]()
+### 3. [The Graph of Demand and Desire]()
 
 <br>
 

@@ -1,6 +1,6 @@
 <br>
 
-## <p align="center"> 𝚿 [Lacan’s Graph of Desire]()  [Mathematical Formalization \& Computational Psychoanalysis]()  ⚤
+## <p align="center"> 𝚿 [Lacan’s Graph of Desire]() 𝛷 [Mathematical Formalization \& Computational Psychoanalysis]()  ⚤
 
 <br>
 

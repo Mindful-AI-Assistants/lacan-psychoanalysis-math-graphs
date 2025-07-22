@@ -201,7 +201,7 @@ print(f"Phi function: {Phi(x)}")
 print(f"Not Phi: {Not(Phi(x))}")
 ```
 
-<br>
+<br><br
 
 ## [Limits of Formalization: Gödel’s Incompleteness Theorems and Lacanian Theory]()
 

@@ -447,6 +447,12 @@ This stage introduces the concepts of **demand** and **desire**, distinguishing 
 Desire, for Lacan, is always "the desire of the Other" ($A \diamond d$).
 
 
+<br>
+
+[**Visual Representation (adding Demand and Desire)**]():
+
+<br>
+
 
 
 

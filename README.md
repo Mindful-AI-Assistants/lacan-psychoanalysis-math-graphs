@@ -385,7 +385,8 @@ The **double intersection** of these two lines illustrates the **nature of retro
  
  [**Visual Representation of the Elementary Cell:**]()
 
-<br>
+<br><br>
+
 
 
 ```
@@ -416,7 +417,8 @@ In the second stage, Lacan introduces the **locus of the Other (A)**, representi
 [**Visual Representation adding**]() A and $s(A)$
 
 
-<br>
+<br><br>
+
 
 
 ```
@@ -453,7 +455,8 @@ Desire, for Lacan, is always "the desire of the Other" ($A \diamond d$).
 
 [**Visual Representation (adding Demand and Desire)**]():
 
-<br>
+<br><br>
+
 
 
 ```

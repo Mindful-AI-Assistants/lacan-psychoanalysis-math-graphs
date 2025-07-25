@@ -438,7 +438,7 @@ S ---------A------- S' Signifying Chain
 
 <br>
 
-This stage introduces the concepts of **demand** and **desire**, distinguishing them within the graph. It often resembles a question mark, as desire, for Lacan, is fundamentally a question [^4].
+This stage introduces the concepts of **demand** and **desire**, distinguishing them within the graph. It often resembles a question mark, as desire, for Lacan, is fundamentally a question.
 
 
 - [It features two new symbols]():
@@ -449,7 +449,7 @@ This stage introduces the concepts of **demand** and **desire**, distinguishing 
  
   <br>
 
-This stage highlights how **demand** (often represented as uppercase D or as the subject's relation to demand, `$\text{\$}(D)$`) and **desire** are interconnected and shaped by the Other [^4].
+This stage highlights how **demand** (often represented as uppercase D or as the subject's relation to demand, `$\text{\$}(D)$`) and **desire** are interconnected and shaped by the Other.
 
 Desire, for Lacan, is always "the desire of the Other" ($A \diamond d$).
 

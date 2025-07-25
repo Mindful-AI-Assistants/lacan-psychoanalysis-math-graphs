@@ -444,9 +444,12 @@ This stage introduces the concepts of **demand** and **desire**, distinguishing 
 - [It features two new symbols]():
     
     - The **lozenge ($\diamond$)**, or *poinçon*, which indicates a relation of envelopment, conjunction, or disjunction between two elements. Lacan describes it as "soldering together" the mathematical symbols for "less than" and "more than".
+    
     - A lowercase **$d$** which indicates **desire**.
+ 
+  <br>
 
-- This stage highlights how **demand** (often represented as uppercase D or as the subject's relation to demand, `$\text{\$}(D)$`) and **desire** are interconnected and shaped by the Other [^4].
+This stage highlights how **demand** (often represented as uppercase D or as the subject's relation to demand, `$\text{\$}(D)$`) and **desire** are interconnected and shaped by the Other [^4].
 
 Desire, for Lacan, is always "the desire of the Other" ($A \diamond d$).
 
@@ -486,7 +489,7 @@ The **Complete Graph** is a complex topological representation with **two signif
 
 The structure is duplicated, with the upper part of the graph mirroring the lower part's structure [^1]. This complete graph forms a series of interacting "systems" (both inter-subjective and intra-subjective), where elements can participate in multiple systems simultaneously.
 
-
+<br>
 
 
 

@@ -490,7 +490,7 @@ The **Complete Graph** is a complex topological representation with **two signif
 
 - The **lower chain** (from signifier to voice) represents the **conscious signifying chain**, the **level of the statement**.
 
-The **upper chain** (from jouissance to castration) represents the **signifying chain in the unconscious**, the **level of the enunciation**.
+- The **upper chain** (from jouissance to castration) represents the **signifying chain in the unconscious**, the **level of the enunciation**.
 
 
 The structure is duplicated, with the upper part of the graph mirroring the lower part's structure [^1]. This complete graph forms a series of interacting "systems" (both inter-subjective and intra-subjective), where elements can participate in multiple systems simultaneously.

@@ -518,7 +518,7 @@ The structure is duplicated, with the upper part of the graph mirroring the lowe
     /     I(A)                                            `($\diamond a$)`
    /     /                                                         \
   /     /                                                           \
- d     /       S($A$)                                                \
+ d     /       S(A)                                                \
  |    /       /                                                       \
  |   /       /                                                         \
  \  /       /                                                           \

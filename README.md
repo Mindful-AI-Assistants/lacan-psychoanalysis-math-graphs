@@ -407,10 +407,10 @@ S ------------------ S' Signifying Chain
 
 <br>
 
-In the second stage, Lacan introduces the **locus of the Other (A)**, representing the big Other, the symbolic order, or the "treasure trove" of signifiers [^1]. This stage illustrates how the message, located at $s(A)$, is retroactively punctuated and given meaning by the Other (A) [^1].
+In the second stage, Lacan introduces the **locus of the Other (A)**, representing the big Other, the symbolic order, or the "treasure trove" of signifiers [^1]. This stage illustrates how the message, located at $s(A)$, is retroactively punctuated and given meaning by the Other (A).
 
-- The **prelinguistic mythical subject of pure need** (represented by a triangle, or a rudimentary subject prior to language) must pass through the "defiles of the signifier" [^1].
-- This process produces the **divided subject ($\$$)**, which is the result of entering the Symbolic order [^1][^2].
+- The **prelinguistic mythical subject of pure need** (represented by a triangle, or a rudimentary subject prior to language) must pass through the "defiles of the signifier".
+- This process produces the **divided subject ($\$$)**, which is the result of entering the Symbolic order.
 
 <br>
 
@@ -449,7 +449,7 @@ This stage introduces the concepts of **demand** and **desire**, distinguishing 
  
   <br>
 
-This stage highlights how **demand** (often represented as uppercase D or as the subject's relation to demand, `$\text{\$}(D)$`) and **desire** are interconnected and shaped by the Other.
+This stage highlights how **demand** (often represented as uppercase D or as the subject's relation to demand, $\text{\$}(D)$ and **desire** are interconnected and shaped by the Other.
 
 Desire, for Lacan, is always "the desire of the Other" ($A \diamond d$).
 

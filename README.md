@@ -533,7 +533,10 @@ The structure is duplicated, with the upper part of the graph mirroring the lowe
            m (ego)
 ```
 
+<br>
 
+
+***[Note](): The actual complete graph is much more intricate with specific paths and loops for fantasy, drive, etc., forming a dense network of vectors and points.***
 
 
 

@@ -507,7 +507,9 @@ The structure is duplicated, with the upper part of the graph mirroring the lowe
 
 <br>
 
+[**Visual Representation (Conceptual overview of the Complete Graph):**]()
 
+<br>
 
 
 <!--

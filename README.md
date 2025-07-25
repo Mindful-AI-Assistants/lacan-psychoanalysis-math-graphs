@@ -450,9 +450,8 @@ This stage introduces the concepts of **demand** and **desire**, distinguishing 
  
   <br>
 
-This stage highlights how **demand** (often represented as uppercase D or as the subject's relation to demand, $\text{\$}(D)$ and **desire** are interconnected and shaped by the Other.
+- This stage highlights how **demand** (often represented as uppercase D or as the subject's relation to demand, `$\text{\$}(D)$` ) and **desire** are interconnected and shaped by the Other. Desire, for Lacan, is always "the desire of the Other" ($A \diamond d$).
 
-Desire, for Lacan, is always "the desire of the Other" ($A \diamond d$).
 
 
 <br>

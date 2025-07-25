@@ -512,6 +512,44 @@ The structure is duplicated, with the upper part of the graph mirroring the lowe
 <br>
 
 
+```
+      _______ (Unconscious Chain: Jouissance --> Castration) _______
+     /                                                              \
+    /     I(A)                                             ($\diamond a$)
+   /     /                                                         \
+  /     /                                                           \
+ d     /       S($A$)                                                \
+ |    /       /                                                       \
+ |   /       /                                                         \
+ \  /       /                                                           \
+  \_______/________ Vector of Desire ____________________________________\
+           |
+           |
+           |
+           | ($) -------- S(A) ------ S' (Conscious Chain: Signifier --> Signification)
+           |
+           |
+           |
+           m (ego)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 <br>
 

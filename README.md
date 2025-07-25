@@ -486,9 +486,11 @@ S ---------A------- S' Signifying Chain
 
 The **Complete Graph** is a complex topological representation with **two signifying chains** and multiple intersecting vectors. It integrates all the elements from the previous stages and adds new dimensions related to the **unconscious**, **enunciation**, **jouissance**, and the **drive**.
 
+<br>
 
 - The **lower chain** (from signifier to voice) represents the **conscious signifying chain**, the **level of the statement**.
-- The **upper chain** (from jouissance to castration) represents the **signifying chain in the unconscious**, the **level of the enunciation**.
+
+The **upper chain** (from jouissance to castration) represents the **signifying chain in the unconscious**, the **level of the enunciation**.
 
 
 The structure is duplicated, with the upper part of the graph mirroring the lower part's structure [^1]. This complete graph forms a series of interacting "systems" (both inter-subjective and intra-subjective), where elements can participate in multiple systems simultaneously.

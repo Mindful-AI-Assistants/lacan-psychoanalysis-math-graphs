@@ -376,6 +376,7 @@ The **Elementary Cell** is the foundational stage of the Graph of Desire. It dep
 <br>
 
 - The **horizontal line** represents the **diachronic signifying chain** ($S \to S'$), which moves from a linguistic sign to a signification or meaning. It has duration.
+
 - The **horseshoe-shaped line** represents the **vector of the subject's desire** ($\$$), which is expressed metaphorically and has no duration. This vector starts from the split or barred subject ($\$$).
 
 The **double intersection** of these two lines illustrates the **nature of retroaction (or *point de capiton*)**, where meaning is determined retroactively .
@@ -409,6 +410,8 @@ S ------------------ S' Signifying Chain
 
 In the second stage, Lacan introduces the **locus of the Other (A)**, representing the big Other, the symbolic order, or the "treasure trove" of signifiers. This stage illustrates how the message, located at $s(A)$, is retroactively punctuated and given meaning by the Other (A).
 
+<br>
+
 - The **prelinguistic mythical subject of pure need** (represented by a triangle, or a rudimentary subject prior to language) must pass through the "defiles of the signifier".
 
 - This process produces the **divided subject ($\$$)**, which is the result of entering the Symbolic order.
@@ -441,6 +444,7 @@ S ---------A------- S' Signifying Chain
 
 This stage introduces the concepts of **demand** and **desire**, distinguishing them within the graph. It often resembles a question mark, as desire, for Lacan, is fundamentally a question.
 
+<br>
 
 - [It features two new symbols]():
     
@@ -450,7 +454,7 @@ This stage introduces the concepts of **demand** and **desire**, distinguishing 
  
   <br>
 
-- This stage highlights how **demand** (often represented as uppercase D or as the subject's relation to demand, `$(D)$` ) and **desire** are interconnected and shaped by the Other. Desire, for Lacan, is always "the desire of the Other" ($A \diamond d$).
+- This stage highlights how **demand** (often represented as uppercase D or as the subject's relation to demand, `(D)` ) and **desire** are interconnected and shaped by the Other. Desire, for Lacan, is always "the desire of the Other" ($A \diamond d$).
 
 
 

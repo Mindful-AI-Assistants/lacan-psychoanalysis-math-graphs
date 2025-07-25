@@ -407,9 +407,10 @@ S ------------------ S' Signifying Chain
 
 <br>
 
-In the second stage, Lacan introduces the **locus of the Other (A)**, representing the big Other, the symbolic order, or the "treasure trove" of signifiers [^1]. This stage illustrates how the message, located at $s(A)$, is retroactively punctuated and given meaning by the Other (A).
+In the second stage, Lacan introduces the **locus of the Other (A)**, representing the big Other, the symbolic order, or the "treasure trove" of signifiers. This stage illustrates how the message, located at $s(A)$, is retroactively punctuated and given meaning by the Other (A).
 
 - The **prelinguistic mythical subject of pure need** (represented by a triangle, or a rudimentary subject prior to language) must pass through the "defiles of the signifier".
+
 - This process produces the **divided subject ($\$$)**, which is the result of entering the Symbolic order.
 
 <br>

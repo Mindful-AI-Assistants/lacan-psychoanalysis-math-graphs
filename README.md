@@ -498,6 +498,16 @@ The structure is duplicated, with the upper part of the graph mirroring the lowe
 <br>
 
 
+[**Key elements in the Complete Graph:**]():
+
+- **$s(A)$**: The signified of the Other, the subject's position in relation to the meaning produced by the Other.
+- **$I(A)$**: The Ego Ideal, the point from which the subject is seen as likable by the Other.
+- **$\$(D)$**: The subject in relation to demand, leading to the Drive.
+- **$a$**: *Objet petit a*, the object-cause of desire, linked to jouissance.
+
+<br>
+
+
 
 
 <!--

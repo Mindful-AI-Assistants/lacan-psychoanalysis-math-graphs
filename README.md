@@ -515,7 +515,7 @@ The structure is duplicated, with the upper part of the graph mirroring the lowe
 ```
       _______ (Unconscious Chain: Jouissance --> Castration) _______
      /                                                              \
-    /     I(A)                                            `($\diamond a$)`
+    /     I(A)                                           Desire as ($\diamond a$), represented here as “◇a”.
    /     /                                                         \
   /     /                                                           \
  d     /       S(A)                                                \

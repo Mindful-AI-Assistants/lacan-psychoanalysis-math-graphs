@@ -515,7 +515,7 @@ The structure is duplicated, with the upper part of the graph mirroring the lowe
 ```
       _______ (Unconscious Chain: Jouissance --> Castration) _______
      /                                                              \
-    /     I(A)                   Desire ($\diamond a$) =the unfulfilled shimmer that drives all.g. 
+    /     I(A)                 Desire ($\diamond a$)=the unfulfilled shimmer that drives all.g. 
    /     /                                                         \
   /     /                                                           \
  d     /       S(A)                                                \

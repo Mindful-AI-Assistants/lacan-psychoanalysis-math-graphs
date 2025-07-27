@@ -29,6 +29,7 @@ https://github.com/user-attachments/assets/7380e439-6547-400b-8ef1-d03d2f9bf2e0
 - [Limits of Formalization: Gödel \& Lacan](#limits-of-formalization-g%C3%B6dels-incompleteness-theorems-and-lacanian-theory)
 - [Lacan’s Graph of Desire: A Comprehensive Visual Guide]()
 - [Lacan and the Möbius Strip - Topology, Psychoanalysis, and Representation]()
+- [Lacan’s Topological Figures Beyond the Möbius Strip]()
 - [References and Further Reading](#references-and-further-reading)
 - [Contributing](#contributing)
 - [License](#license)

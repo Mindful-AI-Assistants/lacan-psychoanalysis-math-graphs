@@ -544,7 +544,7 @@ The structure is duplicated, with the upper part of the graph mirroring the lowe
 
 <br><br>
 
-##
+##   Lacan and the [Möbius Strip - Topology, Psychoanalysis]() and Representation
 
 <br>
 

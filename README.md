@@ -548,6 +548,10 @@ The structure is duplicated, with the upper part of the graph mirroring the lowe
 
 <br>
 
+### The [Torsion]():
+
+<br>
+
 https://github.com/user-attachments/assets/cbd77584-a782-4130-bca5-930882d2ea64
 
 
@@ -722,8 +726,7 @@ Submit issues or pull requests via GitHub.
 
 ## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
 
-<br><br>
-
+<br>
 
 
 #### <p align="center">  🛸๋ My Contacts [Hub](https://linktr.ee/fabianacampanari)

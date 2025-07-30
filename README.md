@@ -678,7 +678,7 @@ Start ->———/\/\/\/\————< Back to Start
 <br>
 
 
-#### [1](). Torus
+### [1](). Torus
 
 <br>
 
@@ -690,6 +690,22 @@ Start ->———/\/\/\/\————< Back to Start
 <p align="center">
 <img src="https://github.com/user-attachments/assets/bbceae8e-36ba-4fba-a66c-8db950827abc" width="325"/>
 
+<br>
+
+#### Torus 
+
+```text
+     ****
+   *      *
+  *        *
+ *          *
+ *          *
+  *        *
+   *      *
+     ****
+```
+
+<br>
 
 
 

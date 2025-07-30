@@ -564,6 +564,12 @@ https://github.com/user-attachments/assets/cbd77584-a782-4130-bca5-930882d2ea64
 
 The **Möbius strip** is a topological surface formed by taking a strip of paper, giving it a half-twist, and joining the ends to make a loop. It has the remarkable property of having only _one side_ and _one continuous edge_. If you trace along the surface, you pass “both sides” without ever crossing an edge, revealing a space where the usual binary oppositions (inside/outside) collapse.
 
+<br><br>
+
+![Image](https://github.com/user-attachments/assets/5e83e4c8-2965-473b-9bba-df9294629953)
+
+
+<br><br>
 
 
 
@@ -571,10 +577,7 @@ The **Möbius strip** is a topological surface formed by taking a strip of paper
 
 
 
-
-
-
-<br>
+<br><br>
 
 
 ## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)

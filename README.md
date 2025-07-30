@@ -583,11 +583,9 @@ Jacques Lacan employed the Möbius strip as a privileged topological metaphor to
 
 - [**Ambiguity of Inside and Outside**](): The strip illustrates that the subject is not clearly divided between internal (self, unconscious) and external (Other, language, society); these aspects are dynamically continuous, as shown by the single surface of the Möbius strip.
 
-- [**Structure of Desire**]() Desire is conceptualized as an ongoing loop traversing between the subject and the Other, never fixed to one side but constantly moving and folding back on itself, like traveling along the Möbius strip’s twisted surface.
+- [**Structure of Desire**](): Desire is conceptualized as an ongoing loop traversing between the subject and the Other, never fixed to one side but constantly moving and folding back on itself, like traveling along the Möbius strip’s twisted surface.
 
-
-
-
+- [**Unconscious as Language Structure**](): Just as the strip defies simple spatial logic, the unconscious defies the neat inside/outside division. The strip symbolizes how language and subjectivity are folded and inseparable, with “signifier” and “signified” linked in a continuous chain.
 
 
 

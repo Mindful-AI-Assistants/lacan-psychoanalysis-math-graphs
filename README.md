@@ -675,6 +675,24 @@ Start ->———/\/\/\/\————< Back to Start
 
 ## [Lacan’s Topological Figures Beyond the Möbius Strip]()
 
+<br>
+
+
+### 1. Torus
+
+<br>
+
+**The torus** is a surface shaped like a doughnut: a circle rotated around an axis outside itself.
+
+<br>
+
+
+
+
+
+
+
+
 
 
 

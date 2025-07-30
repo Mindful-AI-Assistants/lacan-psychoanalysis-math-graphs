@@ -579,6 +579,15 @@ The **Möbius strip** is a topological surface formed by taking a strip of paper
 Jacques Lacan employed the Möbius strip as a privileged topological metaphor to represent the paradoxical, continuous, and intertwined nature of subjectivity, language, and desire:
 
 
+<br>
+
+- [**Ambiguity of Inside and Outside**](): The strip illustrates that the subject is not clearly divided between internal (self, unconscious) and external (Other, language, society); these aspects are dynamically continuous, as shown by the single surface of the Möbius strip.
+
+- [**Structure of Desire**]() Desire is conceptualized as an ongoing loop traversing between the subject and the Other, never fixed to one side but constantly moving and folding back on itself, like traveling along the Möbius strip’s twisted surface.
+
+
+
+
 
 
 

@@ -678,13 +678,17 @@ Start ->———/\/\/\/\————< Back to Start
 <br>
 
 
-### 1. Torus
+#### [1](). Torus
 
 <br>
 
 **The torus** is a surface shaped like a doughnut: a circle rotated around an axis outside itself.
 
 <br>
+
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/bbceae8e-36ba-4fba-a66c-8db950827abc" width="325"/>
 
 
 

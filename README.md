@@ -705,11 +705,16 @@ Start ->———/\/\/\/\————< Back to Start
      ****
 ```
 
+
+> *The torus is depicted as a circular ring, representing a continuous surface with a central hole. In three dimensions, it looks like a doughnut.*
+
 <br>
 
+#### [Lacanian Use]():
 
+- [**Psyche and Repetition**](): The torus shows cyclical structures in the psyche—repetition, desire circling a central void (the unattainable object a). It embodies continuity, yet the hole at its center represents the structural lack at the heart of subjectivity.
 
-
+<br>
 
 
 

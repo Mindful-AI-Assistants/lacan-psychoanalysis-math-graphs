@@ -692,7 +692,7 @@ Start ->———/\/\/\/\————< Back to Start
 
 <br>
 
-#### Torus 
+#### [Torus](): 
 
 <br>
 
@@ -735,7 +735,7 @@ Start ->———/\/\/\/\————< Back to Start
 
 <br>
 
-#### Klein Bottle 
+#### [Klein Bottle](): 
 
 <br>
 

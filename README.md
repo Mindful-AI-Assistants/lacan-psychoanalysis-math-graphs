@@ -752,12 +752,12 @@ Start ->———/\/\/\/\————< Back to Start
 <br>
 
 
-#### Lacanian Use
+#### [Lacanian Use]():
 
-- **Beyond Distinction:** The Klein bottle challenges the division between inside and outside even more radically than the Möbius strip. For Lacan, it models the way language and subjectivity suffuse each other, erasing fixed boundaries between self and Other, conscious and unconscious.
+- [**Beyond Distinction:**]() The Klein bottle challenges the division between inside and outside even more radically than the Möbius strip. For Lacan, it models the way language and subjectivity suffuse each other, erasing fixed boundaries between self and Other, conscious and unconscious.
 
 
-
+<br>
 
 
 

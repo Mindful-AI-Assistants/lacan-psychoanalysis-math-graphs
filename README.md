@@ -678,7 +678,7 @@ Start ->———/\/\/\/\————< Back to Start
 <br>
 
 
-#### [1](). Torus
+### [1](). Torus
 
 <br>
 
@@ -690,10 +690,31 @@ Start ->———/\/\/\/\————< Back to Start
 <p align="center">
 <img src="https://github.com/user-attachments/assets/bbceae8e-36ba-4fba-a66c-8db950827abc" width="325"/>
 
+<br>
+
+#### Torus 
+
+```text
+     ****
+   *      *
+  *        *
+ *          *
+ *          *
+  *        *
+   *      *
+     ****
+```
 
 
+> *The torus is depicted as a circular ring, representing a continuous surface with a central hole. In three dimensions, it looks like a doughnut.*
 
+<br>
 
+#### [Lacanian Use]():
+
+- [**Psyche and Repetition**](): The torus shows cyclical structures in the psyche—repetition, desire circling a central void (the unattainable object a). It embodies continuity, yet the hole at its center represents the structural lack at the heart of subjectivity.
+
+<br>
 
 
 

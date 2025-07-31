@@ -785,7 +785,7 @@ Start ->———/\/\/\/\————< Back to Start
 
 <br>
 
-The **Borromean knot (or rings)** consists of three interlinked rings, no two of which are directly linked; removing one unlinks the rest.
+The [**Borromean knot (or rings)**]() consists of three interlinked rings, no two of which are directly linked; removing one unlinks the rest.
 
 <br>
 
@@ -796,7 +796,7 @@ The **Borromean knot (or rings)** consists of three interlinked rings, no two of
 
 <br>
 
-
+#### [Borromean Knot]():
 
 
 

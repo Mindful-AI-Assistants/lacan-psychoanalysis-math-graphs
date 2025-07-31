@@ -778,9 +778,14 @@ Start ->———/\/\/\/\————< Back to Start
 - [**Beyond Distinction:**]() The Klein bottle challenges the division between inside and outside even more radically than the Möbius strip. For Lacan, it models the way language and subjectivity suffuse each other, erasing fixed boundaries between self and Other, conscious and unconscious.
 
 
+<br><br>
+
+
+### [3](). Borromean Knot
+
 <br>
 
-
+The **Borromean knot (or rings)** consists of three interlinked rings, no two of which are directly linked; removing one unlinks the rest.
 
 <br>
 
@@ -788,7 +793,12 @@ Start ->———/\/\/\/\————< Back to Start
 <p align="center">
 <img src="https://github.com/user-attachments/assets/f1efc7e3-6e06-4c3d-b4cf-d587a3c7bd82" width="325"/>
 
+
 <br>
+
+
+
+
 
 
 

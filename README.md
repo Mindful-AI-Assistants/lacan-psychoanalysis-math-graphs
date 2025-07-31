@@ -747,8 +747,9 @@ Start ->———/\/\/\/\————< Back to Start
     | |
 ```
 
+> *This shows a simplified bottle whose neck curves back into its side, passing "through" the surface (as possible only in four dimensions).*
 
-
+<br>
 
 
 

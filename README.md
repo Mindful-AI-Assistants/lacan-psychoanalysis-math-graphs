@@ -716,11 +716,9 @@ Start ->———/\/\/\/\————< Back to Start
 
 - [**Psyche and Repetition**](): The torus shows cyclical structures in the psyche—repetition, desire circling a central void (the unattainable object a). It embodies continuity, yet the hole at its center represents the structural lack at the heart of subjectivity.
 
-<br>
 
-[[[========]]]
+<br><br>
 
-<br>
 
 
 ### [2](). Klein Bottle
@@ -728,6 +726,12 @@ Start ->———/\/\/\/\————< Back to Start
 <br>
 
 [**The Klein bottle**]() is a non-orientable surface with no inside or outside. It cannot be fully represented in three dimensions without self-intersection.
+
+<br>
+
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/b990457f-2159-49ec-8710-8aadd446d1f3" width="325"/>
 
 <br>
 

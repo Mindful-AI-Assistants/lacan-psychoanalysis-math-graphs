@@ -798,6 +798,20 @@ The [**Borromean knot (or rings)**]() consists of three interlinked rings, no tw
 
 #### [Borromean Knot]():
 
+<br>
+
+
+```text
+    O    O
+     \  /
+      \/
+      /\
+     /  \
+    O----O
+```
+
+
+
 
 
 

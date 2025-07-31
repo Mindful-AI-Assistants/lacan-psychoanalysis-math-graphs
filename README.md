@@ -682,7 +682,7 @@ Start ->———/\/\/\/\————< Back to Start
 
 <br>
 
-**The torus** is a surface shaped like a doughnut: a circle rotated around an axis outside itself.
+[**The torus**]() is a surface shaped like a doughnut: a circle rotated around an axis outside itself.
 
 <br>
 
@@ -693,6 +693,8 @@ Start ->———/\/\/\/\————< Back to Start
 <br>
 
 #### Torus 
+
+<br>
 
 ```text
      ****
@@ -723,7 +725,25 @@ Start ->———/\/\/\/\————< Back to Start
 
 ### [2](). Klein Bottle
 
-**The Klein bottle** is a non-orientable surface with no inside or outside. It cannot be fully represented in three dimensions without self-intersection.
+<br>
+
+[**The Klein bottle**]() is a non-orientable surface with no inside or outside. It cannot be fully represented in three dimensions without self-intersection.
+
+<br>
+
+#### Klein Bottle 
+
+<br>
+
+
+
+
+
+
+
+
+
+
 
 
 

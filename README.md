@@ -503,8 +503,11 @@ The structure is duplicated, with the upper part of the graph mirroring the lowe
 [**Key elements in the Complete Graph:**]():
 
 - **$s(A)$**: The signified of the Other, the subject's position in relation to the meaning produced by the Other.
+
 - **$I(A)$**: The Ego Ideal, the point from which the subject is seen as likable by the Other.
+
 - **(D)**: The subject in relation to demand, leading to the Drive.
+
 - **$a$**: *Objet petit a*, the object-cause of desire, linked to jouissance.
 
 <br>
@@ -550,7 +553,11 @@ The structure is duplicated, with the upper part of the graph mirroring the lowe
 
 #### [Möbius Strip in Lacan's Psychoanalysis]():
 
+<br>
+
 The Möbius strip is a mathematical surface with a half-twist, forming **one continuous side and one boundary**.
+
+<br>
 
 - [**Key property:**](): Traveling on it covers what seem to be “two sides” without lifting the pen since it really has only one side.
 
@@ -598,11 +605,19 @@ Jacques Lacan employed the Möbius strip as a privileged topological metaphor to
 
 - [**Ambiguity of Inside and Outside**](): The strip illustrates that the subject is not clearly divided between internal (self, unconscious) and external (Other, language, society); these aspects are dynamically continuous, as shown by the single surface of the Möbius strip.
 
+<br>
+
 - [**Structure of Desire**](): Desire is conceptualized as an ongoing loop traversing between the subject and the Other, never fixed to one side but constantly moving and folding back on itself, like traveling along the Möbius strip’s twisted surface.
+
+<br>
 
 - [**Unconscious as Language Structure**](): Just as the strip defies simple spatial logic, the unconscious defies the neat inside/outside division. The strip symbolizes how language and subjectivity are folded and inseparable, with “signifier” and “signified” linked in a continuous chain.
 
+<br>
+
 - [**Clinical Implications**](): Symptoms and psychic phenomena can be seen as “twist points” or “cuts” on the strip that break but also constitute the continuous flow of signification and desire. The analytic process can be conceptualized as “traversing the fantasy,” moving along the strip beyond fixed identifications.
+
+<br>
 
 - [**Relation to Other Topological Figures**](): Lacan’s broader topological toolbox includes the torus, Klein bottle, cross-cap, and Borromean knot, each representing other complex structures in psychoanalysis (imaginary, symbolic, real, and their interrelations).
 
@@ -610,6 +625,8 @@ Jacques Lacan employed the Möbius strip as a privileged topological metaphor to
 
 
 ### - [Representations of the Möbius Strip]()
+
+<br>
 
 Below are several simple ASCII art representations of the Möbius strip, suitable for Markdown environments, along with brief interpretative comments.
 

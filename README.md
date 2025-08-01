@@ -710,7 +710,7 @@ Lacan uses the torus (toro in Portuguese) as an important topological figure i
 
 <br>
 
-#### [Torus](): 
+### [Torus](): 
 
 <br>
 
@@ -773,7 +773,7 @@ Lacan uses the torus (toro in Portuguese) as an important topological figure i
 
 <br>
 
-#### [Klein Bottle](): 
+### [Klein Bottle](): 
 
 <br>
 
@@ -817,7 +817,7 @@ The [**Borromean knot (or rings)**]() consists of three interlinked rings, no tw
 
 <br>
 
-#### [Borromean Knot]():
+### [Borromean Knot]():
 
 <br>
 

@@ -734,13 +734,21 @@ Lacan uses the torus (toro in Portuguese) as an important topological figure i
 
   * Continuity and Repetition: The torus illustrates the cyclical, repetitive nature of desire and demand. Desire is not fixed but circulates like movement around the ring of the torus.
 
+<br>
+
   * Central Hole as Lack: The hole in the middle of the torus symbolizes a fundamental void or lack that is the core of subjectivity and desire — this lack is what drives the subject’s continual movement around desire.
+
+<br>
 
   * Relation to Demand and Desire: Lacan used the torus in his seminars, particularly in "Function and Field of Speech and Language" and "The Seminar on Identification," to explain the dynamic relationship between demand (what    is asked from the Other) and desire (what remains unfulfilled and elusive).
  
+ <br>
+  
   * Topological Reversal: In psychoanalytic dynamics, the torus can be “turned inside out” or “reversed,” reflecting phenomena like identification and the shifts in psychic boundaries between inside and outside.
 
-   * Incorporation in Clinical Theory: The torus helps conceptualize how the subject’s structure is organized around a dynamic of emptiness and repetition, which informs psychoanalytic treatment and interpretation.
+ <br>
+   
+  * Incorporation in Clinical Theory: The torus helps conceptualize how the subject’s structure is organized around a dynamic of emptiness and repetition, which informs psychoanalytic treatment and interpretation.
 
 
 <br><br>

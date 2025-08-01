@@ -703,6 +703,7 @@ Start ->———/\/\/\/\————< Back to Start
 
 Lacan uses the torus (toro in Portuguese) as an important topological figure in his psychoanalytic theory to represent the structure and dynamics of desire and subjectivity. The torus is a doughnut-shaped surface characterized by its ring form with a central hole, and it symbolizes continuity with a central void that is conceptually linked to Lacan’s notion of lack or "object a"—the unattainable object of desire.
 
+<br>
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/bbceae8e-36ba-4fba-a66c-8db950827abc" width="325"/>

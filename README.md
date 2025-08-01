@@ -732,6 +732,8 @@ Lacan uses the torus (toro in Portuguese) as an important topological figure i
 
 - [Key points about the torus in Lacan’s theory]():
 
+<br>  
+
  * Continuity and Repetition: The torus illustrates the cyclical, repetitive nature of desire and demand. Desire is not fixed but circulates like movement around the ring of the torus.
 
 <br>

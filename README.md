@@ -714,7 +714,11 @@ Lacan uses the torus (toro in Portuguese) as an important topological figure i
 
 <br>
 
-Key points about the torus in Lacan’s theory:
+- [Key points about the torus in Lacan’s theory]():
+
+  * Continuity and Repetition: The torus illustrates the cyclical, repetitive nature of desire and demand. Desire is not fixed but circulates like movement around the ring of the torus.
+
+  * Central Hole as Lack: The hole in the middle of the torus symbolizes a fundamental void or lack that is the core of subjectivity and desire — this lack is what drives the subject’s continual movement around desire.
 
 
 

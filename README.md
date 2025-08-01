@@ -720,6 +720,8 @@ Lacan uses the torus (toro in Portuguese) as an important topological figure i
 
   * Central Hole as Lack: The hole in the middle of the torus symbolizes a fundamental void or lack that is the core of subjectivity and desire — this lack is what drives the subject’s continual movement around desire.
 
+  * Relation to Demand and Desire: Lacan used the torus in his seminars, particularly in "Function and Field of Speech and Language" and "The Seminar on Identification," to explain the dynamic relationship between demand (what    is asked from the Other) and desire (what remains unfulfilled and elusive).
+ 
 
 
 

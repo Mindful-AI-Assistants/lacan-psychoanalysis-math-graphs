@@ -677,13 +677,11 @@ Below are several simple ASCII art representations of the Möbius strip, suitabl
 
 <br>
 
-####  [Möbius Strip](): Traversing the Sides of Subjectivity
+###  [Möbius Strip](): Traversing the Sides of Subjectivity
 
 <br>
 
 [**Clinical Example**]():
-
-<br>
 
 A patient insistently oscillates between feeling “inside” (withdrawn, self-absorbed) and “outside” (dependent or seeking validation). Every time therapy seems to clarify a boundary—such as understanding a symptom as “mine” versus “the Other’s”—the patient’s experience slips to the opposite side, as if the distinction melts away.
 

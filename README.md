@@ -701,7 +701,7 @@ Start ->———/\/\/\/\————< Back to Start
 
 [**The torus**]() is a surface shaped like a doughnut: a circle rotated around an axis outside itself.
 
-<br>
+Lacan uses the torus (toro in Portuguese) as an important topological figure in his psychoanalytic theory to represent the structure and dynamics of desire and subjectivity. The torus is a doughnut-shaped surface characterized by its ring form with a central hole, and it symbolizes continuity with a central void that is conceptually linked to Lacan’s notion of lack or "object a"—the unattainable object of desire.
 
 
 <p align="center">

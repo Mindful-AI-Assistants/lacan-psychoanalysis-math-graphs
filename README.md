@@ -861,7 +861,7 @@ The [**Borromean knot (or rings)**]() consists of three interlinked rings, no tw
 <img src="https://github.com/user-attachments/assets/f1efc7e3-6e06-4c3d-b4cf-d587a3c7bd82" width="325"/>
 
 
-<br>
+<br><br>
 
 ### [Borromean Knot]():
 
@@ -880,18 +880,18 @@ The [**Borromean knot (or rings)**]() consists of three interlinked rings, no tw
 
 > *Each circle is linked with the other two, forming a structure where all are interdependent, yet no pair is directly connected.*
 
+
 <br>
 
-#### [Lacanian Use]():
+### [Lacanian Use]():
 
 - [**Registers of the Psyche:**](): The Borromean knot models the Real, the Symbolic, and the Imaginary—Lacan’s three primary registers. The subject’s coherence depends on the way these link together; if any are cut, psychic coherence collapses. It’s central in Lacan’s late work to show the topology of psychic structure and the impact of trauma or symptom.
 
+<br>
 
+#### [Borromean Knot](): Psychotic Breaks and Knotting Symptoms
 
-<br><br>
-
-
-
+<br>
 
 
 

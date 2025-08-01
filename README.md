@@ -702,13 +702,13 @@ Start ->———/\/\/\/\————< Back to Start
 
 > *The zigzag symbolizes the half-twist in the strip before returning to the start point.*
 
-<br>
+<br><br>
 
 
 ## [Lacan’s Topological Figures Beyond the Möbius Strip]()
 
 
-<br><br>
+<br>
 
 
 ### [1](). Torus
@@ -772,7 +772,7 @@ Lacan uses the torus (toro in Portuguese) as an important topological figure i
 
 <br>
 
-#### 2. [Torus](): The Circuit of Repetitive Desire
+####  [Torus](): The Circuit of Repetitive Desire
 
 <br>
 
@@ -802,7 +802,7 @@ The torus enables the analyst to conceptualize repetition compulsion not merely 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/b990457f-2159-49ec-8710-8aadd446d1f3" width="325"/>
 
-<br>
+<br><br>
 
 ### [Klein Bottle](): 
 
@@ -825,9 +825,21 @@ The torus enables the analyst to conceptualize repetition compulsion not merely 
 <br>
 
 
-#### [Lacanian Use]():
+### [Lacanian Use]():
 
 - [**Beyond Distinction:**](): The Klein bottle challenges the division between inside and outside even more radically than the Möbius strip. For Lacan, it models the way language and subjectivity suffuse each other, erasing fixed boundaries between self and Other, conscious and unconscious.
+
+ <br> 
+
+#### [Klein Bottle](): Inside/Outside Dissolution and Psychotic Structure
+
+ <br> 
+
+
+
+
+
+
 
 
 

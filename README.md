@@ -727,10 +727,12 @@ Lacan uses the torus (toro in Portuguese) as an important topological figure i
    * Incorporation in Clinical Theory: The torus helps conceptualize how the subject’s structure is organized around a dynamic of emptiness and repetition, which informs psychoanalytic treatment and interpretation.
 
 
+<br>
+
 [Below is a simple ASCII representation of the torus in Markdown format]():
 
 
-<br>
+<br><br>
 
 ```text
      ****

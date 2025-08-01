@@ -692,7 +692,8 @@ Start ->———/\/\/\/\————< Back to Start
 
 ## [Lacan’s Topological Figures Beyond the Möbius Strip]()
 
-<br>
+
+<br><br>
 
 
 ### [1](). Torus
@@ -770,7 +771,7 @@ The torus enables the analyst to conceptualize repetition compulsion not merely 
 
 
 
-<br><br>
+<br><br><br>
 
 
 
@@ -814,7 +815,9 @@ The torus enables the analyst to conceptualize repetition compulsion not merely 
 - [**Beyond Distinction:**](): The Klein bottle challenges the division between inside and outside even more radically than the Möbius strip. For Lacan, it models the way language and subjectivity suffuse each other, erasing fixed boundaries between self and Other, conscious and unconscious.
 
 
-<br><br>
+
+
+<br><br><br>
 
 
 ### [3](). Borromean Knot

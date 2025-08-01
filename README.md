@@ -894,14 +894,22 @@ The [**Borromean knot (or rings)**]() consists of three interlinked rings, no tw
 <br>
 
 
+[**Clinical Example**]():
+A patient who previously functions well suddenly experiences a psychotic break following trauma, with symptoms such as delusions, hallucinations, or disintegration of meaning. There is a sense of unraveling or falling apart that the patient cannot control.
+
+<br>
+
+- [**Implication**]():
+The Borromean knot models how the Real, Symbolic, and Imaginary need to be linked for psychic stability. A “break in the knot” after trauma explains the onset of florid symptoms. Analytically, the goal may be less about restoring the previous state and more about helping the patient re-knot these registers—sometimes by supporting the formation of a stabilizing symptom (“sinthome”), such as a creative activity, relationship, or belief.
 
 
 
 
+<br><br>
 
+<br><br>
 
-
-
+<br><br>
 
 
 

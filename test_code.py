@@ -1,4 +1,3 @@
-
 #Test file for pytest. This example includes several test functions and uses pytest fixtures for setup and teardown.
 
 import pytest

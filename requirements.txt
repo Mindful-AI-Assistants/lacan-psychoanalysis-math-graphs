@@ -1,5 +1,10 @@
 
 
+# Framework Web Application:
+
+streamlit==1.46.1
+Django==5.1.7
+
 
 # Data Manipulation Libraries:
 numpy==2.2.3
@@ -29,7 +34,7 @@ beautifulsoup4==4.13.4
 requests==2.32.4
 
 # Database Libraries:
-sqlalchemy==2.0.42
+sqlalchemy==2.0.41
 psycopg2-binary==2.9.10
 
 # Jupyter Notebook Libraries:

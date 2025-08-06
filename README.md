@@ -79,7 +79,7 @@ By linking psychoanalysis with symbolic mathematics and computational frameworks
 
 Recent computational work (e.g., Heins et al. 2025) embeds these concepts within the **Free Energy Principle (FEP)** framework, modeling living and cognitive systems as minimizing prediction error or "free energy."
 
-<br<
+<br>
 
 ### [This formalization reveals]():
 

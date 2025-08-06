@@ -183,6 +183,7 @@ This repository enables visualization and symbolic analysis of **Lacan’s Graph
 - Potential to extend with interactive widgets or agent-based models for deeper research
 
 
+<!---
 <br>
 
 - [**Graph visualization**]()
@@ -209,6 +210,8 @@ Generate and print symbolic formulas, e.g., Lacan's sexuation mathemes:
 See notebooks simulating interactions inspired by the Free Energy Principle and Lacanian dynamics.
 
 <br>
+
+--->
 
 
 ```python

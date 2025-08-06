@@ -21,6 +21,7 @@ https://github.com/user-attachments/assets/7380e439-6547-400b-8ef1-d03d2f9bf2e0
 ## Table of Contents
 
 - [Overview](#overview)
+- [What’s Inside]()
 - [Key Concepts](#key-concepts)
 - [Recent Computational Formalization](#recent-computational-formalization)
 - [Repository Structure](#repository-structure)
@@ -41,6 +42,26 @@ https://github.com/user-attachments/assets/7380e439-6547-400b-8ef1-d03d2f9bf2e0
 This repository offers a deep exploration of [**Jacques Lacan’s psychoanalytic theory**](), focusing on the [**Graph of Desire**]() and associated [*mathemes*]() formal symbolic and topological representations of unconscious subjectivity and desire.
 
 By linking psychoanalysis with symbolic mathematics and computational frameworks such as the [**Free Energy Principle (FEP)**](), this project bridges psychoanalysis, linguistics, cognitive science, and [**Humanistic Artificial Intelligence (AI)**]().
+
+
+<br><br>
+
+## [What’s Inside]()
+
+- **LaTeX/TikZ visualizations** of Lacan’s key graphs, including the Graph of Desire, with elements such as the barred subject ($\$$), Other ($A$), and objet petit a ($a$).
+- **Python Jupyter Notebooks** simulating Lacan-inspired dynamics using:
+- **NetworkX** — graph nodes and edges visualization
+- **Matplotlib** — plotting the vector of desire (horseshoe curve)
+- **SymPy** — symbolic logic to express Lacan’s sexuation mathemes
+- Theoretical discussions on:
+- Alienation, truth, and transference
+- Embodiment and unconscious material formalization
+- Relationships between Lacanian theory and computational neuroscience
+- Latest research insights formalizing Lacan’s psychoanalysis with the **Free Energy Principle** approach:
+- Modeling the **Real, Symbolic, Imaginary (RSI)** triad as autonomous, interacting units minimizing free energy
+- Formalizing **desire** as dyadic synchronization of symbolic orders
+- Modeling **the Other** as an emergent triadic collective dynamic
+- Educational and research resources for linguists, psychoanalysts, AI researchers, and Humanistic AI data scientists.
 
 <br>
 

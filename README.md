@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/7380e439-6547-400b-8ef1-d03d2f9bf2e0
 ## Table of Contents
 
 - [Overview](#overview)
-- [What’s Inside]()
+- [What’s Inside](#what’sinside)
 - [Key Concepts](#key-concepts)
 - [Recent Computational Formalization](#recent-computational-formalization)
 - [Repository Structure](#repository-structure)

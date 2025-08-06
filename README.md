@@ -914,6 +914,22 @@ The Borromean knot models how the Real, Symbolic, and Imaginary need to be linke
 
 
 
+<br>
+
+
+## Summary Table: Lacan’s Main Topological Figures
+
+| Topological Figure | ASCII/Markdown Example | Psychoanalytic Meaning |
+| :-- | :-- | :-- |
+| Möbius Strip | See above | Inside/outside continuity, paradoxical subjectivity |
+| Torus | `see above` | Repetition, the circuit of desire around lack (object a) |
+| Klein Bottle | `see above` | Radical erasure of inner/outer, entwined subject/Other |
+| Borromean Knot | `see above` | Interlocking of Real, Symbolic, Imaginary (fundamental linkage) |
+
+
+
+
+
 
 <br><br>
 

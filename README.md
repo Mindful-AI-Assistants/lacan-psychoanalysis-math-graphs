@@ -1027,6 +1027,20 @@ The Borromean knot models how the Real, Symbolic, and Imaginary need to be linke
 <br><br>
 
 
+## Contributing
+
+Contributions welcome from psychoanalysts, AI researchers, linguists, and data scientists! Please:
+
+- Suggest new simulations or visualizations
+- Extend symbolic formalisms
+- Develop educational materials or case studies
+
+Submit issues or pull requests via GitHub.
+
+
+<br><br>
+
+
 ## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
 
 <br>

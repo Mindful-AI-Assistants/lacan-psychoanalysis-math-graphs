@@ -931,6 +931,12 @@ The Borromean knot models how the Real, Symbolic, and Imaginary need to be linke
 
 <br>
 
+### Explanations
+
+<br>
+
+- **Topology** allows Lacan to formalize paradoxical structures—such as lack, twisting, and interconnectedness—that define the unconscious, language, and the clinic.
+- Each figure represents not just a metaphor but a dynamic, formalized mode of how subjectivity and desire operate, especially where simple spatial metaphors break down.
 
 
 

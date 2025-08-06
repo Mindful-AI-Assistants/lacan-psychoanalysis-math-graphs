@@ -22,6 +22,7 @@ https://github.com/user-attachments/assets/7380e439-6547-400b-8ef1-d03d2f9bf2e0
 
 - [Overview](#overview)
 - [What’s Inside](#what’sinside)
+- [Background on Lacan and Computational Psychoanalysis]()
 - [Key Concepts](#key-concepts)
 - [Recent Computational Formalization](#recent-computational-formalization)
 - [Repository Structure](#repository-structure)

@@ -38,9 +38,9 @@ https://github.com/user-attachments/assets/7380e439-6547-400b-8ef1-d03d2f9bf2e0
 
 ## [Overview]():
 
-This repository offers a deep exploration of **Jacques Lacan’s psychoanalytic theory**, focusing on the **Graph of Desire** and associated *mathemes*—formal symbolic and topological representations of unconscious subjectivity and desire.
+This repository offers a deep exploration of [**Jacques Lacan’s psychoanalytic theory**](), focusing on the [**Graph of Desire**]() and associated [*mathemes*]() formal symbolic and topological representations of unconscious subjectivity and desire.
 
-By linking psychoanalysis with symbolic mathematics and computational frameworks such as the **Free Energy Principle (FEP)**, this project bridges psychoanalysis, linguistics, cognitive science, and **Humanistic Artificial Intelligence (AI)**.
+By linking psychoanalysis with symbolic mathematics and computational frameworks such as the [**Free Energy Principle (FEP)**](), this project bridges psychoanalysis, linguistics, cognitive science, and [**Humanistic Artificial Intelligence (AI)**]().
 
 <br>
 

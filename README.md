@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/7380e439-6547-400b-8ef1-d03d2f9bf2e0
 - [Lacan’s Graph of Desire: A Comprehensive Visual Guide]()
 - [Lacan and the Möbius Strip - Topology, Psychoanalysis, and Representation]()
 - [Lacan’s Topological Figures Beyond the Möbius - TORUS]()
-- [References and Further Reading](#references-and-further-reading)
+- [Resources and References]()
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -213,6 +213,7 @@ See notebooks simulating interactions inspired by the Free Energy Principle and 
 
 --->
 
+<br>
 
 ```python
 %pip install networkx
@@ -1011,7 +1012,16 @@ The Borromean knot models how the Real, Symbolic, and Imaginary need to be linke
 - Each figure represents not just a metaphor but a dynamic, formalized mode of how subjectivity and desire operate, especially where simple spatial metaphors break down.
 
 
+<br><br>
 
+
+## [Resources and References]()
+
+- **Heins, R., et al. (2025).** *Formalizing Lacanian psychoanalysis through the free energy principle: computational simulations of desire, the Borromean knot, and the Other.* Frontiers in Psychology. [DOI:10.3389/fpsyg.2025.1574650](https://doi.org/10.3389/fpsyg.2025.1574650)
+- **Romanowicz, T., \& Moncayo, J. (2015).** *Going beyond Castration in the Graph of Desire.* The Letter, Issue 58.
+- **Stanford Encyclopedia of Philosophy:** [Lacan](https://plato.stanford.edu/entries/lacan/)
+- **TikZ Lacanian mathemes repo:** [gjoncas / Lacan-Mathemes](https://github.com/gjoncas/Lacan-Mathemes)
+- **Seminar Videos:** Search Dr. Dan Collins’ Lacan lectures on YouTube
 
 
 <br><br>

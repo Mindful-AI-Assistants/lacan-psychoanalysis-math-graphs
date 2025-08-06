@@ -34,6 +34,7 @@ https://github.com/user-attachments/assets/7380e439-6547-400b-8ef1-d03d2f9bf2e0
 - [Lacan’s Topological Figures Beyond the Möbius - TORUS]()
 - [Resources and References]()
 - [Contributing](#contributing)
+- [Let the data flow... Ping Me !]()
 - [License](#license)
 
 <br><br>

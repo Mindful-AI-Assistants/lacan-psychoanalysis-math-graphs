@@ -914,10 +914,12 @@ The Borromean knot models how the Real, Symbolic, and Imaginary need to be linke
 
 
 
-<br>
+<br><br>
 
 
 ## Summary Table: Lacan’s Main Topological Figures
+
+<br>
 
 | Topological Figure | ASCII/Markdown Example | Psychoanalytic Meaning |
 | :-- | :-- | :-- |
@@ -927,18 +929,7 @@ The Borromean knot models how the Real, Symbolic, and Imaginary need to be linke
 | Borromean Knot | `see above` | Interlocking of Real, Symbolic, Imaginary (fundamental linkage) |
 
 
-
-
-
-
-<br><br>
-
-<br><br>
-
-<br><br>
-
-
-
+<br>
 
 
 

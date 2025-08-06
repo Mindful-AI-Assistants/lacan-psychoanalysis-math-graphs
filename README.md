@@ -136,29 +136,52 @@ A recent study ([Heins et al., 2025](https://doi.org/10.3389/fpsyg.2025.1574650)
 
 ## [Installation]()
 
-[1](). Make sure you have Python 3.8+ and Jupyter Lab/Notebook installed.
-
-[2](). Install required packages:
-
-<br>
+1. Install Python 3.8+ (Anaconda recommended).
+2. Install dependencies:
 
 ```bash
 pip install matplotlib networkx sympy jupyterlab
 ```
 
+3. Launch Jupyter Lab or Notebook:
+
+```bash
+jupyter lab
+```
+
 <br>
 
-[3](). Launch Jupyter and open the notebooks.
+[4](). Launch Jupyter and open the notebooks.
 
-## Usage and Examples
-
-This repository enables visualization and symbolic analysis of **Lacan’s Graph of Desire**:
 
 <br>
 
 ## [Usage and Examples]()
 
 This repository enables visualization and symbolic analysis of **Lacan’s Graph of Desire**:
+
+<br>
+
+
+### Visualizing Lacan’s Graph of Desire
+
+- Directed graph of key Lacanian nodes and symbolic edges
+- Horseshoe-shaped vector of desire intersecting the signifying chain
+- Annotation of barred subject, Other, desire point
+
+
+### Symbolic Formalization
+
+- Logical symbolic formulas representing Lacan’s sexuation mathemes, e.g.:
+    - Masculine sexuation: $\forall x \neg \Phi(x)$
+    - Feminine sexuation: $\neg \exists x \neg \Phi(x)$
+
+
+### Computational Psychoanalytic Modeling
+
+- Simulation scripts demonstrating basic dynamics inspired by Lacanian theory and FEP
+- Potential to extend with interactive widgets or agent-based models for deeper research
+
 
 <br>
 

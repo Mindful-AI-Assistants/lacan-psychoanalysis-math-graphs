@@ -1019,9 +1019,13 @@ The Borromean knot models how the Real, Symbolic, and Imaginary need to be linke
 ## [Resources and References]()
 
 - **Heins, R., et al. (2025).** *Formalizing Lacanian psychoanalysis through the free energy principle: computational simulations of desire, the Borromean knot, and the Other.* Frontiers in Psychology. [DOI:10.3389/fpsyg.2025.1574650](https://doi.org/10.3389/fpsyg.2025.1574650)
+
 - **Romanowicz, T., \& Moncayo, J. (2015).** *Going beyond Castration in the Graph of Desire.* The Letter, Issue 58.
+
 - **Stanford Encyclopedia of Philosophy:** [Lacan](https://plato.stanford.edu/entries/lacan/)
+
 - **TikZ Lacanian mathemes repo:** [gjoncas / Lacan-Mathemes](https://github.com/gjoncas/Lacan-Mathemes)
+
 - **Seminar Videos:** Search Dr. Dan Collins’ Lacan lectures on YouTube
 
 <br>
@@ -1030,17 +1034,17 @@ The Borromean knot models how the Real, Symbolic, and Imaginary need to be linke
 
 - 1: https://arxiv.org/pdf/2309.06707.pdf
 
-- [2](): https://pubmed.ncbi.nlm.nih.gov/40547582/
+- 2: https://pubmed.ncbi.nlm.nih.gov/40547582/
 
-- [^3]: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1574650/full
+- 3: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1574650/full
 
-- [^4]: https://pmc.ncbi.nlm.nih.gov/articles/PMC12180394/
+- 4: https://pmc.ncbi.nlm.nih.gov/articles/PMC12180394/
 
-- [^5]: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1574650/xml
+- 5: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1574650/xml
 
-- [^6]: https://www.bohrium.com/paper-details/an-active-inference-model-of-lacanian-psychoanalysis/909142426050887756-108563
+- 6: https://www.bohrium.com/paper-details/an-active-inference-model-of-lacanian-psychoanalysis/909142426050887756-108563
 
-- [^7]: https://www.bohrium.com/paper-details/collective-behavior-from-surprise-minimization/987893228252430340-107588
+- 7: https://www.bohrium.com/paper-details/collective-behavior-from-surprise-minimization/987893228252430340-107588
 
 
 <br><br>

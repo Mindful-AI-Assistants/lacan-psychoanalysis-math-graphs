@@ -1028,7 +1028,7 @@ The Borromean knot models how the Real, Symbolic, and Imaginary need to be linke
 
 ### [Links]()
 
-- [1]: https://arxiv.org/pdf/2309.06707.pdf
+- [1](): https://arxiv.org/pdf/2309.06707.pdf
 
 - [^2]: https://pubmed.ncbi.nlm.nih.gov/40547582/
 
@@ -1061,6 +1061,12 @@ Submit issues or pull requests via GitHub.
 
 
 ## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
+
+
+#### [Contact and Support]()
+
+- For notebook files, detailed tutorials, or enhanced visualizations, please reach out.
+- Interested in Python notebooks simulating these dynamics or advanced Humanistic AI models? Just ask!
 
 <br>
 

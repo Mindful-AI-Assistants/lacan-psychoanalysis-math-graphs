@@ -1028,7 +1028,7 @@ The Borromean knot models how the Real, Symbolic, and Imaginary need to be linke
 
 ### [Links]()
 
-- [1](): https://arxiv.org/pdf/2309.06707.pdf
+- 1: https://arxiv.org/pdf/2309.06707.pdf
 
 - [2](): https://pubmed.ncbi.nlm.nih.gov/40547582/
 

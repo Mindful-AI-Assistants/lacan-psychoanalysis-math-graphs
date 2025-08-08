@@ -139,6 +139,8 @@ A recent study ([Heins et al., 2025](https://doi.org/10.3389/fpsyg.2025.1574650)
 
 ## [Installation]()
 
+<br>
+
 [1](). Install Python 3.8+ (Anaconda recommended).
 
 [2](). Install dependencies:
@@ -162,6 +164,8 @@ jupyter lab
 <br>
 
 ## [Usage and Examples]()
+
+<br>
 
 This repository enables visualization and symbolic analysis of **Lacan’s Graph of Desire**:
 

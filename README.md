@@ -213,7 +213,7 @@ This section includes visualizations and symbolic computations of key Lacanian c
 - [**Mathemes with SymPy**](): Generating and printing symbolic formulas, such as Lacan's sexuation mathemes (masculine and feminine formulas).
 
 
-<br>
+<br><br>
 
 ### 1. [Graph of Desire Visualization]()
 
@@ -287,6 +287,37 @@ By placing this image near detailed discussion of the signifying chain, barred s
 ### 2. [Horseshoe Curve — Vector of Desire and Signifying Chain]()
 
 
+<br>
+
+```python
+# Additional imports
+import numpy as np
+
+# Define the horseshoe curve (vector of desire)
+t = np.linspace(0, np.pi, 200)
+x = 2 + np.cos(t)
+y = 1 + np.sin(t)
+
+# Plotting signifying chain and vector of desire
+plt.plot([0, 4], [0, 0], color='blue', label='Signifying chain')
+plt.plot(x, y, color='red', label='Vector of Desire')
+
+# Key points on the curve
+plt.scatter([1.8, 2.7], [0, 0], color='black')
+
+# Labeling the nodes with LaTeX
+plt.text(1.8, -0.1, '$A$', fontsize=12, ha='center')
+plt.text(2.7, -0.1, '$d$', fontsize=12, ha='center')
+plt.text(2, 1.4, '$\\$$', fontsize=14, ha='center')
+
+plt.title("Simplified Lacan's Graph of Desire: Horseshoe Curve")
+plt.legend()
+plt.axis('equal')
+plt.axis('off')
+plt.show()
+```
+
+<br>
 
 
 
@@ -295,6 +326,8 @@ By placing this image near detailed discussion of the signifying chain, barred s
 
 
 
+
+<br><br>
 
 
 

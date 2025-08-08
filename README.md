@@ -200,9 +200,9 @@ This section includes visualizations and symbolic computations of key Lacanian c
 
 ### [Features]()
 
-- **Graph visualization**: Using NetworkX and Matplotlib to plot key Lacanian nodes (barred subject, the Other, etc.) and edges (signifying chain, vector of desire).
-- **Horseshoe curve**: Plotting the iconic vector of desire intersecting the signifying chain.
-- **Mathemes with SymPy**: Generating and printing symbolic formulas, such as Lacan's sexuation mathemes (masculine and feminine formulas).
+- [**Graph visualization**](): Using NetworkX and Matplotlib to plot key Lacanian nodes (barred subject, the Other, etc.) and edges (signifying chain, vector of desire).
+- [**Horseshoe curve**](): Plotting the iconic vector of desire intersecting the signifying chain.
+- [**Mathemes with SymPy**](): Generating and printing symbolic formulas, such as Lacan's sexuation mathemes (masculine and feminine formulas).
 
 <br>
 

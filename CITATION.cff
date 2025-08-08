@@ -1,0 +1,10 @@
+
+
+cff-version: 1.2.0
+title: Lacan Psychoanalysis Math Graphs
+message: If you really want to cite this repository, here's how you should cite it.
+type: software
+authors:
+  - given-names: lacan-psychoanalysis-math-graphs
+repository-code: https://github.com/Mindful-AI-Assistants/lacan-psychoanalysis-math-graphs
+license: MIT License

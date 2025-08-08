@@ -185,8 +185,15 @@ This repository enables visualization and symbolic analysis of **Lacan’s Graph
 - Potential to extend with interactive widgets or agent-based models for deeper research
 
 
-<!---
+
 <br>
+
+
+
+
+
+
+<!--
 
 - [**Graph visualization**]()
 Use NetworkX and Matplotlib to plot nodes (barred subject, the Other, etc.) and edges (signifying chain, vector of desire).
@@ -206,14 +213,11 @@ Generate and print symbolic formulas, e.g., Lacan's sexuation mathemes:
     - Masculine:  ∀x ¬Φ(x)
     - Feminine:  ¬∃x ¬Φ(x)
 
- <br>
 
-- [**Computational psychoanalysis**]()
-See notebooks simulating interactions inspired by the Free Energy Principle and Lacanian dynamics.
 
 <br>
 
---->
+### Code 
 
 <br>
 
@@ -277,6 +281,8 @@ print("In symbolic form:")
 print(f"Phi function: {Phi(x)}")
 print(f"Not Phi: {Not(Phi(x))}")
 ```
+
+--->
 
 <br><br>
 

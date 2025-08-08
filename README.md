@@ -217,6 +217,41 @@ This section includes visualizations and symbolic computations of key Lacanian c
 # Import libraries for graph visualization
 import matplotlib.pyplot as plt
 import networkx as nx
+
+# Constructing the directed graph with Lacanian signifiers
+G = nx.DiGraph()
+
+# Define node positions for clarity in visualization
+positions = {
+    "$S$": (0, 0),        # Subject
+    "$S'$": (4, 0),       # Barred subject
+    "$A$": (1.8, 0),      # The Other
+    "$d$": (2.7, 0),      # Desire
+ _networkx_edges(G, positions, edgelist=[("$S$", "$S'$")], arrowstyle='-|>', arrowsize=20, edge_color='blue')
+nx.draw_networkx_edges(G, positions, edgelist=[("$\\$$", "$d$"), ("$\\$$", "$A$")], style='dashed', edge_color='red', arrowstyle='-|>', arrowsize=15)
+
+plt.axis('off')
+plt.title("Simplified Lacan's Graph of Desire")
+plt.show()   "$\\$$": (2.25, 1.5), # Barred Other (split subject)
+    "$s(A)$": (2.1, 0.9)  # Signifier of the Other
+}
+
+# Add nodes to the graph
+for node in positions:
+    G.add_node(node)
+
+# Add edges representing signifying chain and vectors of desire
+G.add_edge("$S$", "$S'$")
+G.add_edge("$\\$$", "$d$")
+G.add_edge("$\\$$", "$A$")
+
+# Plot the graph
+plt.figure(figsize=(8,5))
+nx.draw_networkx_nodes(G, positions, node_size=700, node_color='lightblue')
+nx.draw_networkx_labels(G, positions, font_size=12)
+
+# Directed edges with styles to distinguish types
+nx.draw
 ```
 
 

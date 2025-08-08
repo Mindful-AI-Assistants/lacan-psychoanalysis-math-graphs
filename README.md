@@ -139,15 +139,16 @@ A recent study ([Heins et al., 2025](https://doi.org/10.3389/fpsyg.2025.1574650)
 
 ## [Installation]()
 
-1. Install Python 3.8+ (Anaconda recommended).
-2. Install dependencies:
+[1](). Install Python 3.8+ (Anaconda recommended).
+
+[2](). Install dependencies:
 
 ```bash
 # Installation of required libraries
 %pip install networkx sympy matplotlib numpy
 ```
 
-3. Launch Jupyter Lab or Notebook:
+[3](). Launch Jupyter Lab or Notebook:
 
 ```bash
 jupyter lab

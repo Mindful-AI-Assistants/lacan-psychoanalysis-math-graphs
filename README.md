@@ -166,21 +166,21 @@ This repository enables visualization and symbolic analysis of **Lacan’s Graph
 <br>
 
 
-### Visualizing Lacan’s Graph of Desire
+### [Visualizing Lacan’s Graph of Desire]()
 
 - Directed graph of key Lacanian nodes and symbolic edges
 - Horseshoe-shaped vector of desire intersecting the signifying chain
 - Annotation of barred subject, Other, desire point
 
 
-### Symbolic Formalization
+### [Symbolic Formalization]()
 
 - Logical symbolic formulas representing Lacan’s sexuation mathemes, e.g.:
     - Masculine sexuation: $\forall x \neg \Phi(x)$
     - Feminine sexuation: $\neg \exists x \neg \Phi(x)$
 
 
-### Computational Psychoanalytic Modeling
+### [Computational Psychoanalytic Modeling]()
 
 - Simulation scripts demonstrating basic dynamics inspired by Lacanian theory and FEP
 - Potential to extend with interactive widgets or agent-based models for deeper research
@@ -201,7 +201,9 @@ This section includes visualizations and symbolic computations of key Lacanian c
 ### [Features]()
 
 - [**Graph visualization**](): Using NetworkX and Matplotlib to plot key Lacanian nodes (barred subject, the Other, etc.) and edges (signifying chain, vector of desire).
+
 - [**Horseshoe curve**](): Plotting the iconic vector of desire intersecting the signifying chain.
+
 - [**Mathemes with SymPy**](): Generating and printing symbolic formulas, such as Lacan's sexuation mathemes (masculine and feminine formulas).
 
 <br>

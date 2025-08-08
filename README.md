@@ -143,7 +143,8 @@ A recent study ([Heins et al., 2025](https://doi.org/10.3389/fpsyg.2025.1574650)
 2. Install dependencies:
 
 ```bash
-pip install matplotlib networkx sympy jupyterlab
+# Installation of required libraries
+%pip install networkx sympy matplotlib numpy
 ```
 
 3. Launch Jupyter Lab or Notebook:

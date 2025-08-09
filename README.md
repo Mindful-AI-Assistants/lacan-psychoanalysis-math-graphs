@@ -383,6 +383,23 @@ print(f"Not Phi(x): {Not(Phi(x))}")
 
 <br><br>
 
+###  [The Output from the Code]()
+
+<br>
+
+```
+Masculine sexuation formula: ∀x ¬Φ(x)
+Feminine sexuation formula: ¬∃x ¬Φ(x)
+
+Symbolic expressions using SymPy:
+Phi(x): Phi(x)
+Not Phi(x): Not(Phi(x))
+```
+
+<br>
+
+
+
 
 >
 

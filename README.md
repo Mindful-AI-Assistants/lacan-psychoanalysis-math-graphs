@@ -263,10 +263,12 @@ nx.draw
 
 <br><br>
 
-<img width="640" height="427" alt="Image" src="https://github.com/user-attachments/assets/af61e91b-a858-460a-ac68-ee9f09f835e7" />
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/af61e91b-a858-460a-ac68-ee9f09f835e7" />
 
 
-<br>
+<br><br>
 
 > ### Explanation for Image Placement (Graph of Desire)
 
@@ -336,10 +338,7 @@ plt.show()
 <img src="https://github.com/user-attachments/assets/247a7721-ec95-4f4c-9deb-48ae409bdf0a" />
 
 
-
-
-<br>
-
+<br><br>
 
 
 > ### Explanation for Image Placement (Vector of Desire and Signifying Chain)

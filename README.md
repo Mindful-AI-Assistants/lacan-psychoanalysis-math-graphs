@@ -448,7 +448,7 @@ The SymPy expressions printed (`Phi(x)` and `Not(Phi(x))`) demonstrate how these
 
 
 
-<br><br>
+<br><br><br>
 
 
 

@@ -277,7 +277,7 @@ nx.draw
 
 - The **curved vectors** (from the barred Other, $\\$$, toward desire ($d$) and the Other ($A$)) represent the **vector of desire**, the dynamic movement of the subject’s desire mediated by the symbolic Other.
 
-- The **barred subject**  $\bar{\$}$ symbolizes the subject split by the unconscious and language, emphasizing that subjectivity is never unified but always marked by a lack or division.
+- The [**barred subject**]() (the split Other) $\bar{\$}$ symbolizes the subject split by the unconscious and language, emphasizing that subjectivity is never unified but always marked by a lack or division.
 
 - This visualization captures how desire and language are intertwined: the subject’s desire is not autonomous but arises in relation to the Other’s symbolic position.
 
@@ -338,7 +338,7 @@ This plot visualizes [*Lacan’s Graph of Desire*](), showing the interaction be
 
 - Key points on the plot, such as **$A$ (the Other)** and **$d$ (desire)**, mark places where desire confronts and engages with the symbolic structure of language.
 
-- The **barred Other ($\$$)** positioned above symbolizes the split or divided nature of the Other as related to the subject.
+- The **barred Other ($\$$) positioned above symbolizes the split or divided nature of the Other as related to the subject.
   
 This visual representation clarifies how, within Lacanian theory, desire is not a straightforward, linear process but one that loops and cuts across language’s structural order, highlighting the subject’s divided nature and the complex interplay between desire and signification.
 

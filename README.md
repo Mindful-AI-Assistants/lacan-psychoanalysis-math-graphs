@@ -277,7 +277,7 @@ nx.draw
 
 - The **curved vectors** (from the barred Other, $\\$$, toward desire ($d$) and the Other ($A$)) represent the **vector of desire**, the dynamic movement of the subject’s desire mediated by the symbolic Other.
 
-- The **barred subject $\bar{\$}$** symbolizes the subject split by the unconscious and language, emphasizing that subjectivity is never unified but always marked by a lack or division.
+- The **barred subject**  $\bar{\$}$ symbolizes the subject split by the unconscious and language, emphasizing that subjectivity is never unified but always marked by a lack or division.
 
 - This visualization captures how desire and language are intertwined: the subject’s desire is not autonomous but arises in relation to the Other’s symbolic position.
 

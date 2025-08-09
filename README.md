@@ -402,7 +402,7 @@ Not Phi(x): Not(Phi(x))
 
 <br>
 
-This output provides symbolic representations of Lacan’s well-known *sexuation formulas* in formal logical notation:
+This output provides symbolic representations of [Lacan’s]() well-known [*sexuation formulas*]() in formal logical notation:
 
 <br>
 

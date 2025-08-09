@@ -404,9 +404,27 @@ Not Phi(x): Not(Phi(x))
 
 This output provides symbolic representations of Lacan’s well-known *sexuation formulas* in formal logical notation:
 
-### - The [**masculine formula**](): $\forall x \neg \Phi(x)$ , where the universal quantifier ($\forall\$) applies to all $x$, negating the property $\Phi$.
+<br>
 
-### - The [**feminine formula**](): $\neg \exists x \neg \Phi(x)$ , negating the existence of any $x$ not having property $\Phi$.
+###  - The [**masculine formula**]()
+
+<br>
+
+  $$\forall x \neg \Phi(x)$$ 
+
+<br>
+
+[where]() the universal quantifier ($\forall\$) applies to all $x$, negating the property $\Phi$.
+
+
+<br><br>
+
+
+### - The [**feminine formula**](): 
+
+$\neg \exists x \neg \Phi(x)$ 
+
+[negating]() the existence of any $x$ not having property $\Phi$.
 
 
 
@@ -428,12 +446,6 @@ This output provides symbolic representations of Lacan’s well-known *sexuation
 
 
 <br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-
-
 
 
 

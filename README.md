@@ -400,6 +400,10 @@ Not Phi(x): Not(Phi(x))
 
 >  ### Explanation for Output Placement
 
+This output provides symbolic representations of Lacan’s well-known *sexuation formulas* in formal logical notation:
+
+### - The **masculine formula**: $\forall x \neg \Phi(x)$, where the universal quantifier ($\forall\$) applies to all $x$, negating the property $\Phi$.
+
 
 
 

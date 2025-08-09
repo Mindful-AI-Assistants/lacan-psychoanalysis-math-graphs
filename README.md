@@ -428,9 +428,7 @@ Both formulas express fundamental logical structures underlying Lacan's conceptu
 <br>
 
 
-The SymPy expressions printed (`Phi(x)` and `Not(Phi(x))`) demonstrate how these logical functions are represented symbolically in Python, linking Lacan's psychoanalytic theory with formal symbolic logic.
-
-
+The SymPy expressions printed (`Phi(x)` and `Not(Phi(x))`) demonstrate how these [logical functions]() are represented [symbolically in Python]() , linking [Lacan's psychoanalytic]() theory with [formal symbolic logic]().
 
 
 

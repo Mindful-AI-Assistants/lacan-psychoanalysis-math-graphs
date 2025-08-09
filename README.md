@@ -265,7 +265,7 @@ nx.draw
 
 <img width="640" height="427" alt="Image" src="https://github.com/user-attachments/assets/af61e91b-a858-460a-ac68-ee9f09f835e7" />
 
-<br>
+<br><br>
 
 
 
@@ -404,7 +404,7 @@ Phi(x): Phi(x)
 Not Phi(x): Not(Phi(x))
 ```
 
-<br><br>
+<br>
 
 >  ### Explanation for Output Placement
 

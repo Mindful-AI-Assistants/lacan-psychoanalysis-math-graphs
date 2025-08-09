@@ -418,11 +418,13 @@ This output provides symbolic representations of [Lacan’s]() well-known [*sexu
 ###  $\forall x \neg \Phi(x)$$ , [where]() the universal quantifier ($\forall\$) applies to all $x$, negating the property $\Phi$.
 
 
-<br>
 
-<p align="center"> ───── ⚤ ─────
+<br><br>
 
-<br>
+<p align="center"> ─────---------- [⚤]() ─────-------------
+
+
+<br><br>
 
 
 ### - ♀︎ The [**feminine formula**](): 

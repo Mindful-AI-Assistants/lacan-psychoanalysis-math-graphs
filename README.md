@@ -427,6 +427,9 @@ $\neg \exists x \neg \Phi(x)$
 [negating]() the existence of any $x$ not having property $\Phi$.
 
 
+Both formulas express fundamental logical structures underlying Lacan's conceptualization of sexuation and sexual difference, where $\Phi(x)$ can be read as the phallic function or castration law applied to the speaking subject $x$.
+
+
 
 
 

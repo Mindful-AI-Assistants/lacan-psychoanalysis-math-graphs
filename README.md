@@ -261,7 +261,7 @@ nx.draw
 ```
 
 
-<br>
+<br><br>
 
 <img width="640" height="427" alt="Image" src="https://github.com/user-attachments/assets/af61e91b-a858-460a-ac68-ee9f09f835e7" />
 
@@ -329,7 +329,7 @@ plt.axis('off')
 plt.show()
 ```
 
-<br>
+<br><br>
 
 
 > ### Explanation for Image Placement (Vector of Desire and Signifying Chain)
@@ -356,6 +356,50 @@ This visual representation clarifies how, within Lacanian theory, desire is not 
 
 
 <br><br>
+
+
+### 3. [Symbolic Mathemes with SymPy]()
+
+<br>
+
+```python
+# Import SymPy for symbolic logic
+from sympy import symbols, Function
+from sympy.logic.boolalg import Not
+
+# Define symbolic variables
+x = symbols('x')
+Phi = Function('Phi')
+
+# Print Lacan's sexuation mathemes formulas
+print("Masculine sexuation formula: ∀x ¬Φ(x)")
+print("Feminine sexuation formula: ¬∃x ¬Φ(x)")
+print("\nSymbolic expressions:")
+
+# Demonstrate function and negation using SymPy notation
+print(f"Phi(x): {Phi(x)}")
+print(f"Not Phi(x): {Not(Phi(x))}")
+```
+
+<br><br>
+
+
+>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -381,9 +381,9 @@ print(f"Phi(x): {Phi(x)}")
 print(f"Not Phi(x): {Not(Phi(x))}")
 ```
 
-<br><br>
+<br>
 
-###  [The Output from the Code]()
+###  [The Output]() from the Code
 
 <br>
 
@@ -396,12 +396,9 @@ Phi(x): Phi(x)
 Not Phi(x): Not(Phi(x))
 ```
 
-<br>
+<br><br>
 
-
-
-
->
+>  ### Explanation for Output Placement
 
 
 

@@ -406,7 +406,7 @@ This output provides symbolic representations of Lacan’s well-known *sexuation
 
 ### - The [**masculine formula**](): $\forall x \neg \Phi(x)$ , where the universal quantifier ($\forall\$) applies to all $x$, negating the property $\Phi$.
 
-### - The [**feminine formula**](): $\neg \exists x \neg \Phi(x) \$ , negating the existence of any $x$ not having property $\Phi$.
+### - The [**feminine formula**](): $\neg \exists x \neg \Phi(x)$ , negating the existence of any $x$ not having property $\Phi$.
 
 
 

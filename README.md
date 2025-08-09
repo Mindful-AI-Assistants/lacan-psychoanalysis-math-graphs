@@ -422,15 +422,18 @@ This output provides symbolic representations of Lacan’s well-known *sexuation
 
 ### - The [**feminine formula**](): 
 
-$\neg \exists x \neg \Phi(x)$ 
+$\neg \exists x \neg \Phi(x)$ , [negating]() the existence of any $x$ not having property $\Phi$.
 
-[negating]() the existence of any $x$ not having property $\Phi$.
 
+<br>
 
 Both formulas express fundamental logical structures underlying Lacan's conceptualization of sexuation and sexual difference, where $\Phi(x)$ can be read as the phallic function or castration law applied to the speaking subject $x$.
 
 
+<br>
 
+
+The SymPy expressions printed (`Phi(x)` and `Not(Phi(x))`) demonstrate how these logical functions are represented symbolically in Python, linking Lacan's psychoanalytic theory with formal symbolic logic.
 
 
 

@@ -281,7 +281,7 @@ nx.draw
 
 
 
-- This visualization captures how desire and language are intertwined: the subject’s desire is not autonomous but arises in relation to the Other’s symbolic position.
+- This visualization captures how [desire and language are intertwined](): the subject’s desire is not autonomous but arises in relation to the Other’s symbolic position.
 
 
 

@@ -421,7 +421,7 @@ This output provides symbolic representations of [Lacan’s]() well-known [*sexu
 
 <br><br>
 
-<p align="center"> ─────---------- [⚤]() ─────-------------
+<p align="center">    ───────── ⚤ ─────────
 
 
 <br><br>

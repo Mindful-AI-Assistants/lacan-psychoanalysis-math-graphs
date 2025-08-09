@@ -338,7 +338,7 @@ This plot visualizes [*Lacan’s Graph of Desire*](), showing the interaction be
 
 - Key points on the plot, such as **$A$ (the Other)** and **$d$ (desire)**, mark places where desire confronts and engages with the symbolic structure of language.
 
-- The **barred Other ($\\$$)** positioned above symbolizes the split or divided nature of the Other as related to the subject.
+- The **barred Other ($\$$)** positioned above symbolizes the split or divided nature of the Other as related to the subject.
   
 This visual representation clarifies how, within Lacanian theory, desire is not a straightforward, linear process but one that loops and cuts across language’s structural order, highlighting the subject’s divided nature and the complex interplay between desire and signification.
 

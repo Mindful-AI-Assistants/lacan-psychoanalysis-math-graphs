@@ -265,9 +265,8 @@ nx.draw
 
 <img width="640" height="427" alt="Image" src="https://github.com/user-attachments/assets/af61e91b-a858-460a-ac68-ee9f09f835e7" />
 
-<br><br>
 
-
+<br>
 
 > ### Explanation for Image Placement (Graph of Desire)
 
@@ -335,8 +334,7 @@ plt.show()
 
 
 
-<br><br>
-
+<br>
 
 
 
@@ -420,7 +418,11 @@ This output provides symbolic representations of [Lacan’s]() well-known [*sexu
 ###  $\forall x \neg \Phi(x)$$ , [where]() the universal quantifier ($\forall\$) applies to all $x$, negating the property $\Phi$.
 
 
-<br><br>
+<br>
+
+<p align="center"> ───── ⚤ ─────
+
+<br>
 
 
 ### - ♀︎ The [**feminine formula**](): 

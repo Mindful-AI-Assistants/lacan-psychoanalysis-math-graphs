@@ -268,6 +268,7 @@ nx.draw
 <br>
 
 
+
 > ### Explanation for Image Placement (Graph of Desire)
 
 <br>
@@ -330,6 +331,13 @@ plt.show()
 ```
 
 <br><br>
+
+
+
+
+<br><br>
+
+
 
 
 > ### Explanation for Image Placement (Vector of Desire and Signifying Chain)
@@ -420,7 +428,8 @@ This output provides symbolic representations of [Lacan’s]() well-known [*sexu
 ###  $\neg \exists x \neg \Phi(x)$ , [negating]() the existence of any $x$ not having property $\Phi$.
 
 
-<br>
+<br><br>
+
 
 Both formulas express fundamental logical structures underlying Lacan's conceptualization of sexuation and sexual difference, where $\Phi(x)$ can be read as the phallic function or castration law applied to the speaking subject $x$.
 

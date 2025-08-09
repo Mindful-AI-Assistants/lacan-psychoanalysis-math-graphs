@@ -267,6 +267,8 @@ nx.draw
 
 > ### Explanation for Image Placement (Graph of Desire)
 
+<br>
+
  This graph  depicts a simplified model of Lacan’s [*Graph of Desire*](), illustrating key structural relations in psychoanalysis:
 
  <br>
@@ -323,7 +325,9 @@ plt.show()
 
 > ### Explanation for Image Placement (Vector of Desire and Signifying Chain)
 
-This plot visualizes Lacan’s *Graph of Desire*, showing the interaction between two fundamental elements:
+<br>
+
+This plot visualizes [*Lacan’s Graph of Desire*](), showing the interaction between two fundamental elements:
 
 <br>
 

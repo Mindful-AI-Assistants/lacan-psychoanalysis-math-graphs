@@ -417,9 +417,18 @@ This output provides symbolic representations of [Lacan’s]() well-known [*sexu
 
 ###   ♂︎  [**The Masculine Formula**]()
 
+<br>
+
 
 $$\Huge \forall x \neg \Phi(x)$$
 
+<br>
+
+```latex
+\Huge \forall x \neg \Phi(x)
+```
+
+<br>
 
 
 ### [where]() the universal quantifier ($\forall\$) applies to all $x$, negating the property $\Phi$.
@@ -455,7 +464,7 @@ $$\Huge \neg \exists x \neg \Phi(x)$$
 <br><br>
 
 
-Both formulas express fundamental logical structures underlying Lacan's conceptualization of sexuation and sexual difference, where $\Phi(x)$ can be read as the phallic function or castration law applied to the speaking subject $x$.
+[Both formulas]() express fundamental [logical structures]()  underlying Lacan's conceptualization of [sexuation]()  and [sexual difference]() , where $\Phi(x)$ can be read as the [phallic function]()  or [castration law]()  applied to the [speaking subject]()  $x$.
 
 
 <br>

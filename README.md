@@ -547,13 +547,13 @@ $$
 
 <br>
 
-The psychoanalytic subject’s experience, according to Lacan, is marked by a structure of *lack*, which he calls the **“Real”**; a domain resisting full symbolization by the **“Symbolic”** (language and its rules). This Real is precisely what escapes any complete and closed formalization.
+The psychoanalytic subject’s experience, according to Lacan, is marked by a structure of *lack*, which he calls the **“Real”**; a domain resisting full symbolization by the [**“Symbolic”**]()  (language and its rules). This Real is precisely what escapes any complete and closed formalization.
 
 <br>
 
-- The **“Other”** (in Lacanian theory, the symbolic instance) contains a fundamental *lack*, a kind of **structural incompleteness** that prevents the subject from being perfectly represented or captured in totality.
+### - The [**“Other”**]()  (in Lacanian theory, the symbolic instance) contains a fundamental [*lack*]() , a kind of **structural incompleteness** that prevents the subject from being perfectly represented or captured in totality.
 
-- Just as Gödel shows that every formal system has inevitable limits (undemonstrable truths), the Lacanian subject experiences their unconscious as marked by an “excess” beyond the symbolic, not fully representable or accessible.
+### - Just as [Gödel]()  shows that every formal system has inevitable limits (undemonstrable truths), the Lacanian subject experiences their unconscious as marked by an [“excess” beyond the symbolic]() , not fully representable or accessible.
 
  
 <br><br>
@@ -645,16 +645,16 @@ In sum, Lacan’s Graph of Desire is a conceptual and formal tool to map the rel
 
 ###  1.[ The Elementary Cell]()
 
-The **Elementary Cell** is the foundational stage of the Graph of Desire. It depicts the fundamental intersection of the **signifying chain** and the **vector of the subject's intentionality** (or desire).
+The [**Elementary Cell**]()  is the foundational stage of the Graph of Desire. It depicts the fundamental intersection of the [**signifying chain**]()  and the [**vector of the subject's intentionality**]()  (or desire).
 
 
 <br>
 
-- The **horizontal line** represents the **diachronic signifying chain** ($S \to S'$), which moves from a linguistic sign to a signification or meaning. It has duration.
+- The [**horizontal line**]()  represents the **diachronic signifying chain** ($S \to S'$), which moves from a linguistic sign to a signification or meaning. It has duration.
 
-- The **horseshoe-shaped line** represents the **vector of the subject's desire** ($\$$), which is expressed metaphorically and has no duration. This vector starts from the split or barred subject ($\$$).
+- The [**horseshoe-shaped line**]()  represents the **vector of the subject's desire** ($\$$), which is expressed metaphorically and has no duration. This vector starts from the split or barred subject ($\$$).
 
-The **double intersection** of these two lines illustrates the **nature of retroaction (or *point de capiton*)**, where meaning is determined retroactively .
+The [**double intersection**]()  of these two lines illustrates the **nature of retroaction (or *point de capiton*)**, where meaning is determined retroactively .
 
 <br>
 

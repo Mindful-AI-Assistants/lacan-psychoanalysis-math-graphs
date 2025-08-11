@@ -436,11 +436,18 @@ $$\Huge \forall x \neg \Phi(x)$$
 
 ###  ♀︎  [**The Feminine Formula**](): 
 
+<br>
+
 
 $$\Huge \neg \exists x \neg \Phi(x)$$
 
+<br>
 
- $$\neg \exists x \neg \Phi(x)$$ 
+```latex
+ \neg \exists x \neg \Phi(x)
+```
+
+<br>
 
 ### [negating]() the existence of any $x$ not having property $\Phi$.
 

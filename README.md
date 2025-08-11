@@ -458,7 +458,7 @@ $$\Huge \neg \exists x \neg \Phi(x)$$
 
 <br>
 
-### <p align="center"> [negating]() the existence of any $x$ not having property $\Phi$.
+### <p align="center"> [Negating]() the existence of any $x$ not having property $\Phi$.
 
 
 <br><br>

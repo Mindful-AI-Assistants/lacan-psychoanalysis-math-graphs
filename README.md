@@ -611,7 +611,7 @@ Jacques Lacan's **Graph of Desire** (or Graph of the Analytic Act) is a formal, 
 
 <br>
 
-- The graph illustrates how **desire is always the desire of the Other**, meaning the subject seeks desire validated or recognized by the symbolic Other—the social or linguistic Otherness that shapes subjectivity.
+- The graph illustrates how [**desire is always the desire of the Other**]() , meaning the subject seeks desire validated or recognized by the symbolic Other—the social or linguistic Otherness that shapes subjectivity.
 
 <br>
 
@@ -650,11 +650,11 @@ The [**Elementary Cell**]()  is the foundational stage of the Graph of Desire. I
 
 <br>
 
-- The [**horizontal line**]()  represents the **diachronic signifying chain** ($S \to S'$), which moves from a linguistic sign to a signification or meaning. It has duration.
+- The [**horizontal line**]()  represents the *[*diachronic signifying chain**]()  ($S \to S'$), which moves from a linguistic sign to a signification or meaning. It has duration.
 
-- The [**horseshoe-shaped line**]()  represents the **vector of the subject's desire** ($\$$), which is expressed metaphorically and has no duration. This vector starts from the split or barred subject ($\$$).
+- The [**horseshoe-shaped line**]()  represents the [**vector of the subject's desire**]()  ($\$$), which is expressed metaphorically and has no duration. This vector starts from the split or barred subject ($\$$).
 
-The [**double intersection**]()  of these two lines illustrates the **nature of retroaction (or *point de capiton*)**, where meaning is determined retroactively .
+The [**double intersection**]()  of these two lines illustrates the **nature of retroaction or [**point de capiton***]()  , where [meaning]()  is determined [retroactively]()  .
 
 <br>
 
@@ -687,7 +687,7 @@ In the second stage, Lacan introduces the **locus of the Other (A)**, representi
 
 <br>
 
-- The **prelinguistic mythical subject of pure need** (represented by a triangle, or a rudimentary subject prior to language) must pass through the "defiles of the signifier".
+- The [**prelinguistic mythical subject of pure need**]()  (represented by a triangle, or a rudimentary subject prior to language) must pass through the ["defiles of the signifier"]() .
 
 - This process produces the **divided subject ($\$$)**, which is the result of entering the Symbolic order.
 

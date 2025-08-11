@@ -352,9 +352,9 @@ This plot visualizes [*Lacan’s Graph of Desire*](), showing the interaction be
 
 - The [**blue horizontal line**]() represents the **signifying chain**, the sequential unfolding of linguistic signifiers that constructs meaning in language over time.
 
-- The [**red curved "horseshoe" line**]() depicts the **vector of desire**, a non-linear, metaphorical trajectory that crosses and intersects the signifying chain, embodying the dynamic nature of desire.
+- The [**red curved "horseshoe" line**]() depicts the [**vector of desire**](), a non-linear, metaphorical trajectory that crosses and intersects the signifying chain, embodying the dynamic nature of desire.
 
-- Key points on the plot, such as [**$A$ (the Other)**]() and [**$d$ (desire)**](), mark places where desire confronts and engages with the symbolic structure of language.
+- Key points on the plot, such as ***$A$ (the Other)*** and ***$d$ (desire)***, mark places where desire confronts and engages with the symbolic structure of language.
 
 - The [**barred Other**]() $\left(\text{the split Other }\bar{\textdollar}\right)$  , positioned above symbolizes the split or divided nature of the Other as related to the subject.
 

@@ -547,9 +547,9 @@ The psychoanalytic subject’s experience, according to Lacan, is marked by a st
 
 <br>
 
-### - The [**“Other”**]()  (in Lacanian theory, the symbolic instance) contains a fundamental [*lack*]() , a kind of **structural incompleteness** that prevents the subject from being perfectly represented or captured in totality.
+ - The [**“Other”**]()  (in Lacanian theory, the symbolic instance) contains a fundamental [*lack*]() , a kind of **structural incompleteness** that prevents the subject from being perfectly represented or captured in totality.
 
-### - Just as [Gödel]()  shows that every formal system has inevitable limits (undemonstrable truths), the Lacanian subject experiences their unconscious as marked by an [“excess” beyond the symbolic]() , not fully representable or accessible.
+ - Just as [Gödel]()  shows that every formal system has inevitable limits (undemonstrable truths), the Lacanian subject experiences their unconscious as marked by an [“excess” beyond the symbolic]() , not fully representable or accessible.
 
  
 <br><br>
@@ -583,7 +583,7 @@ The Gödel sentence  $G_F\$ is constructed to indirectly refer to itself via ari
 
 <br>
 
-Jacques Lacan's **Graph of Desire** (or Graph of the Analytic Act) is a formal, schematic diagram he developed to represent the complex structures of subjectivity, desire, and the unconscious in psychoanalysis. It elaborates how desire functions in relation to the subject and language, revealing the dynamics of the split or barred subject (*$*) as situated within the Symbolic order.
+Jacques Lacan's [**Graph of Desire**]() (or Graph of the Analytic Act) is a formal, schematic diagram he developed to represent the complex structures of subjectivity, desire, and the unconscious in psychoanalysis. It elaborates how desire functions in relation to the subject and language, revealing the dynamics of the split or barred subject (*$*) as situated within the Symbolic order.
 
 <br>
 

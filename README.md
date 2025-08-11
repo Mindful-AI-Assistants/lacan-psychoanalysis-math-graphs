@@ -413,9 +413,9 @@ Not Phi(x): Not(Phi(x))
 
 This output provides symbolic representations of [Lacan’s]() well-known [*sexuation formulas*]() in formal logical notation:
 
-<br>
+<br><br>
 
-###   ♂︎  [**The Masculine Formula**]()
+### <p align="center">  ♂︎  [**The Masculine Formula**]()
 
 <br>
 
@@ -431,7 +431,7 @@ $$\Huge \forall x \neg \Phi(x)$$
 <br>
 
 
-### [where]() the universal quantifier ($\forall\$) applies to all $x$, negating the property $\Phi$.
+### <p align="center"> [where]() the universal quantifier ($\forall\$) applies to all $x$, negating the property $\Phi$.
 
 
 
@@ -443,7 +443,7 @@ $$\Huge \forall x \neg \Phi(x)$$
 <br><br>
 
 
-###  ♀︎  [**The Feminine Formula**](): 
+###  <p align="center"> ♀︎  [**The Feminine Formula**](): 
 
 <br>
 
@@ -458,7 +458,7 @@ $$\Huge \neg \exists x \neg \Phi(x)$$
 
 <br>
 
-### [negating]() the existence of any $x$ not having property $\Phi$.
+### <p align="center"> [negating]() the existence of any $x$ not having property $\Phi$.
 
 
 <br><br>

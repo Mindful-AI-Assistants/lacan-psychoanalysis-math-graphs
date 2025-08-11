@@ -820,6 +820,17 @@ The structure is duplicated, with the upper part of the graph mirroring the lowe
 
 <br><br>
 
+### The [Torsion]():
+
+<br>
+
+https://github.com/user-attachments/assets/cbd77584-a782-4130-bca5-930882d2ea64
+
+
+
+<br><br>
+
+
 ##   Lacan and the [Möbius Strip - Topology, Psychoanalysis]() and Representation
 
 <br>
@@ -841,16 +852,10 @@ The Möbius strip is a mathematical surface with a half-twist, forming **one con
 - [**Clinical insight**]()(: Symptoms and identifications are points of twist or cut in this continuous flow, and psychoanalysis is a process of traversing and understanding this topology.
 
 
-<br>
 
-### The [Torsion]():
-
-<br>
-
-https://github.com/user-attachments/assets/cbd77584-a782-4130-bca5-930882d2ea64
+<br><br>
 
 
-<br>
 
 ## [Lacan and the Möbius Strip: Topology, Psychoanalysis, and Representation]()
 

@@ -522,7 +522,7 @@ F \not\vdash G_F \quad \text{and} \quad F \not\vdash \neg G_F
 
 <br>
 
-[That is](): neither $G_F\$ nor its negation can be proven in $F\$, rendering $F\$ incomplete.
+### <p align="center"> [That is](): neither $G_F\$ nor its negation can be proven in $F\$, rendering $F\$ incomplete.
 
 
 <br><br>

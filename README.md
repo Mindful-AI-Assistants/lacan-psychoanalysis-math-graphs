@@ -517,6 +517,7 @@ $$
 
 
 ```latex
+\Huge
 F \not\vdash G_F \quad \text{and} \quad F \not\vdash \neg G_F
 ```
 
@@ -527,22 +528,33 @@ F \not\vdash G_F \quad \text{and} \quad F \not\vdash \neg G_F
 
 <br><br>
 
+
 ### <p align="center">   ───────── ⋆⋅[✮]()⋅⋆ ───────── 
+
 
 <br><br>
 
 
 ### - [**Second Incompleteness Theorem**](): The system $F\$ cannot prove its own consistency, formally expressed as:
 
-<br>
+<br><br>
 
-$$
+$$\Huge
 F \not\vdash \mathrm{Consis}(F)
 $$
 
 <br>
 
-[Where](): $\mathrm{Consis}(F)$ is a formula within the system expressing the “non-contradiction” of $F\$.
+
+```latex
+\Huge
+F \not\vdash \mathrm{Consis}(F)
+```
+
+<br>
+
+
+### <p align="center"> [Where](): $\mathrm{Consis}(F)$ is a formula within the system expressing the “non-contradiction” of $F\$.
 
 
 <br><br>

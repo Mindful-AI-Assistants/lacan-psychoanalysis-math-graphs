@@ -418,7 +418,9 @@ This output provides symbolic representations of [Lacan’s]() well-known [*sexu
 ###   ♂︎  [**The Masculine Formula**]()
 
 
-###  $\forall x \neg \Phi(x)$$ 
+$$\Huge \forall x \neg \Phi(x)$$
+
+
 
 ### [where]() the universal quantifier ($\forall\$) applies to all $x$, negating the property $\Phi$.
 
@@ -434,7 +436,11 @@ This output provides symbolic representations of [Lacan’s]() well-known [*sexu
 
 ###  ♀︎  [**The Feminine Formula**](): 
 
-###  $\neg \exists x \neg \Phi(x)$ 
+
+$$\Huge \neg \exists x \neg \Phi(x)$$
+
+
+ $$\neg \exists x \neg \Phi(x)$$ 
 
 ### [negating]() the existence of any $x$ not having property $\Phi$.
 

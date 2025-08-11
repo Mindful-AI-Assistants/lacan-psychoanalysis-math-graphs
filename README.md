@@ -506,9 +506,15 @@ Mathematically, given a consistent and recursively enumerable formal system $F\$
 
 <br>
 
-$$
+$$\Huge
 F \not\vdash G_F \quad \text{and} \quad F \not\vdash \neg G_F
 $$
+
+<br>
+
+```latex
+F \not\vdash G_F \quad \text{and} \quad F \not\vdash \neg G_F
+```
 
 <br>
 

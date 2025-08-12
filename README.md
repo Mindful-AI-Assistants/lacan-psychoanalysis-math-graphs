@@ -494,7 +494,7 @@ Below, I develop this parallel including the most relevant mathematical formaliz
 
 ### 1. [Gödel and the limitations of formalization]():
 
-Gödel proved that **no sufficiently powerful formal system** (such as basic arithmetic) can be both *complete* and *consistent*.
+Gödel proved that [**no sufficiently powerful formal system**]() (such as basic arithmetic) can be both *complete* and *consistent*.
 
 
 <br>
@@ -777,16 +777,16 @@ S ---------A------- S' Signifying Chain
 
 <br>
 
-The **Complete Graph** is a complex topological representation with **two signifying chains** and multiple intersecting vectors. It integrates all the elements from the previous stages and adds new dimensions related to the **unconscious**, **enunciation**, **jouissance**, and the **drive**.
+The **Complete Graph** is a complex [topological representation]() with [**two signifying chains**]90 and multiple intersecting vectors. It integrates all the elements from the previous stages and adds new dimensions related to the [**unconscious**](), [**enunciation**](), [**jouissance**](), and the [**drive**]().
 
 <br>
 
-- The **lower chain** (from signifier to voice) represents the **conscious signifying chain**, the **level of the statement**.
+- The **lower chain** (from signifier to voice) represents the [**conscious signifying chain**](), the **level of the statement**.
 
-- The **upper chain** (from jouissance to castration) represents the **signifying chain in the unconscious**, the **level of the enunciation**.
+- The [**upper chain**]() (from jouissance to castration) represents the [**signifying chain**]() in the unconscious**, the [**level of the enunciation**]().
 
 
-The structure is duplicated, with the upper part of the graph mirroring the lower part's structure [^1]. This complete graph forms a series of interacting "systems" (both inter-subjective and intra-subjective), where elements can participate in multiple systems simultaneously.
+The structure is duplicated, with the upper part of the graph mirroring the lower part's structure. This complete graph forms a series of interacting "systems" (both inter-subjective and intra-subjective), where elements can participate in multiple systems simultaneously.
 
 <br>
 

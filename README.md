@@ -74,11 +74,11 @@ By linking psychoanalysis with symbolic mathematics and computational frameworks
 
 **Jacques Lacan’s Graph of Desire** graphically illustrates the interaction between language (signifying chain), desire, and subjectivity, entwining:
 
-- The **signifying chain** ($S \to S'$), representing linguistic structure
-- The **vector of desire**, a horseshoe-shaped curve intersecting the chain
-- The **barred subject** ($\$$), or the divided self mediated by language
-- The **Other** ($A$), symbolic authority shaping subject formation
-- The **objet petit a** ($a$), the elusive cause of desire perpetually sought
+- The [**signifying chain**]()  ($S \to S'$), representing linguistic structure
+- The [**vector of desire**](), a horseshoe-shaped curve intersecting the chain
+- The [**barred subject**]()  ($\$$), or the divided self mediated by language
+- The [**Other**]()  ($A$), symbolic authority shaping subject formation
+- The [**objet petit a**]()  ($a$), the elusive cause of desire perpetually sought
 
 Recent computational work (e.g., Heins et al. 2025) embeds these concepts within the **Free Energy Principle (FEP)** framework, modeling living and cognitive systems as minimizing prediction error or "free energy."
 

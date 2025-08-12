@@ -707,7 +707,7 @@ In the second stage, Lacan introduces the **locus of the Other (A)**, representi
 
 - The [**prelinguistic mythical subject of pure need**]()  (represented by a triangle, or a rudimentary subject prior to language) must pass through the ["defiles of the signifier"]() .
 
-- This process produces the **divided subject ($\$$)**, which is the result of entering the Symbolic order.
+- This process produces the [**divided subject**]()  $\bar{\textdollar}$, which is the result of entering the Symbolic order.
 
 <br>
 

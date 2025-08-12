@@ -478,7 +478,7 @@ The SymPy expressions printed (`Phi(x)` and `Not(Phi(x))`) demonstrate how these
 
 <br>
 
-This repository not only formalizes Lacan’s psychoanalytic theory, but also acknowledges the [**limits of all formal systems**]() as demonstrated by [**Gödel’s incompleteness theorems**](). No [axiomatic model—whether]()  in mathematics, logic, or psychoanalysis—can be both complete and consistent. There will always be aspects of [reality]() (the “real” in Lacanian terms) that escape symbolic capture.
+This repository not only formalizes Lacan’s psychoanalytic theory, but also acknowledges the [**limits of all formal systems**]() as demonstrated by [**Gödel’s incompleteness theorems**](). No [axiomatic model—whether]()  in mathematics, logic, or psychoanalysis can be both complete and consistent. There will always be aspects of [reality]() (the “real” in Lacanian terms) that escape symbolic capture.
 
 <br>
 
@@ -565,7 +565,7 @@ F \not\vdash \mathrm{Consis}(F)
 
 <br>
 
-The psychoanalytic subject’s experience, according to Lacan, is marked by a structure of *lack*, which he calls the **“Real”**; a domain resisting full symbolization by the [**“Symbolic”**]()  (language and its rules). This Real is precisely what escapes any complete and closed formalization.
+The psychoanalytic subject’s experience, according to Lacan, is marked by a structure of *lack*, which he calls the [**“Real”**](); a domain resisting full symbolization by the [**“Symbolic”**]()  (language and its rules). This Real is precisely what escapes any complete and closed formalization.
 
 <br>
 
@@ -637,7 +637,7 @@ Jacques Lacan's [**Graph of Desire**]() (or Graph of the Analytic Act) is a form
   
 <br>
 
-In sum, Lacan’s Graph of Desire is a conceptual and formal tool to map the relations between language, desire, the split subject, and the unconscious in psychoanalytic theory. It is often studied to understand how desire eludes fulfillment while structuring human subjectivity within symbolic and imaginary dimensions.
+In sum, Lacan’s Graph of Desire is a conceptual and formal tool to map the [relations]() between [language]() , [desire](), the split subject, and the unconscious in psychoanalytic theory. It is often studied to understand how [desire]()  eludes fulfillment while [structuring]()  human subjectivity within [symbolic and imaginary dimensions]().
 
 
 <br><br>

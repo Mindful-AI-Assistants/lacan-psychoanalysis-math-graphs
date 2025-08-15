@@ -154,7 +154,7 @@ A recent study ([Heins et al., 2025](https://doi.org/10.3389/fpsyg.2025.1574650)
 
 <br>
 
-| Path | Contents |
+| [Path]() | [Contents]() |
 | :-- | :-- |
 | `/latex/` | LaTeX/TikZ code for Lacanian graphs |
 | `/notebooks/` | Jupyter Notebooks for visualization and math |

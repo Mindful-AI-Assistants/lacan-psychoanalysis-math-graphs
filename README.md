@@ -95,13 +95,18 @@ By linking psychoanalysis with symbolic mathematics and computational frameworks
 
 ## [Background on Lacan and Computational Psychoanalysis]()
 
-**Jacques Lacan’s Graph of Desire** graphically illustrates the interaction between language (signifying chain), desire, and subjectivity, entwining:
+<br>
+
+
+> **Jacques Lacan’s Graph of Desire** graphically illustrates the interaction between language (signifying chain), desire, and subjectivity, entwining:
+
+<br>
 
 - The [**signifying chain**]()  ($S \to S'$), representing linguistic structure
 
 - The [**vector of desire**](), a horseshoe-shaped curve intersecting the chain
 
-- The [**barred subject**]()  ($\bar{\textdollar}$ , or the divided self mediated by language
+- The [**barred subject**]()  ($\bar{\textdollar}$) , or the divided self mediated by language
 
 - The [**Other**]()  ($A$), symbolic authority shaping subject formation
 

@@ -96,9 +96,11 @@ Recent computational work (e.g., Heins et al. 2025) embeds these concepts within
 
 ## [Key Concepts]()
 
-- **Graph of Desire:** A structure showing how unconscious desire traverses and is shaped by language (the signifying chain), symbolic law (the Other), and internal division (the barred subject).
-- **Mathemes:** Lacan’s formal logic of key psychoanalytic notions, like sexuation, subjectivity, and the structure of desire.
-- **Symbolic Formalization:** Use of logic, topology, and graph theory to model the dynamics of the unconscious.
+- [**Graph of Desire:**]() A structure showing how unconscious desire traverses and is shaped by language (the signifying chain), symbolic law (the Other), and internal division (the barred subject).
+
+- [**Mathemes:**]() Lacan’s formal logic of key psychoanalytic notions, like sexuation, subjectivity, and the structure of desire.
+
+- [**Symbolic Formalization:**]() Use of logic, topology, and graph theory to model the dynamics of the unconscious.
 
 <br>
 

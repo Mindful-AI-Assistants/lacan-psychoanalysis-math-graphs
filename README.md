@@ -184,14 +184,15 @@ This repository enables visualization and symbolic analysis of **Lacan’s Graph
 ### [Symbolic Formalization]()
 
 - Logical symbolic formulas representing Lacan’s sexuation mathemes, e.g.:
-    - Masculine sexuation: $\forall x \neg \Phi(x)$
-    - Feminine sexuation: $\neg \exists x \neg \Phi(x)$
+    
+    - [Masculine sexuation](): $\forall x \neg \Phi(x)$
+    - [Feminine sexuation](): $\neg \exists x \neg \Phi(x)$
 
 
 ### [Computational Psychoanalytic Modeling]()
 
-- Simulation scripts demonstrating basic dynamics inspired by Lacanian theory and FEP
-- Potential to extend with interactive widgets or agent-based models for deeper research
+   [-]() Simulation scripts demonstrating basic dynamics inspired by Lacanian theory and FEP
+   [-]() Potential to extend with interactive widgets or agent-based models for deeper research
 
 
 

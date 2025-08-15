@@ -142,11 +142,11 @@ A recent study ([Heins et al., 2025](https://doi.org/10.3389/fpsyg.2025.1574650)
 
 - Simulates structures like the [**Borromean knot**](), [**dyadic synchronization**]() (desire as metaphorical convergence), and [**triadic collective behaviors**]() (the Other as emergent).
 
-- Demonstrates that the subject’s desire is ultimately the [*desire of the Other*](), and that “the Other does not exist”; mirroring [**Gödelian incompleteness**]().
+- Demonstrates that the subject’s desire is ultimately the [*desire of the Other*](), and that [“the Other does not exist”*; mirroring [**Gödelian incompleteness**]().
 
 <br>
 
-***This work connects psychoanalysis, computational neuroscience, and [Humanistic AI](), supporting the rigorous modeling of subjectivity and unconscious processes.***
+> ***This work connects psychoanalysis, computational neuroscience, and [Humanistic AI](), supporting the rigorous modeling of subjectivity and unconscious processes.***
 
 <br>
 
@@ -205,6 +205,8 @@ This repository enables visualization and symbolic analysis of **Lacan’s Graph
 - Horseshoe-shaped vector of desire intersecting the signifying chain
 - Annotation of barred subject, Other, desire point
 
+<br>
+
 
 ### [Symbolic Formalization]()
 
@@ -212,6 +214,9 @@ This repository enables visualization and symbolic analysis of **Lacan’s Graph
     
     - [Masculine sexuation](): $\forall x \neg \Phi(x)$
     - [Feminine sexuation](): $\neg \exists x \neg \Phi(x)$
+
+
+<br>
 
 
 ### [Computational Psychoanalytic Modeling]()
@@ -227,7 +232,7 @@ This repository enables visualization and symbolic analysis of **Lacan’s Graph
 
 ## [Visualization of Lacanian Concepts Using Python]()
 
-This section includes visualizations and symbolic computations of key Lacanian concepts: the graph of desire, the horseshoe curve (vector of desire), and sexuation mathemes.
+This section includes visualizations and symbolic computations of key Lacanian concepts: the [graph of desire}(), the [horseshoe curve}() (vector of desire), and [sexuation mathemes}().
 
 <br>
 
@@ -298,10 +303,13 @@ nx.draw
 
 <br><br>
 
+
 > ### Explanation for Image Placement (Graph of Desire)
 
-<br>
 
+<br><br>
+
+ 
  This graph  depicts a simplified model of Lacan’s [*Graph of Desire*](), illustrating key structural relations in psychoanalysis:
 
  <br>

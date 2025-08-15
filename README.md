@@ -58,7 +58,7 @@ By linking psychoanalysis with symbolic mathematics and computational frameworks
 
    - [**LaTeX/TikZ visualizations**]() of Lacan’s key graphs, including the Graph of Desire, with elements such as the barred subject ($\$$), Other ($A$), and objet petit a ($a$).
 
-   - [**Python Jupyter Notebooks**]() simulating Lacan-inspired dynamics using:
+   - [**Python Jupyter Notebooks**]() - simulating Lacan-inspired dynamics using:
 
    - [**NetworkX**]() — graph nodes and edges visualization
 

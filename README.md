@@ -152,11 +152,11 @@ A recent study ([Heins et al., 2025](https://doi.org/10.3389/fpsyg.2025.1574650)
 
 <br>
 
-- Models the [Real](), [Symbolic](), and [Imaginary (RSI)]]() orders as interacting autonomous systems minimizing free energy.
+- Models the [Real](), [Symbolic](), and [Imaginary (RSI)]() orders as interacting autonomous systems minimizing free energy.
 
 - Simulates structures like the [**Borromean knot**](), [**dyadic synchronization**]() (desire as metaphorical convergence), and [**triadic collective behaviors**]() (the Other as emergent).
 
-- Demonstrates that the subject’s desire is ultimately the [*desire of the Other*](), and that [“the Other does not exist”*; mirroring [**Gödelian incompleteness**]().
+- Demonstrates that the subject’s desire is ultimately the [*desire of the Other*](), and that [*“the Other does not exist”*](); mirroring [**Gödelian incompleteness**]().
 
 <br>
 

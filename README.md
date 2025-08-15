@@ -52,7 +52,9 @@ By linking psychoanalysis with symbolic mathematics and computational frameworks
 
 ## [What’s Inside]()
 
-- [**LaTeX/TikZ visualizations**]() of Lacan’s key graphs, including the Graph of Desire, with elements such as the barred subject ($\$$), Other ($A$), and objet petit a ($a$).
+<br>
+
+   - [**LaTeX/TikZ visualizations**]() of Lacan’s key graphs, including the Graph of Desire, with elements such as the barred subject ($\$$), Other ($A$), and objet petit a ($a$).
 
 - [**Python Jupyter Notebooks**]() simulating Lacan-inspired dynamics using:
 
@@ -64,16 +66,25 @@ By linking psychoanalysis with symbolic mathematics and computational frameworks
 
 <br>
 
+
 ### - [Theoretical discussions on]():
 
 - Alienation, truth, and transference
+
 - Embodiment and unconscious material formalization
+
 - Relationships between Lacanian theory and computational neuroscience
+
 - Latest research insights formalizing Lacan’s psychoanalysis with the **Free Energy Principle** approach:
+
 - Modeling the **Real, Symbolic, Imaginary (RSI)** triad as autonomous, interacting units minimizing free energy
+
 - Formalizing **desire** as dyadic synchronization of symbolic orders
+
 - Modeling **the Other** as an emergent triadic collective dynamic
+
 - Educational and research resources for linguists, psychoanalysts, AI researchers, and Humanistic AI data scientists.
+
 
 <br><br>
 

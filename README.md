@@ -54,7 +54,6 @@ By linking psychoanalysis with symbolic mathematics and computational frameworks
 
 ## [What’s Inside]()
 
-<br>
 
    - [**LaTeX/TikZ visualizations**]() of Lacan’s key graphs, including the Graph of Desire, with elements such as the barred subject ($\$$), Other ($A$), and objet petit a ($a$).
 
@@ -110,8 +109,8 @@ Recent computational work (e.g., Heins et al. 2025) embeds these concepts within
 
 ### [This formalization reveals]():
 
-- Desire as **generalized synchronization** between subjects’ symbolic orders
-- The **incompleteness and instability of the Other**, aligning with Lacan’s maxim “the Other does not exist”
+- Desire as [**generalized synchronization**]() between subjects’ symbolic orders
+- The [**incompleteness and instability of the Other**](), aligning with Lacan’s maxim “the Other does not exist”
 - How intersubjectivity and unconscious drives can be simulated as dynamical systems
 
 
@@ -139,9 +138,11 @@ A recent study ([Heins et al., 2025](https://doi.org/10.3389/fpsyg.2025.1574650)
 
 <br>
 
-- Models the Real, Symbolic, and Imaginary (RSI) orders as interacting autonomous systems minimizing free energy.
-- Simulates structures like the **Borromean knot**, **dyadic synchronization** (desire as metaphorical convergence), and **triadic collective behaviors** (the Other as emergent).
-- Demonstrates that the subject’s desire is ultimately the *desire of the Other*, and that “the Other does not exist”; mirroring Gödelian incompleteness.
+- Models the [Real](), [Symbolic](), and [Imaginary (RSI)]]() orders as interacting autonomous systems minimizing free energy.
+
+- Simulates structures like the [**Borromean knot**](), [**dyadic synchronization**]() (desire as metaphorical convergence), and [**triadic collective behaviors**]() (the Other as emergent).
+
+- Demonstrates that the subject’s desire is ultimately the [*desire of the Other*](), and that “the Other does not exist”; mirroring [**Gödelian incompleteness**]().
 
 <br>
 

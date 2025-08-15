@@ -53,10 +53,14 @@ By linking psychoanalysis with symbolic mathematics and computational frameworks
 ## [What’s Inside]()
 
 - [**LaTeX/TikZ visualizations**]() of Lacan’s key graphs, including the Graph of Desire, with elements such as the barred subject ($\$$), Other ($A$), and objet petit a ($a$).
+
 - [**Python Jupyter Notebooks**]() simulating Lacan-inspired dynamics using:
+
 - [**NetworkX**]() — graph nodes and edges visualization
+
 - [**Matplotlib**]() — plotting the vector of desire (horseshoe curve)
-- **SymPy** — symbolic logic to express Lacan’s sexuation mathemes
+
+- [**SymPy**]() — symbolic logic to express Lacan’s sexuation mathemes
 
 <br>
 

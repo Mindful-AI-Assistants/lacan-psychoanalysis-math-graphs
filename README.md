@@ -781,7 +781,7 @@ The **Complete Graph** is a complex [topological representation]() with [**two s
 
 <br>
 
-- The **lower chain** (from signifier to voice) represents the [**conscious signifying chain**](), the **level of the statement**.
+- The [**lower chain**]() (from signifier to voice) represents the [**conscious signifying chain**](), the **level of the statement**.
 
 - The [**upper chain**]() (from jouissance to castration) represents the [**signifying chain**]() in the unconscious**, the [**level of the enunciation**]().
 
@@ -793,13 +793,13 @@ The structure is duplicated, with the upper part of the graph mirroring the lowe
 
 [**Key elements in the Complete Graph:**]():
 
-- **$s(A)$**: The signified of the Other, the subject's position in relation to the meaning produced by the Other.
+- [**$s(A)$**](): The signified of the Other, the subject's position in relation to the meaning produced by the Other.
 
-- **$I(A)$**: The Ego Ideal, the point from which the subject is seen as likable by the Other.
+- [**$I(A)$**](): The Ego Ideal, the point from which the subject is seen as likable by the Other.
 
-- **(D)**: The subject in relation to demand, leading to the Drive.
+- [**(D)**](): The subject in relation to demand, leading to the Drive.
 
-- **$a$**: *Objet petit a*, the object-cause of desire, linked to jouissance.
+- [**$a$**](): *Objet petit a*, the object-cause of desire, linked to jouissance.
 
 <br>
 

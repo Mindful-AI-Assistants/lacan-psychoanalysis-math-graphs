@@ -74,21 +74,21 @@ By linking psychoanalysis with symbolic mathematics and computational frameworks
 
 <br>
 
-- Alienation, truth, and transference
+[-]() Alienation, truth, and transference
 
-- Embodiment and unconscious material formalization
+[-]() Embodiment and unconscious material formalization
 
-- Relationships between Lacanian theory and computational neuroscience
+[-]() Relationships between Lacanian theory and computational neuroscience
 
-- Latest research insights formalizing Lacan’s psychoanalysis with the **Free Energy Principle** approach:
+[-]() Latest research insights formalizing Lacan’s psychoanalysis with the **Free Energy Principle** approach:
 
-- Modeling the **Real, Symbolic, Imaginary (RSI)** triad as autonomous, interacting units minimizing free energy
+[-]() Modeling the **Real, Symbolic, Imaginary (RSI)** triad as autonomous, interacting units minimizing free energy
 
-- Formalizing **desire** as dyadic synchronization of symbolic orders
+[-]() Formalizing **desire** as dyadic synchronization of symbolic orders
 
-- Modeling **the Other** as an emergent triadic collective dynamic
+[-]() Modeling **the Other** as an emergent triadic collective dynamic
 
-- Educational and research resources for linguists, psychoanalysts, AI researchers, and Humanistic AI data scientists.
+[-]() Educational and research resources for linguists, psychoanalysts, AI researchers, and Humanistic AI data scientists.
 
 
 <br><br>

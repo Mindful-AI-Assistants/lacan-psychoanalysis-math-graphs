@@ -101,7 +101,7 @@ By linking psychoanalysis with symbolic mathematics and computational frameworks
 
 - The [**vector of desire**](), a horseshoe-shaped curve intersecting the chain
 
-- The [**barred subject**]()  ($\$$), or the divided self mediated by language
+- The [**barred subject**]()  ($\bar{\textdollar}$ , or the divided self mediated by language
 
 - The [**Other**]()  ($A$), symbolic authority shaping subject formation
 
@@ -110,7 +110,7 @@ By linking psychoanalysis with symbolic mathematics and computational frameworks
 
 <br>
 
-Recent computational work (e.g., Heins et al. 2025) embeds these concepts within the **Free Energy Principle (FEP)** framework, modeling living and cognitive systems as minimizing prediction error or "free energy."
+> Recent computational work (e.g., Heins et al. 2025) embeds these concepts within the **Free Energy Principle (FEP)** framework, modeling living and cognitive systems as minimizing prediction error or "free energy."
 
 <br>
 

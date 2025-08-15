@@ -332,7 +332,7 @@ nx.draw
 
  <br>
 
-- The **curved vectors** (from the barred Other, $\bar{\textdollar}$, toward desire ($d$) and the Other ($A$)) represent the **vector of desire**, the dynamic movement of the subject’s desire mediated by the symbolic Other.
+- The [**curved vectors**]() from the barred Other, $\bar{\textdollar}$, toward desire ($d$) and the Other ($A$)) represent the [**vector of desire**](), the dynamic movement of the subject’s desire mediated by the symbolic Other.
 
  <br>
 

@@ -842,11 +842,14 @@ The structure is duplicated, with the upper part of the graph mirroring the lowe
 
 <br><br>
 
-### The [Torsion]():
+## The [Torsion]():
 
 <br>
 
-https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
+[https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0](https://github.com/user-attachments/assets/9915b330-9845-421d-97ca-6f733d455db0
+
+##### 🎶  ***Creation  by Fabi***  🖤
+)
 
 
 

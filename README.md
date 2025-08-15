@@ -603,6 +603,7 @@ F \not\vdash \mathrm{Consis}(F)
 
 The psychoanalytic subject’s experience, according to Lacan, is marked by a structure of *lack*, which he calls the [**“Real”**](); a domain resisting full symbolization by the [**“Symbolic”**]()  (language and its rules). This Real is precisely what escapes any complete and closed formalization.
 
+
 <br>
 
  - The [**“Other”**]()  (in Lacanian theory, the symbolic instance) contains a fundamental [*lack*]() , a kind of **structural incompleteness** that prevents the subject from being perfectly represented or captured in totality.
@@ -649,7 +650,7 @@ Jacques Lacan's [**Graph of Desire**]() (or Graph of the Analytic Act) is a form
 
 <br>
 
-- [It is a **"flattened" representation** of the crossing between two pathways](): the **signifying chain** (sequence of linguistic signs with meaning) and the **vector of desire** (the will or volition of the subject, expressed metaphorically and timelessly). The graph thus captures how desire operates amidst language and symbolic limitation.
+- [It is a **"flattened" representation** of the crossing between two pathways](): the [**signifying chain**> (sequence of linguistic signs with meaning) and the **vector of desire** (the will or volition of the subject, expressed metaphorically and timelessly). The graph thus captures how desire operates amidst language and symbolic limitation.
 
 <br>
 
@@ -661,11 +662,11 @@ Jacques Lacan's [**Graph of Desire**]() (or Graph of the Analytic Act) is a form
 
 <br>
 
-- [Lacan used several versions or steps of these graphs](), beginning from a basic "elementary cell," progressively elaborating the formation of the ego ideal and the subject's positioning relative to the Other and the Law (notably, the “Name-of-the-Father” as symbolic prohibition).
+- [Lacan used several versions or steps of these graphs](), beginning from a basic "elementary cell," progressively elaborating the formation of the ego ideal and the subject's positioning relative to the Other and the Law; notably, the [“Name-of-the-Father”]() as [symbolic prohibition]().
 
 <br>
 
-- The graph illustrates how [**desire is always the desire of the Other**]() , meaning the subject seeks desire validated or recognized by the symbolic Other—the social or linguistic Otherness that shapes subjectivity.
+- The graph illustrates how [**desire is always the desire of the Other**]() , meaning the subject seeks desire validated or recognized by the [symbolic Other]() — the social or linguistic Otherness that shapes subjectivity.
 
 <br>
 
@@ -673,20 +674,20 @@ Jacques Lacan's [**Graph of Desire**]() (or Graph of the Analytic Act) is a form
   
 <br>
 
-In sum, Lacan’s Graph of Desire is a conceptual and formal tool to map the [relations]() between [language]() , [desire](), the split subject, and the unconscious in psychoanalytic theory. It is often studied to understand how [desire]()  eludes fulfillment while [structuring]()  human subjectivity within [symbolic and imaginary dimensions]().
+In sum, Lacan’s Graph of Desire is a conceptual and formal tool to map the [relations]() between [language]() , [desire](), the [split subject](), and the [unconscious]() in psychoanalytic theory. It is often studied to understand how [desire]()  eludes fulfillment while [structuring]()  human subjectivity within [symbolic and imaginary dimensions]().
 
 
 <br><br>
 
 
 | [Aspect]()                    | [Description]()                                                                                  |
-|-----------------------------|--------------------------------------------------------------------------------------------------|
-| Signifying chain (S → S')   | Linguistic progression from sign to meaning with duration                                         |
-| Vector of desire            | Metaphorical, atemporal representation of the subject’s volition and desire (*$*)                 |
-| Split subject (*$*)         | Barred subject formed by loss and language mediation, fundamentally divided and lacking          |
-| Crossings                   | Points of Freudian double inscription—interaction of conscious and unconscious meaning             |
-| Ego ideal and Law           | Formation of ego ideal and imposition of symbolic Law (e.g., Name-of-the-Father) outline subject’s position |
-| Desire                      | Always the desire of the Other; subject’s desire mediated by symbolic Other                        |
+|----------------------------- |--------------------------------------------------------------------------------------------------|
+| [Signifying chain (S → S')]()   | Linguistic progression from sign to meaning with duration                                         |
+| [Vector of desire]()              | Metaphorical, atemporal representation of the subject’s volition and desire (*$*)                 |
+| [Split subject (*$*)]()         | Barred subject formed by loss and language mediation, fundamentally divided and lacking          |
+| [Crossings]()                   | Points of Freudian double inscription—interaction of conscious and unconscious meaning             |
+| [Ego ideal and Law]()           | Formation of ego ideal and imposition of symbolic Law (e.g., Name-of-the-Father) outline subject’s position |
+| [Desire]()                      | Always the desire of the Other; subject’s desire mediated by symbolic Other                        |
 
 
 <br>

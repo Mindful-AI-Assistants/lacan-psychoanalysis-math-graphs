@@ -208,7 +208,7 @@ jupyter lab
 
 <br>
 
-This repository enables visualization and symbolic analysis of **Lacan’s Graph of Desire**:
+> This repository enables visualization and symbolic analysis of **Lacan’s Graph of Desire**:
 
 <br>
 

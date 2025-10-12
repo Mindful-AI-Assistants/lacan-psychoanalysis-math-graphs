@@ -1306,7 +1306,7 @@ Additionally, [**Dr. André**]() contributes actively to [**MindfulAI**](), work
 
 <br>
 
-Thanks to his **partnership and contribution**, part of this project’s results will be presented at the **[Summit IEIA](https://www.summitieia.com/)** — the leading Latin American event on **Emotional Intelligence** and **Artificial Intelligence** — reinforcing the **scientific and social impact** of research in **applied mental health and digital ethics**.
+Thanks to his [**partnership**]() and [**contribution**](), part of this project’s results will be presented at the [**Summit IEIA**](https://www.summitieia.com/) — the leading Latin American event on [**Emotional Intelligence**]() and [**Artificial Intelligence**]() — reinforcing the [***Scientific***]() and [***Social Impact***]() of research in [**applied Mental Health**]() and [**Digital Ethics**]().
 
 
 

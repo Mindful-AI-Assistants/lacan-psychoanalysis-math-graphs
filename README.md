@@ -1298,7 +1298,7 @@ The Borromean knot models how the Real, Symbolic, and Imaginary need to be linke
 
 <br>
 
-This repository will continue to develop with the valuable support of [**Dr. André Luis Iório**](), a [**Psychiatrist]() and [Physician**]() graduated from the [**University of São Paulo (USP)**]() and [**Ph.D. in Clinical Psychology** from **PUC-SP**](). His expertise integrates [**clinical rigor**](), [**ethics**](), and [**interdisciplinarity**](), fostering the integration of [**psychoanalysis**](), [**mathematics**](), and [**artificial intelligence**]().  
+This repository will continue to develop with the valuable support of [**Dr. André Luis Iório**](), a [***Psychiatrist***]() and [Physician**](), graduated from the [**University of São Paulo (USP)**]() and [***Ph.D. in Clinical Psychology** from **PUC-SP***](). His expertise integrates [***Clinical Rigor***](), [***Ethics***](), and [***Interdisciplinarity***](), fostering the integration of [***Psychoanalysis***](), [***Mathematics***](), and [***Artificial intelligence***]().  
 
 <br>
 

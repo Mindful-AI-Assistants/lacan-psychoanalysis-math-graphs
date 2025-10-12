@@ -19,7 +19,7 @@
 
 ## [Contributors]()
 
-<br><br>
+<br>
 
 > [!TIP]
 >

@@ -21,9 +21,10 @@
 
 <br>
 
--  𝚿 👩🏻‍🚀 [**Dr. André Iório, Ph.D. in Clinical Psychiatry and Psychology**](https://saudemental.space/)
+-   👩🏻‍🚀 [**Dr. André Iório, Ph.D. in Clinical Psychiatry and Psychology**](https://saudemental.space/) 𝚿  *Medical Doctor, Psychiatrist, graduated from USP**; **Ph.D. in Clinical Psychology, PUC-SP** 
 
--  𝚿 👩🏻‍🚀 [**Fabiana ⚡️ Campanari**](https://linktr.ee/fabianacampanari) 
+-   👩🏻‍🚀 [**Fabiana ⚡️ Campanari**](https://linktr.ee/fabianacampanari) 𝚿 **Psychologist, PUC-SP**; **Undergraduate in Humanistic AI & Data Science, PUC-SP** 
+
 
 
 

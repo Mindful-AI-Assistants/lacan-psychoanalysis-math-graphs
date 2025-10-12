@@ -1292,23 +1292,22 @@ The Borromean knot models how the Real, Symbolic, and Imaginary need to be linke
 - Each figure represents not just a metaphor but a dynamic, formalized mode of how subjectivity and desire operate, especially where simple spatial metaphors break down.
 
 
+
 <br><br>
 
-##  [Acknowledgment]()
+## [Acknowledgment]()
 
 <br>
 
-
-This repository will continue to develop with the valuable support of [**Dr. André Iório, Ph.D.**](), in [**Clinical Psychiatry and Psychology**]() graduated from the [**University of São Paulo (USP)**]() and [**Ph.D. in Clinical Psychology** from **PUC-SP**](). His expertise integrates [***Clinical Rigor***](), [***Ethics***](), and [***Interdisciplinarity***](), fostering the integration of [***Psychoanalysis***](), [***Mathematics***](), and [***Artificial intelligence***]().  
-
-<br>
-
-Additionally, [**Dr. André**]() contributes actively to [**MindfulAI**](), working with the [**Mindful Technology**]() without involvement in clinical treatments. In his professional practice of [**Psychiatry**](), and [**Psychotherapy**](), he employs [**Mindful Techniques**]() as part of clinical care, strengthening the integration of Science, Technology, and Mental Health. 
+This repository will continue to develop with the valuable support of [<span style="color:teal"><b>Dr. André Iório, Ph.D.</b></span>]() specialized in [<span style="color:teal"><b>Clinical Psychiatry and Psychology</b></span>]() and graduated from the [<span style="color:teal"><b>University of São Paulo (USP)</b></span>]() as well as [<span style="color:teal"><b>Ph.D. in Clinical Psychology from PUC-SP</b></span>](). His expertise integrates [<span style="color:green"><b><i>Clinical Rigor</i></b></span>](), [<span style="color:green"><b><i>Ethics</i></b></span>](), and [<span style="color:green"><b><i>Interdisciplinarity</i></b></span>](), fostering the integration of [<span style="color:green"><b><i>Psychoanalysis</i></b></span>](), [<span style="color:green"><b><i>Mathematics</i></b></span>](), and [<span style="color:green"><b><i>Artificial Intelligence</i></b></span>]().  
 
 <br>
 
-Thanks to his [**partnership**]() and [**contribution**](), part of this project’s results will be presented at the [**Summit IEIA**](https://www.summitieia.com/) — the [***Leading International Event***]() on [***Emotional Intelligence***]() and [***Artificial Intelligence***]() — reinforcing the [***Scientific***]() and [***Social Impact***]() of research in [**Applied Mental Health**]() and [**Digital Ethics**]().
+Additionally, [<span style="color:teal"><b>Dr. André</b></span>]() contributes actively to [<span style="color:teal"><b>MindfulAI</b></span>](), working with the [<span style="color:teal"><b>Mindful Technology</b></span>](), without involvement in clinical treatments. In his professional practice of [<span style="color:teal"><b>Psychiatry</b></span>](), and [<span style="color:teal"><b>Psychotherapy</b></span>](), he employs [<span style="color:green"><b><i>Mindful Techniques</i></b></span>](), strengthening the integration of <span style="color:green"><b>Science</b></span>, <span style="color:green"><b>Technology</b></span>, and <span style="color:green"><b>Mental Health</b></span>.  
 
+<br>
+
+Thanks to his [<span style="color:teal"><b>partnership</b></span>](), and [<span style="color:teal"><b>contribution</b></span>](), part of this project’s results will be presented at the [<span style="color:teal"><b>Summit IEIA</b></span>](https://www.summitieia.com/) — the [<span style="color:green"><b><i>Leading International Event</i></b></span>](), on [<span style="color:green"><b><i>Emotional Intelligence</i></b></span>](), and [<span style="color:green"><b><i>Artificial Intelligence</i></b></span>](), — reinforcing the [<span style="color:green"><b><i>scientific</i></b></span>](), and [<span style="color:green"><b><i>social impact</i></b></span>](), of research in [<span style="color:teal"><b>Applied Mental Health</b></span>](), and [<span style="color:teal"><b>Digital Ethics</b></span>]().
 
 
 

@@ -19,22 +19,26 @@
 
 ## [Contributors]()
 
+<br><br>
+
+
+𝚿 👩🏻‍🚀 [**Dr. André Iório, Ph.D. in Clinical Psychiatry and Psychology**](https://saudemental.space/) - *Medical Doctor, Psychiatrist, graduated from USP**; **Ph.D. in Clinical Psychology, PUC-SP** 
+
 <br>
 
--   𝚿 👩🏻‍🚀 [**Dr. André Iório, Ph.D. in Clinical Psychiatry and Psychology**](https://saudemental.space/) - *Medical Doctor, Psychiatrist, graduated from USP**; **Ph.D. in Clinical Psychology, PUC-SP** 
 
--   𝚿 👩🏻‍🚀 [**Fabiana ⚡️ Campanari**](https://linktr.ee/fabianacampanari) 𝚿- **Psychologist, PUC-SP**; **Undergraduate in Humanistic AI & Data Science, PUC-SP** 
-
+𝚿 👩🏻‍🚀 [**Fabiana ⚡️ Campanari**](https://linktr.ee/fabianacampanari) - **Psychologist, PUC-SP**; **Undergraduate in Humanistic AI & Data Science, PUC-SP** 
 
 
 
-<br><br><br>
+
+<br><br><br><br>
 
 
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
 
-<br><br><br>
+<br><br><br><br>
 
 <!--Video 1  -->
 

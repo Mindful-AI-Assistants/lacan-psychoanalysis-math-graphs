@@ -1,4 +1,11 @@
+
 <br>
+
+ \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
+
+
+<br><br>
+
 
 ## <p align="center"> 𝚿 [Lacan’s Graph of Desire]() 𝛷 [Mathematical Formalization \& Computational Psychoanalysis]()  ⚤
 
@@ -10,16 +17,30 @@
 <br><br>
 
 
+## [Contributors]()
+
+<br>
+
+-  𝚿 👩🏻‍🚀 [**Dr. André Iório, Ph.D. in Clinical Psychiatry and Psychology**](https://saudemental.space/)
+
+-  𝚿 👩🏻‍🚀 [**Fabiana ⚡️ Campanari**](https://linktr.ee/fabianacampanari) 
+
+
+
+<br><br><br>
+
+
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
 
-<br><br>
+<br><br><br>
 
 <!--Video 1  -->
 
 https://github.com/user-attachments/assets/7380e439-6547-400b-8ef1-d03d2f9bf2e0
 
-<br><br>
+<br><br><br>
+
 
 ## Table of Contents
 

@@ -36,7 +36,7 @@ https://github.com/user-attachments/assets/7380e439-6547-400b-8ef1-d03d2f9bf2e0
 - [Lacan’s Graph of Desire: A Comprehensive Visual Guide]()
 - [Lacan and the Möbius Strip - Topology, Psychoanalysis, and Representation]()
 - [Lacan’s Topological Figures Beyond the Möbius - TORUS]()
-- [Acknowledgment]()
+- [Acknowledgment](#acknowledment)
 - [Resources and References]()
 - [Contributing](#contributing)
 - [Let the data flow... Ping Me !]()

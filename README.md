@@ -7,7 +7,7 @@
 <br><br>
 
 
-## <p align="center"> 𝚿 [Lacan’s Graph of Desire]() 𝛷 [Mathematical Formalization \& Computational Psychoanalysis]()  ⚤
+# <p align="center"> 𝚿 [Lacan’s Graph of Desire]() 𝛷 [Mathematical Formalization \& Computational Psychoanalysis]()  ⚤
 
 <br>
 
@@ -21,18 +21,28 @@
 
 <br><br>
 
-
-𝚿 👩🏻‍🚀 [**Dr. André Iório, Ph.D. in Clinical Psychiatry and Psychology**](https://saudemental.space/) - *Medical Doctor, Psychiatrist, graduated from USP*; *Ph.D. in Clinical Psychology, PUC-SP*
-
-<br>
-
-
-𝚿 👩🏻‍🚀 [**Fabiana ⚡️ Campanari**](https://linktr.ee/fabianacampanari) - *Psychologist, PUC-SP*; *Undergraduate in Humanistic AI & Data Science, PUC-SP* 
-
-
+> [!TIP]
+>
+> 𝚿 👩🏻‍🚀 [**Dr. André Iório, Ph.D. in Clinical Psychiatry and Psychology**](https://saudemental.space/) - *Medical Doctor, Psychiatrist, graduated from USP*; *Ph.D. in Clinical Psychology, PUC-SP*
+>
+> 𝚿 👩🏻‍🚀 [**Fabiana ⚡️ Campanari**](https://linktr.ee/fabianacampanari) - *Psychologist, PUC-SP*; *Undergraduate in Humanistic AI & Data Science, PUC-SP*
+>
+ 
 
 
 <br><br><br><br>
+
+
+> [!IMPORTANT]
+>
+> 
+> * Part of this project’s results will be presented by [**Dr. André Iório**](https://saudemental.space/) at the [**Summit IEIA**](https://www.summitieia.com/) — the [*Leading International Event*]() on [*Emotional Intelligence & Artificial Intelligence*]().
+>
+>
+
+
+
+<br><br><br><br><br>
 
 
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)

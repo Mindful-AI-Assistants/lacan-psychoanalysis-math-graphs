@@ -1298,18 +1298,15 @@ The Borromean knot models how the Real, Symbolic, and Imaginary need to be linke
 
 <br>
 
-This repository will continue to develop with the valuable support of **Dr. André Luis Iório**](), a [**psychiatrist and physician**]() graduated from the University of São Paulo [**(USP)**]() and [**Ph.D. in Clinical Psychology** from **PUC-SP**](). His expertise integrates **clinical rigor**, [**ethics**](), and [**interdisciplinarity**](), fostering the integration of [**psychoanalysis**](), **mathematics**, and **artificial intelligence**.  
+This repository will continue to develop with the valuable support of [**Dr. André Luis Iório**](), a [**Psychiatrist]() and [Physician**]() graduated from the [**University of São Paulo (USP)**]() and [**Ph.D. in Clinical Psychology** from **PUC-SP**](). His expertise integrates [**clinical rigor**](), [**ethics**](), and [**interdisciplinarity**](), fostering the integration of [**psychoanalysis**](), [**mathematics**](), and [**artificial intelligence**]().  
 
 <br>
 
-Additionally, **Dr. André contributes actively to MindfulAI**, strengthening the integration of science, technology, and mental health. Thanks to his **partnership and contribution**, part of this project’s results will be presented at the **[Summit IEIA](https://www.summitieia.com/)** — the leading Latin American event on **Emotional Intelligence** and **Artificial Intelligence** — reinforcing the **scientific and social impact** of research in **applied mental health and digital ethics**.
+Additionally, [**Dr. André**]() contributes actively to [**MindfulAI**](), working with the [**Mindful Technology**]() without involvement in clinical treatments. In his professional practice of [**Psychiatry**](), and [**Psychotherapy**](), he employs [**Mindful Techniques**]() as part of clinical care, strengthening the integration of Science, Technology, and Mental Health. 
 
+<br>
 
-
-
-
-
-
+Thanks to his **partnership and contribution**, part of this project’s results will be presented at the **[Summit IEIA](https://www.summitieia.com/)** — the leading Latin American event on **Emotional Intelligence** and **Artificial Intelligence** — reinforcing the **scientific and social impact** of research in **applied mental health and digital ethics**.
 
 
 

@@ -49,7 +49,7 @@
 >
 > <br>
 >
-> * Part of this project’s results will be presented by [**Dr. André Iório**](https://www.linkedin.com/in/andre-iorio-40721b170/) at the [**Summit IEIA**](https://www.summitieia.com/) — the [*Leading International Event*]() on [*Emotional Intelligence & Artificial Intelligence*]().
+> * Part of this project’s results will be presented by [**Dr. André Iório**](https://www.linkedin.com/in/andre-iorio-40721b170/) at The [**Summit IEIA**](https://www.summitieia.com/) — the [*Leading International Event*]() on [*Emotional Intelligence & Artificial Intelligence*]().
 >
 > <br>
 

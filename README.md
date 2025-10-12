@@ -1294,8 +1294,32 @@ The Borromean knot models how the Real, Symbolic, and Imaginary need to be linke
 
 <br><br>
 
+##  [Acknowledgment]()
+
+<br>
+
+This repository will continue to develop with the valuable support of **Dr. André Luis Iório**](), a [**psychiatrist and physician**]() graduated from the University of São Paulo [**(USP)**]() and [**Ph.D. in Clinical Psychology** from **PUC-SP**](). His expertise integrates **clinical rigor**, [**ethics**](), and [**interdisciplinarity**](), fostering the integration of [**psychoanalysis**](), **mathematics**, and **artificial intelligence**.  
+
+<br>
+
+Additionally, **Dr. André contributes actively to MindfulAI**, strengthening the integration of science, technology, and mental health. Thanks to his **partnership and contribution**, part of this project’s results will be presented at the **[Summit IEIA](https://www.summitieia.com/)** — the leading Latin American event on **Emotional Intelligence** and **Artificial Intelligence** — reinforcing the **scientific and social impact** of research in **applied mental health and digital ethics**.
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+
 
 ## [Resources and References]()
+
+<br>
 
 - **Heins, R., et al. (2025).** *Formalizing Lacanian psychoanalysis through the free energy principle: computational simulations of desire, the Borromean knot, and the Other.* Frontiers in Psychology. [DOI:10.3389/fpsyg.2025.1574650](https://doi.org/10.3389/fpsyg.2025.1574650)
 

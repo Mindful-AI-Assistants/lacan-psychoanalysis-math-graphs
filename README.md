@@ -38,7 +38,7 @@
 > [!IMPORTANT]
 >
 > 
-> * Part of this project’s results will be presented by [**Dr. André Iório**](https://saudemental.space/) at the [**Summit IEIA**](https://www.summitieia.com/) — the [*Leading International Event*]() on [*Emotional Intelligence & Artificial Intelligence*]().
+> * Part of this project’s results will be presented by [**Dr. André Iório**](https://www.linkedin.com/in/andre-iorio-40721b170/) at the [**Summit IEIA**](https://www.summitieia.com/) — the [*Leading International Event*]() on [*Emotional Intelligence & Artificial Intelligence*]().
 >
 >
 
@@ -1398,17 +1398,6 @@ Thanks to his [<span style="color:teal"><b>partnership</b></span>](), and [<span
 
      
  ### <p align="center"> [![Auto Assign](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/auto-assign.yml)  [![Proof HTML](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml/badge.svg)](https://github.com/AI-Powered-Bots/demo-repository/actions/workflows/proof-html.yml)   
-
-
-<br><br>
-
-## [Contributors]() :
-
-<br>
-
-- 👩🏻‍🚀 [**Dr. André Iório, Ph.D. in Clinical Psychiatry and Psychology**](https://saudemental.space/)  𝚿 
-
-- 👩🏻‍🚀 [**Fabiana ⚡️ Campanari**](https://linktr.ee/fabianacampanari) 𝚿 
 
 
 <br><br>

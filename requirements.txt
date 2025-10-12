@@ -7,22 +7,24 @@ Django==5.1.7
 
 
 # Data Manipulation Libraries:
-numpy==2.2.3
+numpy==2.3.3
 pandas==2.3.2
 
 # Data Visualization Libraries:
-matplotlib==3.10.1
+matplotlib==3.10.6
 seaborn==0.13.2
 
 # Data Analysis Libraries:
+
 scipy==1.16.2
 scikit-learn==1.6.1
 
+
 # Machine Learning Libraries:
 tensorflow==2.20.0
-keras==3.10.0
+keras==3.11.3
 tensorflow==2.20.0
-keras==3.10.0
+keras==3.11.3
 
 
 # Natural Language Processing Libraries:

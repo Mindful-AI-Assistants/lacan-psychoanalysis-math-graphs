@@ -23,13 +23,17 @@
 
 > [!TIP]
 >
+>  <br>
+>
+>  <br>
 > 
 > 𝚿 - [**Dr. André Iório, Ph.D. in Clinical Psychiatry and Psychology**](https://saudemental.space/) - *Medical Doctor, Psychiatrist, graduated from USP*; *Ph.D. in Clinical Psychology, PUC-SP*
 >
-> 
+> <br>
+>
 > 𝚿 - [**Fabiana ⚡️ Campanari**](https://linktr.ee/fabianacampanari) - *Psychologist, PUC-SP*; *Undergraduate in Humanistic AI & Data Science, PUC-SP*
 >
- 
+> <br> 
 
 
 <br><br>
@@ -41,10 +45,13 @@
 
 > [!IMPORTANT]
 >
-> 
+> <br>
+>
+> <br>
+>
 > * Part of this project’s results will be presented by [**Dr. André Iório**](https://www.linkedin.com/in/andre-iorio-40721b170/) at the [**Summit IEIA**](https://www.summitieia.com/) — the [*Leading International Event*]() on [*Emotional Intelligence & Artificial Intelligence*]().
 >
->
+> <br>
 
 
 

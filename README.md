@@ -1298,7 +1298,8 @@ The Borromean knot models how the Real, Symbolic, and Imaginary need to be linke
 
 <br>
 
-This repository will continue to develop with the valuable support of [**Dr. André Luis Iório**](), a [***Psychiatrist***]() and [***Physician***](), graduated from the [**University of São Paulo (USP)**]() and [**Ph.D. in Clinical Psychology** from **PUC-SP**](). His expertise integrates [***Clinical Rigor***](), [***Ethics***](), and [***Interdisciplinarity***](), fostering the integration of [***Psychoanalysis***](), [***Mathematics***](), and [***Artificial intelligence***]().  
+
+This repository will continue to develop with the valuable support of [**Dr. André Iório, Ph.D.**](), in [**Clinical Psychiatry and Psychology**]() graduated from the [**University of São Paulo (USP)**]() and [**Ph.D. in Clinical Psychology** from **PUC-SP**](). His expertise integrates [***Clinical Rigor***](), [***Ethics***](), and [***Interdisciplinarity***](), fostering the integration of [***Psychoanalysis***](), [***Mathematics***](), and [***Artificial intelligence***]().  
 
 <br>
 
@@ -1364,9 +1365,20 @@ Thanks to his [**partnership**]() and [**contribution**](), part of this project
 
 <br><br>
 
+## [Contributors]() :
 
+<br>
+
+- 👩🏻‍🚀 [**Dr. André Iório, Ph.D. in Clinical Psychiatry and Psychology**](https://saudemental.space/)  𝚿 
+
+- 👩🏻‍🚀 [**Fabiana ⚡️ Campanari**](https://linktr.ee/fabianacampanari) 𝚿 
+
+
+<br><br>
 
 ## [Contributing]()
+
+<br>
 
 Contributions welcome from psychoanalysts, AI researchers, linguists, and data scientists! Please:
 

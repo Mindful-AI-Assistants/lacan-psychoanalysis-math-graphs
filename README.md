@@ -9,12 +9,12 @@
 
 # <p align="center"> 𝚿 [Lacan’s Graph of Desire]() 𝛷 [Mathematical Formalization \& Computational Psychoanalysis]()  ⚤
 
-<br>
-
-[Jacques Lacan’s](), [ **Graph of Desire**]() (French: *graphe du désir*) is a central conceptual tool in his psychoanalytic theory. It is a **topological model** that graphically represents the intricate structure of human desire and subjectivity as mediated by language and the Symbolic Other . Developed across his seminars, notably in [*Les formations de l'inconscient* (1957-58)]() and [*The Subversion of the Subject and the Dialectic of Desire* (1960)](), the graph illustrates the "logical moments" of the speaking subject's formation, rather than a chronological development .
-
-
 <br><br>
+
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+
+
+<br><br><br>
 
 
 ## [Contributors]()
@@ -22,8 +22,6 @@
 <br>
 
 > [!TIP]
->
->  <br>
 >
 >  <br>
 > 
@@ -45,9 +43,6 @@
 
 > [!IMPORTANT]
 >
-> <br>
->
-> <br>
 >
 > * Part of this project’s results will be presented by [**Dr. André Iório**](https://www.linkedin.com/in/andre-iorio-40721b170/) at The [**Summit IEIA**](https://www.summitieia.com/) — the [*Leading International Event*]() on [*Emotional Intelligence & Artificial Intelligence*]().
 >
@@ -55,13 +50,9 @@
 
 
 
-<br><br><br><br><br>
+<br><br><br>
 
 
-#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
-
-
-<br><br><br><br>
 
 <!--Video 1  -->
 
@@ -73,6 +64,7 @@ https://github.com/user-attachments/assets/7380e439-6547-400b-8ef1-d03d2f9bf2e0
 ## Table of Contents
 
 - [Overview](#overview)
+- [Introduction](#introduction)
 - [What’s Inside](#what’sinside)
 - [Background on Lacan and Computational Psychoanalysis]()
 - [Key Concepts](#key-concepts)
@@ -93,11 +85,20 @@ https://github.com/user-attachments/assets/7380e439-6547-400b-8ef1-d03d2f9bf2e0
 
 <br><br>
 
-## [Overview]():
+## [Overview]()
 
 This repository offers a deep exploration of [**Jacques Lacan’s psychoanalytic theory**](), focusing on the [**Graph of Desire**]() and associated [*mathemes*]() formal symbolic and topological representations of unconscious subjectivity and desire.
 
 By linking psychoanalysis with symbolic mathematics and computational frameworks such as the [**Free Energy Principle (FEP)**](), this project bridges psychoanalysis, linguistics, cognitive science, and [**Humanistic AI**]().
+
+
+<br><br>
+
+
+## [Introduction]()
+
+[Jacques Lacan’s](), [ **Graph of Desire**]() (French: *graphe du désir*) is a central conceptual tool in his psychoanalytic theory. It is a **topological model** that graphically represents the intricate structure of human desire and subjectivity as mediated by language and the Symbolic Other . Developed across his seminars, notably in [*Les formations de l'inconscient* (1957-58)]() and [*The Subversion of the Subject and the Dialectic of Desire* (1960)](), the graph illustrates the "logical moments" of the speaking subject's formation, rather than a chronological development .
+
 
 
 <br><br>

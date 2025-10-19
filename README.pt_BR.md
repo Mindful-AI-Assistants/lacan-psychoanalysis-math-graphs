@@ -50,6 +50,39 @@
 
 <br><br><br><br>
 
+> [!TIP]
+>
+>  
+>  #### 🎧 *Lectures on Lacan* — [ ***Seminário XXI: Les non-dupes errent*** ]()
+>
+>
+>  #### por [**Prof. Dr. Samuel McCormick**]()
+>
+> 
+>   ##### [*“Os não-enganados erram”*]() — O jogo de palavras enigmático de Lacan explora como aqueles que acreditam não serem enganados pelas estruturas simbólicas são, na verdade, os mais presos a elas.
+>
+> <br>
+> 
+> * [**Episódio 1**](https://lecturesonlacan.substack.com/p/les-non-dupes-errent-seminar-xxi) — Introdução a *Les non-dupes errent*, contextualizando a transição de Lacan do triângulo Real–Imaginário–Simbólico para questões de crença, engano e estrutura do conhecimento.
+>
+>
+> * [**Episódio 2**](https://lecturesonlacan.substack.com/p/les-non-dupes-errent-seminar-xxi-1f0) — Explora como a “não-duplicidade” conduz a novas formas de cegueira; aqueles que “veem através” da ideologia permanecem presos às suas coordenadas invisíveis.
+>
+>
+> * [**Episódio 3**](https://lecturesonlacan.substack.com/p/les-non-dupes-errent-seminar-xxi-a9a) — Discute os “quatro discursos” e sua reconfiguração à luz de *Les non-dupes errent*, abordando a escuta psicanalítica e a autoridade simbólica.
+>
+>
+> * [**Episódio 4**](https://lecturesonlacan.substack.com/p/les-non-dupes-errent-seminar-xxi-076) — Investiga como o tempo, a repetição e o mal-entendido sustentam o desejo, ecoando a ideia de que “a verdade fala através do equívoco”.
+>
+>
+> * [**Episódio 5**](https://lecturesonlacan.substack.com/p/les-non-dupes-errent-seminar-xxi-df0) — Uma reflexão sobre a crença e o Real, examinando como fé e erro se entrelaçam na formação do sujeito e no discurso.
+>
+>
+> <br>
+
+
+<br><br><br><br>
+
 <!--Video 1  -->
 
 https://github.com/user-attachments/assets/7380e439-6547-400b-8ef1-d03d2f9bf2e0

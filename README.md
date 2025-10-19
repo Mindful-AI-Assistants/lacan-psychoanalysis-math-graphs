@@ -58,6 +58,22 @@
 
 https://github.com/user-attachments/assets/7380e439-6547-400b-8ef1-d03d2f9bf2e0
 
+
+<br><br><br>
+
+
+
+### 🎧 Lectures on Lacan — Seminar XXI: ***Les non-dupes errent***
+
+### by [**Prof. Dr. Samuel McCormick**]()
+
+##### V*“The non-duped err” — Lacan’s cryptic play on words explores how those who believe themselves not fooled by symbolic structures are, in fact, most caught within them.*
+
+
+
+
+
+
 <br><br><br>
 
 

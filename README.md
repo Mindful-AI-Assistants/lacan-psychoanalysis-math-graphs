@@ -81,7 +81,7 @@ https://github.com/user-attachments/assets/7380e439-6547-400b-8ef1-d03d2f9bf2e0
 >  * 	[Episode 2](https://lecturesonlacan.substack.com/p/les-non-dupes-errent-seminar-xxi-1f0) — Explores how non-dupery leads to new forms of blindness; those who “see through” ideology remain bound by its invisible coordinates.
 >
 > 
->  * 	[Episode 3]() — Discusses the “four discourses” and their reconfiguration in light of non-dupes errent, touching on psychoanalytic listening and symbolic authority.
+>  * 	[Episode 3](https://lecturesonlacan.substack.com/p/les-non-dupes-errent-seminar-xxi-a9a) — Discusses the “four discourses” and their reconfiguration in light of non-dupes errent, touching on psychoanalytic listening and symbolic authority.
 >
 > 
 >  * 	[Episode 4](https://lecturesonlacan.substack.com/p/les-non-dupes-errent-seminar-xxi-076) — Investigates how time, repetition, and misunderstanding sustain desire, echoing the idea that “truth speaks through misrecognition.”
